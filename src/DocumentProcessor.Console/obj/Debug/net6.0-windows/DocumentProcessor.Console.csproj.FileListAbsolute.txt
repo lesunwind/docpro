@@ -1,0 +1,50 @@
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.exe
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.deps.json
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.runtimeconfig.json
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.pdb
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.csproj.AssemblyReference.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.AssemblyInfoInputs.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.AssemblyInfo.cs
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.csproj.CoreCompileInputs.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\Document.0B7DFDC7.Up2Date
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\refint\DocumentProcessor.Console.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.pdb
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.genruntimeconfig.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\ref\DocumentProcessor.Console.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.exe
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.deps.json
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.runtimeconfig.json
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Console.pdb
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\bin\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.csproj.AssemblyReference.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.AssemblyInfoInputs.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.AssemblyInfo.cs
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.csproj.CoreCompileInputs.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\Document.0B7DFDC7.Up2Date
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\refint\DocumentProcessor.Console.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.pdb
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\DocumentProcessor.Console.genruntimeconfig.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Console\obj\Debug\net6.0-windows\ref\DocumentProcessor.Console.dll

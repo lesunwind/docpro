@@ -1,0 +1,4870 @@
+2025-03-18 11:07:08.694 - Logging initialized
+2025-03-18 11:07:08.698 - Application started
+2025-03-18 14:16:11.504 - Extract button clicked
+2025-03-18 14:16:11.506 - Selected 29 section paths
+2025-03-18 14:16:11.507 - Selected path 1: GENERAL INFORMATION
+2025-03-18 14:16:11.507 - Selected path 2: GENERAL INFORMATION > Overview
+2025-03-18 14:16:11.507 - Selected path 3: GENERAL INFORMATION > Overview > Scope
+2025-03-18 14:16:11.508 - Selected path 4: GENERAL INFORMATION > Overview > Abbreviations and Acronyms
+2025-03-18 14:16:11.508 - Selected path 5: GENERAL INFORMATION > Overview > Referenced Documents
+2025-03-18 14:16:11.508 - Selected path 6: GENERAL INFORMATION > System Description
+2025-03-18 14:16:11.509 - Selected path 7: GENERAL INFORMATION > System Description > Operating Sites
+2025-03-18 14:16:11.509 - Selected path 8: GENERAL INFORMATION > System Description > Ground Datalink Configurations
+2025-03-18 14:16:11.509 - Selected path 9: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Direct LOS Configuration
+2025-03-18 14:16:11.510 - Selected path 10: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Reach Configuration
+2025-03-18 14:16:11.510 - Selected path 11: GENERAL INFORMATION > System Description > Ground Datalink Configurations > BLOS Configuration
+2025-03-18 14:16:11.510 - Selected path 12: GENERAL INFORMATION > System Description > Multiple Datalink Capabilities
+2025-03-18 14:16:11.510 - Selected path 13: GENERAL INFORMATION > System Description > Mission Threads
+2025-03-18 14:16:11.511 - Selected path 14: GENERAL INFORMATION > System Description > Mission Threads > ASARS-2A Data from Reach Site to Core Site
+2025-03-18 14:16:11.511 - Selected path 15: GENERAL INFORMATION > System Description > Mission Threads > ASARS-2A Data from RGS to Core Site
+2025-03-18 14:16:11.511 - Selected path 16: GENERAL INFORMATION > System Description > APS+ Description
+2025-03-18 14:16:11.512 - Selected path 17: GENERAL INFORMATION > System Description > APS+ Description > APS+ Software Environment
+2025-03-18 14:16:11.512 - Selected path 18: GENERAL INFORMATION > System Description > APS+ Description > APS+ Interfaces
+2025-03-18 14:16:11.512 - Selected path 19: GENERAL INFORMATION > System Description > APS+ Description > Mission Control Interface (MCI)
+2025-03-18 14:16:11.513 - Selected path 20: GENERAL INFORMATION > System Description > APS+ Description > Sensor Control Workstation (SCWS)
+2025-03-18 14:16:11.513 - Selected path 21: GENERAL INFORMATION > System Description > APS+ Description > Common Sensor Planner (CSP)
+2025-03-18 14:16:11.514 - Selected path 22: GENERAL INFORMATION > System Description > APS+ Concept of Operations
+2025-03-18 14:16:11.514 - Selected path 23: GENERAL INFORMATION > System Description > APS+ Concept of Operations > Pre-Mission Operation
+2025-03-18 14:16:11.515 - Selected path 24: GENERAL INFORMATION > System Description > APS+ Concept of Operations > Live Mission Operation
+2025-03-18 14:16:11.515 - Selected path 25: GENERAL INFORMATION > System Description > APS+ Concept of Operations > Off-Tether Operation
+2025-03-18 14:16:11.515 - Selected path 26: OPERATOR INSTRUCTIONS > MCI Operator Instructions > Mission Thread Operation
+2025-03-18 14:16:11.516 - Selected path 27: OPERATOR INSTRUCTIONS > MCI Operator Instructions > Mission Thread Operation > Start Mission Thread
+2025-03-18 14:16:11.517 - Selected path 28: OPERATOR INSTRUCTIONS > MCI Operator Instructions > Mission Thread Operation > Monitor Mission Thread
+2025-03-18 14:16:11.517 - Selected path 29: OPERATOR INSTRUCTIONS > MCI Operator Instructions > Mission Thread Operation > Stop Mission Thread
+2025-03-18 14:16:18.859 - Output file selected: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR_extracted.docx
+2025-03-18 14:16:18.872 - JSON file path: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+2025-03-18 14:16:19.339 - JSON contains 6 top-level sections
+2025-03-18 14:16:19.340 - Section 'Direct LOS Configuration' contains 1 images
+2025-03-18 14:16:19.341 -   Image: 2de98f62-e101-40e4-8352-3dfedfd3c6bb, Type: image/png, Size: 880x711, Base64 length: 600272
+2025-03-18 14:16:19.341 - Section 'Reach Configuration' contains 1 images
+2025-03-18 14:16:19.341 -   Image: 05f1691c-0003-4dc8-8b20-3a5977d9586b, Type: image/png, Size: 879x707, Base64 length: 665800
+2025-03-18 14:16:19.342 - Section 'BLOS Configuration' contains 1 images
+2025-03-18 14:16:19.342 -   Image: a2b9fbf8-605f-46b3-86af-756198221437, Type: image/png, Size: 880x710, Base64 length: 705684
+2025-03-18 14:16:19.343 - Section 'Multiple Datalink Capabilities' contains 1 images
+2025-03-18 14:16:19.343 -   Image: cc3f9697-edc4-4a31-ae84-7fa8163d8aad, Type: image/png, Size: 657x531, Base64 length: 425740
+2025-03-18 14:16:19.343 - Section 'ASARS-2A Data from Reach Site to Core Site' contains 1 images
+2025-03-18 14:16:19.344 -   Image: 40aab337-6345-4d51-a760-ea9834e4725d, Type: image/jpeg, Size: 967x734, Base64 length: 233600
+2025-03-18 14:16:19.344 - Section 'ASARS-2A Data from RGS to Core Site' contains 1 images
+2025-03-18 14:16:19.344 -   Image: 511c47be-5eb9-42b0-a761-fac85bbeb8be, Type: image/jpeg, Size: 955x739, Base64 length: 188896
+2025-03-18 14:16:19.345 - Section 'APS+ Interfaces' contains 1 images
+2025-03-18 14:16:19.345 -   Image: 6de897fd-c4a2-46b2-8fe8-fb5869e05d60, Type: image/jpeg, Size: 997x734, Base64 length: 281400
+2025-03-18 14:16:19.346 - Section 'MCI Core Site Options' contains 1 images
+2025-03-18 14:16:19.346 -   Image: 0a0d9979-ec11-42dd-a9b7-e7afbb6d0d6a, Type: image/jpeg, Size: 960x720, Base64 length: 106516
+2025-03-18 14:16:19.347 - Section 'MCI Reach Site Options' contains 1 images
+2025-03-18 14:16:19.347 -   Image: 8cdc43a9-1fd5-4cc6-b1dd-f4a7b1540f1f, Type: image/jpeg, Size: 800x412, Base64 length: 76000
+2025-03-18 14:16:19.347 - Section 'SCWS Displays and Controls' contains 8 images
+2025-03-18 14:16:19.348 -   Image: 56e6a173-e4ec-4065-bf52-833f409e3984, Type: image/jpeg, Size: 758x655, Base64 length: 76548
+2025-03-18 14:16:19.348 -   Image: 7370cd57-44cf-45bf-8c7c-b748310421d4, Type: image/jpeg, Size: 758x655, Base64 length: 190328
+2025-03-18 14:16:19.348 -   Image: 70048349-f583-4c55-9650-371fc2fa794a, Type: image/jpeg, Size: 758x655, Base64 length: 101760
+2025-03-18 14:16:19.349 -   Image: 85fc026b-91bf-4a1d-a31c-924f734cccd8, Type: image/jpeg, Size: 758x655, Base64 length: 88336
+2025-03-18 14:16:19.349 -   Image: 68a02f16-721d-4595-8397-e9ea0ead5f89, Type: image/jpeg, Size: 758x655, Base64 length: 84448
+2025-03-18 14:16:19.349 -   Image: 3bdc370b-c4cf-4012-a9aa-a9590df95300, Type: image/jpeg, Size: 758x655, Base64 length: 126152
+2025-03-18 14:16:19.350 -   Image: 2eaa85c8-5ca0-406b-b9dc-c7d896412c7a, Type: image/jpeg, Size: 758x655, Base64 length: 166184
+2025-03-18 14:16:19.350 -   Image: 07eb2e71-e728-4c53-801e-6c6e94b19db0, Type: image/jpeg, Size: 758x655, Base64 length: 182552
+2025-03-18 14:16:19.350 - Section 'SCWS Startup' contains 1 images
+2025-03-18 14:16:19.351 -   Image: 435b00b2-cfc0-4402-ac29-6a7f67986a33, Type: image/jpeg, Size: 960x720, Base64 length: 49588
+2025-03-18 14:16:19.351 - Section 'Scale Image' contains 6 images
+2025-03-18 14:16:19.351 -   Image: 7a283b6b-09ad-4c00-82f4-68d2ddb854c9, Type: image/png, Size: 238x391, Base64 length: 30008
+2025-03-18 14:16:19.351 -   Image: ab61f08a-1739-4bda-bc97-fda9b3891c21, Type: image/png, Size: 448x139, Base64 length: 31896
+2025-03-18 14:16:19.352 -   Image: ad7f5c1b-a7a2-4e22-b416-dbb9c515faf8, Type: image/png, Size: 340x202, Base64 length: 30264
+2025-03-18 14:16:19.352 -   Image: e5d0cfd5-cf52-4c4f-858b-8ca7a5f3d42b, Type: image/png, Size: 486x151, Base64 length: 33496
+2025-03-18 14:16:19.352 -   Image: 483086b4-4bbf-4b12-a0a2-d54462222fff, Type: image/png, Size: 197x146, Base64 length: 20740
+2025-03-18 14:16:19.352 -   Image: 6862e6ea-13c1-416a-bb6d-297a68d34646, Type: image/png, Size: 365x195, Base64 length: 28932
+2025-03-18 14:16:19.353 - Section 'CSP Startup' contains 3 images
+2025-03-18 14:16:19.353 -   Image: cca772ce-8441-40d5-b437-1b074551a8ae, Type: image/jpeg, Size: 1210x720, Base64 length: 393648
+2025-03-18 14:16:19.353 -   Image: 03f325e5-659f-4839-b70d-9d783f13bec5, Type: image/png, Size: 735x166, Base64 length: 138596
+2025-03-18 14:16:19.353 -   Image: 417a71ef-6903-480e-af11-ddc56988770f, Type: image/jpeg, Size: 715x828, Base64 length: 491156
+2025-03-18 14:16:19.354 - Section 'Destination Points' contains 4 images
+2025-03-18 14:16:19.354 -   Image: 2f840a4f-28ab-4776-a050-187f0517b1b7, Type: image/jpeg, Size: 1171x696, Base64 length: 366284
+2025-03-18 14:16:19.354 -   Image: 54828642-8618-4118-be87-ada2bdad2b7e, Type: image/png, Size: 1123x647, Base64 length: 863164
+2025-03-18 14:16:19.354 -   Image: 1702ca12-f916-4c22-846d-8b0b1dd0baf1, Type: image/png, Size: 572x387, Base64 length: 180956
+2025-03-18 14:16:19.355 -   Image: 9e29301a-c6d1-4991-83f6-117788d26f5b, Type: image/x-emf, Size: 636x446, Base64 length: 1510784
+2025-03-18 14:16:19.355 - Section 'Targets' contains 5 images
+2025-03-18 14:16:19.355 -   Image: d86af763-1485-4096-a3ff-1dcafe287a46, Type: image/jpeg, Size: 1235x735, Base64 length: 447980
+2025-03-18 14:16:19.356 -   Image: b72016f8-3e34-4716-85bf-7a6c395d10cf, Type: image/jpeg, Size: 1134x673, Base64 length: 388892
+2025-03-18 14:16:19.356 -   Image: 64f45630-b644-40c3-b37f-e7d146d3db37, Type: image/jpeg, Size: 1166x383, Base64 length: 90136
+2025-03-18 14:16:19.357 -   Image: 9e840291-8796-4210-9cb0-bc139e877176, Type: image/jpeg, Size: 601x199, Base64 length: 53552
+2025-03-18 14:16:19.357 -   Image: 6b5b7ce8-2877-4178-a929-ea2eebc67832, Type: image/jpeg, Size: 1166x383, Base64 length: 94832
+2025-03-18 14:16:19.358 - Section 'Scenes' contains 7 images
+2025-03-18 14:16:19.358 -   Image: 367d4d72-aa12-4f2a-818c-6552f18d8460, Type: image/png, Size: 841x776, Base64 length: 1026240
+2025-03-18 14:16:19.359 -   Image: 33f3258a-91b0-40d0-a263-5f170174ba2d, Type: image/png, Size: 823x819, Base64 length: 1144000
+2025-03-18 14:16:19.360 -   Image: 74dd67a6-dc7e-4e94-b158-99a89fac55f4, Type: image/png, Size: 950x569, Base64 length: 914592
+2025-03-18 14:16:19.360 -   Image: 954f6e07-acc9-48ec-b260-7497446d3fd9, Type: image/jpeg, Size: 1152x309, Base64 length: 155028
+2025-03-18 14:16:19.361 -   Image: f853ee25-ed90-40e8-acfe-dd5f9d0de985, Type: image/png, Size: 653x772, Base64 length: 422584
+2025-03-18 14:16:19.361 -   Image: f706c1c9-963e-4b67-8123-120b1d5734c6, Type: image/png, Size: 655x772, Base64 length: 506728
+2025-03-18 14:16:19.362 -   Image: 8d57bbb5-bdac-41c9-b6f3-687d07d0fab3, Type: image/png, Size: 778x587, Base64 length: 867408
+2025-03-18 14:16:19.362 - Section 'Uplink Sensor and Processing Plan (S&PP)' contains 6 images
+2025-03-18 14:16:19.363 -   Image: e319b7db-8a6b-49d2-b105-a93a23f9d236, Type: image/jpeg, Size: 1210x721, Base64 length: 390212
+2025-03-18 14:16:19.363 -   Image: 6fcef82b-fb23-41e7-943a-a3edc8b1ad2e, Type: image/jpeg, Size: 1217x135, Base64 length: 58380
+2025-03-18 14:16:19.363 -   Image: 3c743f7c-0b8e-4204-b623-e54125a45c21, Type: image/png, Size: 899x687, Base64 length: 479112
+2025-03-18 14:16:19.364 -   Image: 0d72c4e1-7eea-4057-a6c0-877153ddb8ae, Type: image/png, Size: 897x685, Base64 length: 592300
+2025-03-18 14:16:19.364 -   Image: 4b46046e-eb84-47a4-b42c-eb1f4a22c4f4, Type: image/png, Size: 894x681, Base64 length: 475684
+2025-03-18 14:16:19.364 -   Image: 9a50baaf-5c67-4533-89d9-0abf8e287513, Type: image/png, Size: 897x686, Base64 length: 487136
+2025-03-18 14:16:19.365 - Section 'Change Detection' contains 9 images
+2025-03-18 14:16:19.365 -   Image: bc344411-fc6c-4e85-9c08-748aafb31cdb, Type: image/png, Size: 669x684, Base64 length: 546164
+2025-03-18 14:16:19.366 -   Image: 85c463e0-d348-4a59-982f-05f8efe73f67, Type: image/png, Size: 638x686, Base64 length: 515568
+2025-03-18 14:16:19.366 -   Image: bf7d5d5c-ef8a-4956-8c03-41d9a32d81ac, Type: image/png, Size: 1100x288, Base64 length: 248396
+2025-03-18 14:16:19.367 -   Image: 972cf041-1d8b-45e5-bea5-a3f375551a08, Type: image/png, Size: 1099x327, Base64 length: 278252
+2025-03-18 14:16:19.367 -   Image: a5bbf175-1c23-43d3-ae94-6cc476018724, Type: image/png, Size: 818x489, Base64 length: 666724
+2025-03-18 14:16:19.368 -   Image: 79754fb5-013c-47d4-bf9c-6c4ad2530143, Type: image/png, Size: 930x552, Base64 length: 856140
+2025-03-18 14:16:19.368 -   Image: ae87f6c3-87dd-4222-92a1-b3bee8e62d08, Type: image/png, Size: 1104x290, Base64 length: 271576
+2025-03-18 14:16:19.369 -   Image: d0f24d58-9ff4-424e-b885-e63396465aa3, Type: image/png, Size: 1153x685, Base64 length: 1301356
+2025-03-18 14:16:19.369 -   Image: 6a0f023d-39db-489a-89c4-1368c601c38b, Type: image/png, Size: 637x684, Base64 length: 516620
+2025-03-18 14:16:19.369 - Section 'Multiple Missions' contains 3 images
+2025-03-18 14:16:19.369 -   Image: 9db31c25-44e0-41c3-9b45-b7382594fe49, Type: image/png, Size: 829x497, Base64 length: 615108
+2025-03-18 14:16:19.370 -   Image: 6db33bcc-6579-49a0-86c3-7251b02904c7, Type: image/jpeg, Size: 315x309, Base64 length: 33876
+2025-03-18 14:16:19.370 -   Image: 4173f1fb-38f7-4b95-a5c8-1eca77ae2ff4, Type: image/jpeg, Size: 729x425, Base64 length: 88380
+2025-03-18 14:16:19.370 - Total images in document: 61
+2025-03-18 14:16:19.372 - Starting extraction process
+2025-03-18 14:16:19.372 - Processing multiple sections individually
+2025-03-18 14:16:19.381 - Extracting section 1 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+2025-03-18 14:16:19.902 - Extracting section 2 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+2025-03-18 14:16:20.110 - Extracting section 3 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+2025-03-18 14:16:20.295 - Extracting section 4 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+2025-03-18 14:16:20.503 - Extracting section 5 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_4.docx
+2025-03-18 14:16:20.741 - Extracting section 6 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_5.docx
+2025-03-18 14:16:21.120 - Extracting section 7 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_6.docx
+2025-03-18 14:16:21.348 - Extracting section 8 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_7.docx
+2025-03-18 14:16:21.654 - Extracting section 9 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_8.docx
+2025-03-18 14:16:21.879 - Extracting section 10 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_9.docx
+2025-03-18 14:16:22.133 - Extracting section 11 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_10.docx
+2025-03-18 14:16:22.387 - Extracting section 12 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_11.docx
+2025-03-18 14:16:22.604 - Extracting section 13 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_12.docx
+2025-03-18 14:16:22.821 - Extracting section 14 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_13.docx
+2025-03-18 14:16:23.023 - Extracting section 15 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_14.docx
+2025-03-18 14:16:23.237 - Extracting section 16 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_15.docx
+2025-03-18 14:16:23.414 - Extracting section 17 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_16.docx
+2025-03-18 14:16:23.610 - Extracting section 18 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_17.docx
+2025-03-18 14:16:23.796 - Extracting section 19 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_18.docx
+2025-03-18 14:16:23.965 - Extracting section 20 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_19.docx
+2025-03-18 14:16:24.134 - Extracting section 21 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_20.docx
+2025-03-18 14:16:24.296 - Extracting section 22 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_21.docx
+2025-03-18 14:16:24.510 - Extracting section 23 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_22.docx
+2025-03-18 14:16:24.711 - Extracting section 24 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_23.docx
+2025-03-18 14:16:24.918 - Extracting section 25 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_24.docx
+2025-03-18 14:16:25.133 - Extracting section 26 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_25.docx
+2025-03-18 14:16:25.332 - Extracting section 27 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_26.docx
+2025-03-18 14:16:25.546 - Extracting section 28 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_27.docx
+2025-03-18 14:16:25.753 - Extracting section 29 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_28.docx
+2025-03-18 14:16:25.958 - Copying first temp file to output location
+2025-03-18 14:16:25.966 - Extraction console output:
+2025-03-18 14:16:25.966 - 
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+Found target section: GENERAL INFORMATION
+Number of subsections: 2
+
+Creating document...
+
+Processing section: GENERAL INFORMATION
+
+Processing section: Overview
+
+Processing section: Scope
+
+Processing section: Abbreviations and Acronyms
+Processing 1 tables...
+
+Processing section: Referenced Documents
+Processing 1 tables...
+
+Processing section: System Description
+
+Processing section: Operating Sites
+Processing 1 tables...
+
+Processing section: Ground Datalink Configurations
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Processing section: Multiple Datalink Capabilities
+Processing 1 images...
+Original size: 657x531
+Scaled size: 427.0499737532808x345.14992125984253
+
+Processing section: Mission Threads
+
+Processing section: ASARS-2A Data from Reach Site to Core Site
+Processing 1 images...
+Original size: 967x734
+Scaled size: 628.5499212598426x477.0999475065617
+
+Processing section: ASARS-2A Data from RGS to Core Site
+Processing 1 images...
+Original size: 955x739
+Scaled size: 620.7499212598425x480.3499212598425
+
+Processing section: APS+ Description
+
+Processing section: APS+ Software Environment
+
+Processing section: APS+ Interfaces
+Processing 1 images...
+Original size: 997x734
+Scaled size: 648.0499737532808x477.0999475065617
+
+Processing section: Mission Control Interface (MCI)
+
+Processing section: Sensor Control Workstation (SCWS)
+
+Processing section: Common Sensor Planner (CSP)
+
+Processing section: APS+ Concept of Operations
+
+Processing section: Pre-Mission Operation
+
+Processing section: Live Mission Operation
+
+Processing section: Off-Tether Operation
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > Overview
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'Overview'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'Overview'
+Level: 2
+Content length: 1955 characters
+Tables: 0
+Images: 0
+Subsections: 3
+Found target section: Overview
+Number of subsections: 3
+
+Creating document...
+
+Processing section: Overview
+
+Processing section: Scope
+
+Processing section: Abbreviations and Acronyms
+Processing 1 tables...
+
+Processing section: Referenced Documents
+Processing 1 tables...
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > Overview > Scope
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'Overview'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'Overview'
+Level: 2
+Content length: 1955 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Scope'
+Available sections at this level:
+- 'Scope'
+- 'Abbreviations and Acronyms'
+- 'Referenced Documents'
+Found section: 'Scope'
+Level: 3
+Content length: 784 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Scope
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Scope
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > Overview > Abbreviations and Acronyms
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'Overview'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'Overview'
+Level: 2
+Content length: 1955 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Abbreviations and Acronyms'
+Available sections at this level:
+- 'Scope'
+- 'Abbreviations and Acronyms'
+- 'Referenced Documents'
+Found section: 'Abbreviations and Acronyms'
+Level: 3
+Content length: 394 characters
+Tables: 1
+Images: 0
+Subsections: 0
+Found target section: Abbreviations and Acronyms
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Abbreviations and Acronyms
+Processing 1 tables...
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > Overview > Referenced Documents
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'Overview'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'Overview'
+Level: 2
+Content length: 1955 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Referenced Documents'
+Available sections at this level:
+- 'Scope'
+- 'Abbreviations and Acronyms'
+- 'Referenced Documents'
+Found section: 'Referenced Documents'
+Level: 3
+Content length: 232 characters
+Tables: 1
+Images: 0
+Subsections: 0
+Found target section: Referenced Documents
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Referenced Documents
+Processing 1 tables...
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_4.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+Found target section: System Description
+Number of subsections: 6
+
+Creating document...
+
+Processing section: System Description
+
+Processing section: Operating Sites
+Processing 1 tables...
+
+Processing section: Ground Datalink Configurations
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Processing section: Multiple Datalink Capabilities
+Processing 1 images...
+Original size: 657x531
+Scaled size: 427.0499737532808x345.14992125984253
+
+Processing section: Mission Threads
+
+Processing section: ASARS-2A Data from Reach Site to Core Site
+Processing 1 images...
+Original size: 967x734
+Scaled size: 628.5499212598426x477.0999475065617
+
+Processing section: ASARS-2A Data from RGS to Core Site
+Processing 1 images...
+Original size: 955x739
+Scaled size: 620.7499212598425x480.3499212598425
+
+Processing section: APS+ Description
+
+Processing section: APS+ Software Environment
+
+Processing section: APS+ Interfaces
+Processing 1 images...
+Original size: 997x734
+Scaled size: 648.0499737532808x477.0999475065617
+
+Processing section: Mission Control Interface (MCI)
+
+Processing section: Sensor Control Workstation (SCWS)
+
+Processing section: Common Sensor Planner (CSP)
+
+Processing section: APS+ Concept of Operations
+
+Processing section: Pre-Mission Operation
+
+Processing section: Live Mission Operation
+
+Processing section: Off-Tether Operation
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_5.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Operating Sites
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Operating Sites'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Operating Sites'
+Level: 3
+Content length: 671 characters
+Tables: 1
+Images: 0
+Subsections: 0
+Found target section: Operating Sites
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Operating Sites
+Processing 1 tables...
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_6.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+Found target section: Ground Datalink Configurations
+Number of subsections: 3
+
+Creating document...
+
+Processing section: Ground Datalink Configurations
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_7.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Direct LOS Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Direct LOS Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'Direct LOS Configuration'
+Level: 4
+Content length: 567 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 2de98f62-e101-40e4-8352-3dfedfd3c6bb
+  Type: image/png
+  Size: 880x711
+  Base64 length: 600272
+Found target section: Direct LOS Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_8.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Reach Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Reach Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'Reach Configuration'
+Level: 4
+Content length: 1019 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 05f1691c-0003-4dc8-8b20-3a5977d9586b
+  Type: image/png
+  Size: 879x707
+  Base64 length: 665800
+Found target section: Reach Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_9.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > BLOS Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'BLOS Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'BLOS Configuration'
+Level: 4
+Content length: 1001 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: a2b9fbf8-605f-46b3-86af-756198221437
+  Type: image/png
+  Size: 880x710
+  Base64 length: 705684
+Found target section: BLOS Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_10.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Multiple Datalink Capabilities
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Multiple Datalink Capabilities'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Multiple Datalink Capabilities'
+Level: 3
+Content length: 657 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: cc3f9697-edc4-4a31-ae84-7fa8163d8aad
+  Type: image/png
+  Size: 657x531
+  Base64 length: 425740
+Found target section: Multiple Datalink Capabilities
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Multiple Datalink Capabilities
+Processing 1 images...
+Original size: 657x531
+Scaled size: 427.0499737532808x345.14992125984253
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_11.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Mission Threads
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Mission Threads'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Mission Threads'
+Level: 3
+Content length: 265 characters
+Tables: 0
+Images: 0
+Subsections: 2
+Found target section: Mission Threads
+Number of subsections: 2
+
+Creating document...
+
+Processing section: Mission Threads
+
+Processing section: ASARS-2A Data from Reach Site to Core Site
+Processing 1 images...
+Original size: 967x734
+Scaled size: 628.5499212598426x477.0999475065617
+
+Processing section: ASARS-2A Data from RGS to Core Site
+Processing 1 images...
+Original size: 955x739
+Scaled size: 620.7499212598425x480.3499212598425
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_12.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Mission Threads > ASARS-2A Data from Reach Site to Core Site
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Mission Threads'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Mission Threads'
+Level: 3
+Content length: 265 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'ASARS-2A Data from Reach Site to Core Site'
+Available sections at this level:
+- 'ASARS-2A Data from Reach Site to Core Site'
+- 'ASARS-2A Data from RGS to Core Site'
+Found section: 'ASARS-2A Data from Reach Site to Core Site'
+Level: 4
+Content length: 478 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 40aab337-6345-4d51-a760-ea9834e4725d
+  Type: image/jpeg
+  Size: 967x734
+  Base64 length: 233600
+Found target section: ASARS-2A Data from Reach Site to Core Site
+Number of subsections: 0
+
+Creating document...
+
+Processing section: ASARS-2A Data from Reach Site to Core Site
+Processing 1 images...
+Original size: 967x734
+Scaled size: 628.5499212598426x477.0999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_13.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Mission Threads > ASARS-2A Data from RGS to Core Site
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Mission Threads'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Mission Threads'
+Level: 3
+Content length: 265 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'ASARS-2A Data from RGS to Core Site'
+Available sections at this level:
+- 'ASARS-2A Data from Reach Site to Core Site'
+- 'ASARS-2A Data from RGS to Core Site'
+Found section: 'ASARS-2A Data from RGS to Core Site'
+Level: 4
+Content length: 299 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 511c47be-5eb9-42b0-a761-fac85bbeb8be
+  Type: image/jpeg
+  Size: 955x739
+  Base64 length: 188896
+Found target section: ASARS-2A Data from RGS to Core Site
+Number of subsections: 0
+
+Creating document...
+
+Processing section: ASARS-2A Data from RGS to Core Site
+Processing 1 images...
+Original size: 955x739
+Scaled size: 620.7499212598425x480.3499212598425
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_14.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Description
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Description'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Description'
+Level: 3
+Content length: 424 characters
+Tables: 0
+Images: 0
+Subsections: 5
+Found target section: APS+ Description
+Number of subsections: 5
+
+Creating document...
+
+Processing section: APS+ Description
+
+Processing section: APS+ Software Environment
+
+Processing section: APS+ Interfaces
+Processing 1 images...
+Original size: 997x734
+Scaled size: 648.0499737532808x477.0999475065617
+
+Processing section: Mission Control Interface (MCI)
+
+Processing section: Sensor Control Workstation (SCWS)
+
+Processing section: Common Sensor Planner (CSP)
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_15.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Description > APS+ Software Environment
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Description'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Description'
+Level: 3
+Content length: 424 characters
+Tables: 0
+Images: 0
+Subsections: 5
+
+Searching for: 'APS+ Software Environment'
+Available sections at this level:
+- 'APS+ Software Environment'
+- 'APS+ Interfaces'
+- 'Mission Control Interface (MCI)'
+- 'Sensor Control Workstation (SCWS)'
+- 'Common Sensor Planner (CSP)'
+Found section: 'APS+ Software Environment'
+Level: 4
+Content length: 941 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: APS+ Software Environment
+Number of subsections: 0
+
+Creating document...
+
+Processing section: APS+ Software Environment
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_16.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Description > APS+ Interfaces
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Description'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Description'
+Level: 3
+Content length: 424 characters
+Tables: 0
+Images: 0
+Subsections: 5
+
+Searching for: 'APS+ Interfaces'
+Available sections at this level:
+- 'APS+ Software Environment'
+- 'APS+ Interfaces'
+- 'Mission Control Interface (MCI)'
+- 'Sensor Control Workstation (SCWS)'
+- 'Common Sensor Planner (CSP)'
+Found section: 'APS+ Interfaces'
+Level: 4
+Content length: 422 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 6de897fd-c4a2-46b2-8fe8-fb5869e05d60
+  Type: image/jpeg
+  Size: 997x734
+  Base64 length: 281400
+Found target section: APS+ Interfaces
+Number of subsections: 0
+
+Creating document...
+
+Processing section: APS+ Interfaces
+Processing 1 images...
+Original size: 997x734
+Scaled size: 648.0499737532808x477.0999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_17.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Description > Mission Control Interface (MCI)
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Description'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Description'
+Level: 3
+Content length: 424 characters
+Tables: 0
+Images: 0
+Subsections: 5
+
+Searching for: 'Mission Control Interface (MCI)'
+Available sections at this level:
+- 'APS+ Software Environment'
+- 'APS+ Interfaces'
+- 'Mission Control Interface (MCI)'
+- 'Sensor Control Workstation (SCWS)'
+- 'Common Sensor Planner (CSP)'
+Found section: 'Mission Control Interface (MCI)'
+Level: 4
+Content length: 361 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Mission Control Interface (MCI)
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Mission Control Interface (MCI)
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_18.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Description > Sensor Control Workstation (SCWS)
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Description'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Description'
+Level: 3
+Content length: 424 characters
+Tables: 0
+Images: 0
+Subsections: 5
+
+Searching for: 'Sensor Control Workstation (SCWS)'
+Available sections at this level:
+- 'APS+ Software Environment'
+- 'APS+ Interfaces'
+- 'Mission Control Interface (MCI)'
+- 'Sensor Control Workstation (SCWS)'
+- 'Common Sensor Planner (CSP)'
+Found section: 'Sensor Control Workstation (SCWS)'
+Level: 4
+Content length: 454 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Sensor Control Workstation (SCWS)
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Sensor Control Workstation (SCWS)
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_19.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Description > Common Sensor Planner (CSP)
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Description'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Description'
+Level: 3
+Content length: 424 characters
+Tables: 0
+Images: 0
+Subsections: 5
+
+Searching for: 'Common Sensor Planner (CSP)'
+Available sections at this level:
+- 'APS+ Software Environment'
+- 'APS+ Interfaces'
+- 'Mission Control Interface (MCI)'
+- 'Sensor Control Workstation (SCWS)'
+- 'Common Sensor Planner (CSP)'
+Found section: 'Common Sensor Planner (CSP)'
+Level: 4
+Content length: 1001 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Common Sensor Planner (CSP)
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Common Sensor Planner (CSP)
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_20.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Concept of Operations
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Concept of Operations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Concept of Operations'
+Level: 3
+Content length: 35 characters
+Tables: 0
+Images: 0
+Subsections: 3
+Found target section: APS+ Concept of Operations
+Number of subsections: 3
+
+Creating document...
+
+Processing section: APS+ Concept of Operations
+
+Processing section: Pre-Mission Operation
+
+Processing section: Live Mission Operation
+
+Processing section: Off-Tether Operation
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_21.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Concept of Operations > Pre-Mission Operation
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Concept of Operations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Concept of Operations'
+Level: 3
+Content length: 35 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Pre-Mission Operation'
+Available sections at this level:
+- 'Pre-Mission Operation'
+- 'Live Mission Operation'
+- 'Off-Tether Operation'
+Found section: 'Pre-Mission Operation'
+Level: 4
+Content length: 15 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Pre-Mission Operation
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Pre-Mission Operation
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_22.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Concept of Operations > Live Mission Operation
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Concept of Operations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Concept of Operations'
+Level: 3
+Content length: 35 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Live Mission Operation'
+Available sections at this level:
+- 'Pre-Mission Operation'
+- 'Live Mission Operation'
+- 'Off-Tether Operation'
+Found section: 'Live Mission Operation'
+Level: 4
+Content length: 15 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Live Mission Operation
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Live Mission Operation
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_23.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > APS+ Concept of Operations > Off-Tether Operation
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'APS+ Concept of Operations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'APS+ Concept of Operations'
+Level: 3
+Content length: 35 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Off-Tether Operation'
+Available sections at this level:
+- 'Pre-Mission Operation'
+- 'Live Mission Operation'
+- 'Off-Tether Operation'
+Found section: 'Off-Tether Operation'
+Level: 4
+Content length: 30 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Off-Tether Operation
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Off-Tether Operation
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_24.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > Mission Thread Operation
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'Mission Thread Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'Mission Thread Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 3
+Found target section: Mission Thread Operation
+Number of subsections: 3
+
+Creating document...
+
+Processing section: Mission Thread Operation
+
+Processing section: Start Mission Thread
+
+Processing section: Monitor Mission Thread
+
+Processing section: Stop Mission Thread
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_25.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > Mission Thread Operation > Start Mission Thread
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'Mission Thread Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'Mission Thread Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Start Mission Thread'
+Available sections at this level:
+- 'Start Mission Thread'
+- 'Monitor Mission Thread'
+- 'Stop Mission Thread'
+Found section: 'Start Mission Thread'
+Level: 4
+Content length: 94 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Start Mission Thread
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Start Mission Thread
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_26.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > Mission Thread Operation > Monitor Mission Thread
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'Mission Thread Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'Mission Thread Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Monitor Mission Thread'
+Available sections at this level:
+- 'Start Mission Thread'
+- 'Monitor Mission Thread'
+- 'Stop Mission Thread'
+Found section: 'Monitor Mission Thread'
+Level: 4
+Content length: 96 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Monitor Mission Thread
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Monitor Mission Thread
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_27.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > Mission Thread Operation > Stop Mission Thread
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'Mission Thread Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'Mission Thread Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Stop Mission Thread'
+Available sections at this level:
+- 'Start Mission Thread'
+- 'Monitor Mission Thread'
+- 'Stop Mission Thread'
+Found section: 'Stop Mission Thread'
+Level: 4
+Content length: 86 characters
+Tables: 0
+Images: 0
+Subsections: 0
+Found target section: Stop Mission Thread
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Stop Mission Thread
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_28.docx
+
+2025-03-18 14:16:25.968 - Extraction completed
+2025-03-18 14:16:46.238 - Analyzing extracted document for images: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR_extracted.docx
+2025-03-18 14:16:46.250 - Extracted document size: 2,261,751 bytes
+2025-03-18 14:24:32.710 - Extract button clicked
+2025-03-18 14:24:32.713 - Selected 4 section paths
+2025-03-18 14:24:32.713 - Selected path 1: OPERATOR INSTRUCTIONS > MCI Operator Instructions
+2025-03-18 14:24:32.713 - Selected path 2: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation
+2025-03-18 14:24:32.714 - Selected path 3: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation > MCI Core Site Options
+2025-03-18 14:24:32.714 - Selected path 4: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation > MCI Reach Site Options
+2025-03-18 14:24:52.971 - Output file selected: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR_extracted_MCIOperation.docx
+2025-03-18 14:24:52.974 - JSON file path: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+2025-03-18 14:24:53.144 - JSON contains 6 top-level sections
+2025-03-18 14:24:53.144 - Section 'Direct LOS Configuration' contains 1 images
+2025-03-18 14:24:53.145 -   Image: 2de98f62-e101-40e4-8352-3dfedfd3c6bb, Type: image/png, Size: 880x711, Base64 length: 600272
+2025-03-18 14:24:53.145 - Section 'Reach Configuration' contains 1 images
+2025-03-18 14:24:53.145 -   Image: 05f1691c-0003-4dc8-8b20-3a5977d9586b, Type: image/png, Size: 879x707, Base64 length: 665800
+2025-03-18 14:24:53.146 - Section 'BLOS Configuration' contains 1 images
+2025-03-18 14:24:53.146 -   Image: a2b9fbf8-605f-46b3-86af-756198221437, Type: image/png, Size: 880x710, Base64 length: 705684
+2025-03-18 14:24:53.146 - Section 'Multiple Datalink Capabilities' contains 1 images
+2025-03-18 14:24:53.146 -   Image: cc3f9697-edc4-4a31-ae84-7fa8163d8aad, Type: image/png, Size: 657x531, Base64 length: 425740
+2025-03-18 14:24:53.147 - Section 'ASARS-2A Data from Reach Site to Core Site' contains 1 images
+2025-03-18 14:24:53.147 -   Image: 40aab337-6345-4d51-a760-ea9834e4725d, Type: image/jpeg, Size: 967x734, Base64 length: 233600
+2025-03-18 14:24:53.147 - Section 'ASARS-2A Data from RGS to Core Site' contains 1 images
+2025-03-18 14:24:53.147 -   Image: 511c47be-5eb9-42b0-a761-fac85bbeb8be, Type: image/jpeg, Size: 955x739, Base64 length: 188896
+2025-03-18 14:24:53.148 - Section 'APS+ Interfaces' contains 1 images
+2025-03-18 14:24:53.148 -   Image: 6de897fd-c4a2-46b2-8fe8-fb5869e05d60, Type: image/jpeg, Size: 997x734, Base64 length: 281400
+2025-03-18 14:24:53.148 - Section 'MCI Core Site Options' contains 1 images
+2025-03-18 14:24:53.148 -   Image: 0a0d9979-ec11-42dd-a9b7-e7afbb6d0d6a, Type: image/jpeg, Size: 960x720, Base64 length: 106516
+2025-03-18 14:24:53.149 - Section 'MCI Reach Site Options' contains 1 images
+2025-03-18 14:24:53.149 -   Image: 8cdc43a9-1fd5-4cc6-b1dd-f4a7b1540f1f, Type: image/jpeg, Size: 800x412, Base64 length: 76000
+2025-03-18 14:24:53.149 - Section 'SCWS Displays and Controls' contains 8 images
+2025-03-18 14:24:53.150 -   Image: 56e6a173-e4ec-4065-bf52-833f409e3984, Type: image/jpeg, Size: 758x655, Base64 length: 76548
+2025-03-18 14:24:53.150 -   Image: 7370cd57-44cf-45bf-8c7c-b748310421d4, Type: image/jpeg, Size: 758x655, Base64 length: 190328
+2025-03-18 14:24:53.150 -   Image: 70048349-f583-4c55-9650-371fc2fa794a, Type: image/jpeg, Size: 758x655, Base64 length: 101760
+2025-03-18 14:24:53.150 -   Image: 85fc026b-91bf-4a1d-a31c-924f734cccd8, Type: image/jpeg, Size: 758x655, Base64 length: 88336
+2025-03-18 14:24:53.151 -   Image: 68a02f16-721d-4595-8397-e9ea0ead5f89, Type: image/jpeg, Size: 758x655, Base64 length: 84448
+2025-03-18 14:24:53.151 -   Image: 3bdc370b-c4cf-4012-a9aa-a9590df95300, Type: image/jpeg, Size: 758x655, Base64 length: 126152
+2025-03-18 14:24:53.151 -   Image: 2eaa85c8-5ca0-406b-b9dc-c7d896412c7a, Type: image/jpeg, Size: 758x655, Base64 length: 166184
+2025-03-18 14:24:53.152 -   Image: 07eb2e71-e728-4c53-801e-6c6e94b19db0, Type: image/jpeg, Size: 758x655, Base64 length: 182552
+2025-03-18 14:24:53.152 - Section 'SCWS Startup' contains 1 images
+2025-03-18 14:24:53.152 -   Image: 435b00b2-cfc0-4402-ac29-6a7f67986a33, Type: image/jpeg, Size: 960x720, Base64 length: 49588
+2025-03-18 14:24:53.152 - Section 'Scale Image' contains 6 images
+2025-03-18 14:24:53.153 -   Image: 7a283b6b-09ad-4c00-82f4-68d2ddb854c9, Type: image/png, Size: 238x391, Base64 length: 30008
+2025-03-18 14:24:53.153 -   Image: ab61f08a-1739-4bda-bc97-fda9b3891c21, Type: image/png, Size: 448x139, Base64 length: 31896
+2025-03-18 14:24:53.153 -   Image: ad7f5c1b-a7a2-4e22-b416-dbb9c515faf8, Type: image/png, Size: 340x202, Base64 length: 30264
+2025-03-18 14:24:53.154 -   Image: e5d0cfd5-cf52-4c4f-858b-8ca7a5f3d42b, Type: image/png, Size: 486x151, Base64 length: 33496
+2025-03-18 14:24:53.154 -   Image: 483086b4-4bbf-4b12-a0a2-d54462222fff, Type: image/png, Size: 197x146, Base64 length: 20740
+2025-03-18 14:24:53.155 -   Image: 6862e6ea-13c1-416a-bb6d-297a68d34646, Type: image/png, Size: 365x195, Base64 length: 28932
+2025-03-18 14:24:53.155 - Section 'CSP Startup' contains 3 images
+2025-03-18 14:24:53.156 -   Image: cca772ce-8441-40d5-b437-1b074551a8ae, Type: image/jpeg, Size: 1210x720, Base64 length: 393648
+2025-03-18 14:24:53.156 -   Image: 03f325e5-659f-4839-b70d-9d783f13bec5, Type: image/png, Size: 735x166, Base64 length: 138596
+2025-03-18 14:24:53.156 -   Image: 417a71ef-6903-480e-af11-ddc56988770f, Type: image/jpeg, Size: 715x828, Base64 length: 491156
+2025-03-18 14:24:53.157 - Section 'Destination Points' contains 4 images
+2025-03-18 14:24:53.157 -   Image: 2f840a4f-28ab-4776-a050-187f0517b1b7, Type: image/jpeg, Size: 1171x696, Base64 length: 366284
+2025-03-18 14:24:53.157 -   Image: 54828642-8618-4118-be87-ada2bdad2b7e, Type: image/png, Size: 1123x647, Base64 length: 863164
+2025-03-18 14:24:53.157 -   Image: 1702ca12-f916-4c22-846d-8b0b1dd0baf1, Type: image/png, Size: 572x387, Base64 length: 180956
+2025-03-18 14:24:53.158 -   Image: 9e29301a-c6d1-4991-83f6-117788d26f5b, Type: image/x-emf, Size: 636x446, Base64 length: 1510784
+2025-03-18 14:24:53.158 - Section 'Targets' contains 5 images
+2025-03-18 14:24:53.158 -   Image: d86af763-1485-4096-a3ff-1dcafe287a46, Type: image/jpeg, Size: 1235x735, Base64 length: 447980
+2025-03-18 14:24:53.158 -   Image: b72016f8-3e34-4716-85bf-7a6c395d10cf, Type: image/jpeg, Size: 1134x673, Base64 length: 388892
+2025-03-18 14:24:53.159 -   Image: 64f45630-b644-40c3-b37f-e7d146d3db37, Type: image/jpeg, Size: 1166x383, Base64 length: 90136
+2025-03-18 14:24:53.159 -   Image: 9e840291-8796-4210-9cb0-bc139e877176, Type: image/jpeg, Size: 601x199, Base64 length: 53552
+2025-03-18 14:24:53.159 -   Image: 6b5b7ce8-2877-4178-a929-ea2eebc67832, Type: image/jpeg, Size: 1166x383, Base64 length: 94832
+2025-03-18 14:24:53.159 - Section 'Scenes' contains 7 images
+2025-03-18 14:24:53.159 -   Image: 367d4d72-aa12-4f2a-818c-6552f18d8460, Type: image/png, Size: 841x776, Base64 length: 1026240
+2025-03-18 14:24:53.160 -   Image: 33f3258a-91b0-40d0-a263-5f170174ba2d, Type: image/png, Size: 823x819, Base64 length: 1144000
+2025-03-18 14:24:53.160 -   Image: 74dd67a6-dc7e-4e94-b158-99a89fac55f4, Type: image/png, Size: 950x569, Base64 length: 914592
+2025-03-18 14:24:53.161 -   Image: 954f6e07-acc9-48ec-b260-7497446d3fd9, Type: image/jpeg, Size: 1152x309, Base64 length: 155028
+2025-03-18 14:24:53.161 -   Image: f853ee25-ed90-40e8-acfe-dd5f9d0de985, Type: image/png, Size: 653x772, Base64 length: 422584
+2025-03-18 14:24:53.161 -   Image: f706c1c9-963e-4b67-8123-120b1d5734c6, Type: image/png, Size: 655x772, Base64 length: 506728
+2025-03-18 14:24:53.162 -   Image: 8d57bbb5-bdac-41c9-b6f3-687d07d0fab3, Type: image/png, Size: 778x587, Base64 length: 867408
+2025-03-18 14:24:53.162 - Section 'Uplink Sensor and Processing Plan (S&PP)' contains 6 images
+2025-03-18 14:24:53.162 -   Image: e319b7db-8a6b-49d2-b105-a93a23f9d236, Type: image/jpeg, Size: 1210x721, Base64 length: 390212
+2025-03-18 14:24:53.163 -   Image: 6fcef82b-fb23-41e7-943a-a3edc8b1ad2e, Type: image/jpeg, Size: 1217x135, Base64 length: 58380
+2025-03-18 14:24:53.163 -   Image: 3c743f7c-0b8e-4204-b623-e54125a45c21, Type: image/png, Size: 899x687, Base64 length: 479112
+2025-03-18 14:24:53.163 -   Image: 0d72c4e1-7eea-4057-a6c0-877153ddb8ae, Type: image/png, Size: 897x685, Base64 length: 592300
+2025-03-18 14:24:53.163 -   Image: 4b46046e-eb84-47a4-b42c-eb1f4a22c4f4, Type: image/png, Size: 894x681, Base64 length: 475684
+2025-03-18 14:24:53.164 -   Image: 9a50baaf-5c67-4533-89d9-0abf8e287513, Type: image/png, Size: 897x686, Base64 length: 487136
+2025-03-18 14:24:53.164 - Section 'Change Detection' contains 9 images
+2025-03-18 14:24:53.164 -   Image: bc344411-fc6c-4e85-9c08-748aafb31cdb, Type: image/png, Size: 669x684, Base64 length: 546164
+2025-03-18 14:24:53.164 -   Image: 85c463e0-d348-4a59-982f-05f8efe73f67, Type: image/png, Size: 638x686, Base64 length: 515568
+2025-03-18 14:24:53.165 -   Image: bf7d5d5c-ef8a-4956-8c03-41d9a32d81ac, Type: image/png, Size: 1100x288, Base64 length: 248396
+2025-03-18 14:24:53.165 -   Image: 972cf041-1d8b-45e5-bea5-a3f375551a08, Type: image/png, Size: 1099x327, Base64 length: 278252
+2025-03-18 14:24:53.165 -   Image: a5bbf175-1c23-43d3-ae94-6cc476018724, Type: image/png, Size: 818x489, Base64 length: 666724
+2025-03-18 14:24:53.165 -   Image: 79754fb5-013c-47d4-bf9c-6c4ad2530143, Type: image/png, Size: 930x552, Base64 length: 856140
+2025-03-18 14:24:53.165 -   Image: ae87f6c3-87dd-4222-92a1-b3bee8e62d08, Type: image/png, Size: 1104x290, Base64 length: 271576
+2025-03-18 14:24:53.166 -   Image: d0f24d58-9ff4-424e-b885-e63396465aa3, Type: image/png, Size: 1153x685, Base64 length: 1301356
+2025-03-18 14:24:53.166 -   Image: 6a0f023d-39db-489a-89c4-1368c601c38b, Type: image/png, Size: 637x684, Base64 length: 516620
+2025-03-18 14:24:53.167 - Section 'Multiple Missions' contains 3 images
+2025-03-18 14:24:53.167 -   Image: 9db31c25-44e0-41c3-9b45-b7382594fe49, Type: image/png, Size: 829x497, Base64 length: 615108
+2025-03-18 14:24:53.167 -   Image: 6db33bcc-6579-49a0-86c3-7251b02904c7, Type: image/jpeg, Size: 315x309, Base64 length: 33876
+2025-03-18 14:24:53.167 -   Image: 4173f1fb-38f7-4b95-a5c8-1eca77ae2ff4, Type: image/jpeg, Size: 729x425, Base64 length: 88380
+2025-03-18 14:24:53.167 - Total images in document: 61
+2025-03-18 14:24:53.168 - Starting extraction process
+2025-03-18 14:24:53.168 - Processing multiple sections individually
+2025-03-18 14:24:53.175 - Extracting section 1 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+2025-03-18 14:24:53.322 - Extracting section 2 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+2025-03-18 14:24:53.467 - Extracting section 3 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+2025-03-18 14:24:53.601 - Extracting section 4 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+2025-03-18 14:24:53.733 - Copying first temp file to output location
+2025-03-18 14:24:53.735 - Extraction console output:
+2025-03-18 14:24:53.735 - 
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+Found target section: MCI Operator Instructions
+Number of subsections: 4
+
+Creating document...
+
+Processing section: MCI Operator Instructions
+
+Processing section: MCI Displays and Controls
+
+Processing section: MCI Startup and Shutdown
+
+Processing section: MCI Startup
+Processing 1 tables...
+
+Processing section: MCI Shutdown
+Processing 1 tables...
+
+Processing section: MCI Operation
+
+Processing section: MCI Core Site Options
+Processing 1 tables...
+Processing 1 images...
+Original size: 960x720
+Scaled size: 624x468
+
+Processing section: MCI Reach Site Options
+Processing 1 images...
+Original size: 800x412
+Scaled size: 520x267.8
+
+Processing section: Mission Thread Operation
+
+Processing section: Start Mission Thread
+
+Processing section: Monitor Mission Thread
+
+Processing section: Stop Mission Thread
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+Found target section: MCI Operation
+Number of subsections: 2
+
+Creating document...
+
+Processing section: MCI Operation
+
+Processing section: MCI Core Site Options
+Processing 1 tables...
+Processing 1 images...
+Original size: 960x720
+Scaled size: 624x468
+
+Processing section: MCI Reach Site Options
+Processing 1 images...
+Original size: 800x412
+Scaled size: 520x267.8
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation > MCI Core Site Options
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'MCI Core Site Options'
+Available sections at this level:
+- 'MCI Core Site Options'
+- 'MCI Reach Site Options'
+Found section: 'MCI Core Site Options'
+Level: 4
+Content length: 670 characters
+Tables: 1
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 0a0d9979-ec11-42dd-a9b7-e7afbb6d0d6a
+  Type: image/jpeg
+  Size: 960x720
+  Base64 length: 106516
+Found target section: MCI Core Site Options
+Number of subsections: 0
+
+Creating document...
+
+Processing section: MCI Core Site Options
+Processing 1 tables...
+Processing 1 images...
+Original size: 960x720
+Scaled size: 624x468
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation > MCI Reach Site Options
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'MCI Reach Site Options'
+Available sections at this level:
+- 'MCI Core Site Options'
+- 'MCI Reach Site Options'
+Found section: 'MCI Reach Site Options'
+Level: 4
+Content length: 58 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 8cdc43a9-1fd5-4cc6-b1dd-f4a7b1540f1f
+  Type: image/jpeg
+  Size: 800x412
+  Base64 length: 76000
+Found target section: MCI Reach Site Options
+Number of subsections: 0
+
+Creating document...
+
+Processing section: MCI Reach Site Options
+Processing 1 images...
+Original size: 800x412
+Scaled size: 520x267.8
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+
+2025-03-18 14:24:53.736 - Extraction completed
+2025-03-18 14:24:55.129 - Analyzing extracted document for images: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR_extracted_MCIOperation.docx
+2025-03-18 14:24:55.130 - Extracted document size: 118,900 bytes
+2025-03-18 14:26:12.934 - Extract button clicked
+2025-03-18 14:26:12.936 - Selected 8 section paths
+2025-03-18 14:26:12.937 - Selected path 1: GENERAL INFORMATION > System Description > Ground Datalink Configurations
+2025-03-18 14:26:12.937 - Selected path 2: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Direct LOS Configuration
+2025-03-18 14:26:12.937 - Selected path 3: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Reach Configuration
+2025-03-18 14:26:12.937 - Selected path 4: GENERAL INFORMATION > System Description > Ground Datalink Configurations > BLOS Configuration
+2025-03-18 14:26:12.938 - Selected path 5: OPERATOR INSTRUCTIONS > MCI Operator Instructions
+2025-03-18 14:26:12.938 - Selected path 6: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation
+2025-03-18 14:26:12.938 - Selected path 7: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation > MCI Core Site Options
+2025-03-18 14:26:12.938 - Selected path 8: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation > MCI Reach Site Options
+2025-03-18 14:26:28.285 - Output file selected: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR_extracted_GroundDataLinkConfig.docx
+2025-03-18 14:26:28.290 - JSON file path: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+2025-03-18 14:26:28.464 - JSON contains 6 top-level sections
+2025-03-18 14:26:28.465 - Section 'Direct LOS Configuration' contains 1 images
+2025-03-18 14:26:28.465 -   Image: 2de98f62-e101-40e4-8352-3dfedfd3c6bb, Type: image/png, Size: 880x711, Base64 length: 600272
+2025-03-18 14:26:28.466 - Section 'Reach Configuration' contains 1 images
+2025-03-18 14:26:28.466 -   Image: 05f1691c-0003-4dc8-8b20-3a5977d9586b, Type: image/png, Size: 879x707, Base64 length: 665800
+2025-03-18 14:26:28.467 - Section 'BLOS Configuration' contains 1 images
+2025-03-18 14:26:28.467 -   Image: a2b9fbf8-605f-46b3-86af-756198221437, Type: image/png, Size: 880x710, Base64 length: 705684
+2025-03-18 14:26:28.467 - Section 'Multiple Datalink Capabilities' contains 1 images
+2025-03-18 14:26:28.468 -   Image: cc3f9697-edc4-4a31-ae84-7fa8163d8aad, Type: image/png, Size: 657x531, Base64 length: 425740
+2025-03-18 14:26:28.468 - Section 'ASARS-2A Data from Reach Site to Core Site' contains 1 images
+2025-03-18 14:26:28.468 -   Image: 40aab337-6345-4d51-a760-ea9834e4725d, Type: image/jpeg, Size: 967x734, Base64 length: 233600
+2025-03-18 14:26:28.469 - Section 'ASARS-2A Data from RGS to Core Site' contains 1 images
+2025-03-18 14:26:28.469 -   Image: 511c47be-5eb9-42b0-a761-fac85bbeb8be, Type: image/jpeg, Size: 955x739, Base64 length: 188896
+2025-03-18 14:26:28.470 - Section 'APS+ Interfaces' contains 1 images
+2025-03-18 14:26:28.470 -   Image: 6de897fd-c4a2-46b2-8fe8-fb5869e05d60, Type: image/jpeg, Size: 997x734, Base64 length: 281400
+2025-03-18 14:26:28.470 - Section 'MCI Core Site Options' contains 1 images
+2025-03-18 14:26:28.470 -   Image: 0a0d9979-ec11-42dd-a9b7-e7afbb6d0d6a, Type: image/jpeg, Size: 960x720, Base64 length: 106516
+2025-03-18 14:26:28.470 - Section 'MCI Reach Site Options' contains 1 images
+2025-03-18 14:26:28.471 -   Image: 8cdc43a9-1fd5-4cc6-b1dd-f4a7b1540f1f, Type: image/jpeg, Size: 800x412, Base64 length: 76000
+2025-03-18 14:26:28.471 - Section 'SCWS Displays and Controls' contains 8 images
+2025-03-18 14:26:28.471 -   Image: 56e6a173-e4ec-4065-bf52-833f409e3984, Type: image/jpeg, Size: 758x655, Base64 length: 76548
+2025-03-18 14:26:28.472 -   Image: 7370cd57-44cf-45bf-8c7c-b748310421d4, Type: image/jpeg, Size: 758x655, Base64 length: 190328
+2025-03-18 14:26:28.472 -   Image: 70048349-f583-4c55-9650-371fc2fa794a, Type: image/jpeg, Size: 758x655, Base64 length: 101760
+2025-03-18 14:26:28.472 -   Image: 85fc026b-91bf-4a1d-a31c-924f734cccd8, Type: image/jpeg, Size: 758x655, Base64 length: 88336
+2025-03-18 14:26:28.473 -   Image: 68a02f16-721d-4595-8397-e9ea0ead5f89, Type: image/jpeg, Size: 758x655, Base64 length: 84448
+2025-03-18 14:26:28.473 -   Image: 3bdc370b-c4cf-4012-a9aa-a9590df95300, Type: image/jpeg, Size: 758x655, Base64 length: 126152
+2025-03-18 14:26:28.474 -   Image: 2eaa85c8-5ca0-406b-b9dc-c7d896412c7a, Type: image/jpeg, Size: 758x655, Base64 length: 166184
+2025-03-18 14:26:28.474 -   Image: 07eb2e71-e728-4c53-801e-6c6e94b19db0, Type: image/jpeg, Size: 758x655, Base64 length: 182552
+2025-03-18 14:26:28.474 - Section 'SCWS Startup' contains 1 images
+2025-03-18 14:26:28.475 -   Image: 435b00b2-cfc0-4402-ac29-6a7f67986a33, Type: image/jpeg, Size: 960x720, Base64 length: 49588
+2025-03-18 14:26:28.475 - Section 'Scale Image' contains 6 images
+2025-03-18 14:26:28.475 -   Image: 7a283b6b-09ad-4c00-82f4-68d2ddb854c9, Type: image/png, Size: 238x391, Base64 length: 30008
+2025-03-18 14:26:28.476 -   Image: ab61f08a-1739-4bda-bc97-fda9b3891c21, Type: image/png, Size: 448x139, Base64 length: 31896
+2025-03-18 14:26:28.476 -   Image: ad7f5c1b-a7a2-4e22-b416-dbb9c515faf8, Type: image/png, Size: 340x202, Base64 length: 30264
+2025-03-18 14:26:28.476 -   Image: e5d0cfd5-cf52-4c4f-858b-8ca7a5f3d42b, Type: image/png, Size: 486x151, Base64 length: 33496
+2025-03-18 14:26:28.476 -   Image: 483086b4-4bbf-4b12-a0a2-d54462222fff, Type: image/png, Size: 197x146, Base64 length: 20740
+2025-03-18 14:26:28.477 -   Image: 6862e6ea-13c1-416a-bb6d-297a68d34646, Type: image/png, Size: 365x195, Base64 length: 28932
+2025-03-18 14:26:28.477 - Section 'CSP Startup' contains 3 images
+2025-03-18 14:26:28.477 -   Image: cca772ce-8441-40d5-b437-1b074551a8ae, Type: image/jpeg, Size: 1210x720, Base64 length: 393648
+2025-03-18 14:26:28.478 -   Image: 03f325e5-659f-4839-b70d-9d783f13bec5, Type: image/png, Size: 735x166, Base64 length: 138596
+2025-03-18 14:26:28.478 -   Image: 417a71ef-6903-480e-af11-ddc56988770f, Type: image/jpeg, Size: 715x828, Base64 length: 491156
+2025-03-18 14:26:28.478 - Section 'Destination Points' contains 4 images
+2025-03-18 14:26:28.479 -   Image: 2f840a4f-28ab-4776-a050-187f0517b1b7, Type: image/jpeg, Size: 1171x696, Base64 length: 366284
+2025-03-18 14:26:28.479 -   Image: 54828642-8618-4118-be87-ada2bdad2b7e, Type: image/png, Size: 1123x647, Base64 length: 863164
+2025-03-18 14:26:28.479 -   Image: 1702ca12-f916-4c22-846d-8b0b1dd0baf1, Type: image/png, Size: 572x387, Base64 length: 180956
+2025-03-18 14:26:28.479 -   Image: 9e29301a-c6d1-4991-83f6-117788d26f5b, Type: image/x-emf, Size: 636x446, Base64 length: 1510784
+2025-03-18 14:26:28.480 - Section 'Targets' contains 5 images
+2025-03-18 14:26:28.480 -   Image: d86af763-1485-4096-a3ff-1dcafe287a46, Type: image/jpeg, Size: 1235x735, Base64 length: 447980
+2025-03-18 14:26:28.480 -   Image: b72016f8-3e34-4716-85bf-7a6c395d10cf, Type: image/jpeg, Size: 1134x673, Base64 length: 388892
+2025-03-18 14:26:28.480 -   Image: 64f45630-b644-40c3-b37f-e7d146d3db37, Type: image/jpeg, Size: 1166x383, Base64 length: 90136
+2025-03-18 14:26:28.481 -   Image: 9e840291-8796-4210-9cb0-bc139e877176, Type: image/jpeg, Size: 601x199, Base64 length: 53552
+2025-03-18 14:26:28.481 -   Image: 6b5b7ce8-2877-4178-a929-ea2eebc67832, Type: image/jpeg, Size: 1166x383, Base64 length: 94832
+2025-03-18 14:26:28.481 - Section 'Scenes' contains 7 images
+2025-03-18 14:26:28.482 -   Image: 367d4d72-aa12-4f2a-818c-6552f18d8460, Type: image/png, Size: 841x776, Base64 length: 1026240
+2025-03-18 14:26:28.482 -   Image: 33f3258a-91b0-40d0-a263-5f170174ba2d, Type: image/png, Size: 823x819, Base64 length: 1144000
+2025-03-18 14:26:28.482 -   Image: 74dd67a6-dc7e-4e94-b158-99a89fac55f4, Type: image/png, Size: 950x569, Base64 length: 914592
+2025-03-18 14:26:28.482 -   Image: 954f6e07-acc9-48ec-b260-7497446d3fd9, Type: image/jpeg, Size: 1152x309, Base64 length: 155028
+2025-03-18 14:26:28.483 -   Image: f853ee25-ed90-40e8-acfe-dd5f9d0de985, Type: image/png, Size: 653x772, Base64 length: 422584
+2025-03-18 14:26:28.483 -   Image: f706c1c9-963e-4b67-8123-120b1d5734c6, Type: image/png, Size: 655x772, Base64 length: 506728
+2025-03-18 14:26:28.483 -   Image: 8d57bbb5-bdac-41c9-b6f3-687d07d0fab3, Type: image/png, Size: 778x587, Base64 length: 867408
+2025-03-18 14:26:28.484 - Section 'Uplink Sensor and Processing Plan (S&PP)' contains 6 images
+2025-03-18 14:26:28.484 -   Image: e319b7db-8a6b-49d2-b105-a93a23f9d236, Type: image/jpeg, Size: 1210x721, Base64 length: 390212
+2025-03-18 14:26:28.484 -   Image: 6fcef82b-fb23-41e7-943a-a3edc8b1ad2e, Type: image/jpeg, Size: 1217x135, Base64 length: 58380
+2025-03-18 14:26:28.484 -   Image: 3c743f7c-0b8e-4204-b623-e54125a45c21, Type: image/png, Size: 899x687, Base64 length: 479112
+2025-03-18 14:26:28.485 -   Image: 0d72c4e1-7eea-4057-a6c0-877153ddb8ae, Type: image/png, Size: 897x685, Base64 length: 592300
+2025-03-18 14:26:28.485 -   Image: 4b46046e-eb84-47a4-b42c-eb1f4a22c4f4, Type: image/png, Size: 894x681, Base64 length: 475684
+2025-03-18 14:26:28.485 -   Image: 9a50baaf-5c67-4533-89d9-0abf8e287513, Type: image/png, Size: 897x686, Base64 length: 487136
+2025-03-18 14:26:28.485 - Section 'Change Detection' contains 9 images
+2025-03-18 14:26:28.486 -   Image: bc344411-fc6c-4e85-9c08-748aafb31cdb, Type: image/png, Size: 669x684, Base64 length: 546164
+2025-03-18 14:26:28.486 -   Image: 85c463e0-d348-4a59-982f-05f8efe73f67, Type: image/png, Size: 638x686, Base64 length: 515568
+2025-03-18 14:26:28.486 -   Image: bf7d5d5c-ef8a-4956-8c03-41d9a32d81ac, Type: image/png, Size: 1100x288, Base64 length: 248396
+2025-03-18 14:26:28.486 -   Image: 972cf041-1d8b-45e5-bea5-a3f375551a08, Type: image/png, Size: 1099x327, Base64 length: 278252
+2025-03-18 14:26:28.487 -   Image: a5bbf175-1c23-43d3-ae94-6cc476018724, Type: image/png, Size: 818x489, Base64 length: 666724
+2025-03-18 14:26:28.487 -   Image: 79754fb5-013c-47d4-bf9c-6c4ad2530143, Type: image/png, Size: 930x552, Base64 length: 856140
+2025-03-18 14:26:28.487 -   Image: ae87f6c3-87dd-4222-92a1-b3bee8e62d08, Type: image/png, Size: 1104x290, Base64 length: 271576
+2025-03-18 14:26:28.487 -   Image: d0f24d58-9ff4-424e-b885-e63396465aa3, Type: image/png, Size: 1153x685, Base64 length: 1301356
+2025-03-18 14:26:28.488 -   Image: 6a0f023d-39db-489a-89c4-1368c601c38b, Type: image/png, Size: 637x684, Base64 length: 516620
+2025-03-18 14:26:28.488 - Section 'Multiple Missions' contains 3 images
+2025-03-18 14:26:28.489 -   Image: 9db31c25-44e0-41c3-9b45-b7382594fe49, Type: image/png, Size: 829x497, Base64 length: 615108
+2025-03-18 14:26:28.489 -   Image: 6db33bcc-6579-49a0-86c3-7251b02904c7, Type: image/jpeg, Size: 315x309, Base64 length: 33876
+2025-03-18 14:26:28.489 -   Image: 4173f1fb-38f7-4b95-a5c8-1eca77ae2ff4, Type: image/jpeg, Size: 729x425, Base64 length: 88380
+2025-03-18 14:26:28.490 - Total images in document: 61
+2025-03-18 14:26:28.490 - Starting extraction process
+2025-03-18 14:26:28.490 - Processing multiple sections individually
+2025-03-18 14:26:28.497 - Extracting section 1 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+2025-03-18 14:26:28.701 - Extracting section 2 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+2025-03-18 14:26:28.865 - Extracting section 3 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+2025-03-18 14:26:29.028 - Extracting section 4 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+2025-03-18 14:26:29.185 - Extracting section 5 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_4.docx
+2025-03-18 14:26:29.330 - Extracting section 6 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_5.docx
+2025-03-18 14:26:29.469 - Extracting section 7 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_6.docx
+2025-03-18 14:26:29.600 - Extracting section 8 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_7.docx
+2025-03-18 14:26:29.743 - Copying first temp file to output location
+2025-03-18 14:26:29.746 - Extraction console output:
+2025-03-18 14:26:29.746 - 
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+Found target section: Ground Datalink Configurations
+Number of subsections: 3
+
+Creating document...
+
+Processing section: Ground Datalink Configurations
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Direct LOS Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Direct LOS Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'Direct LOS Configuration'
+Level: 4
+Content length: 567 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 2de98f62-e101-40e4-8352-3dfedfd3c6bb
+  Type: image/png
+  Size: 880x711
+  Base64 length: 600272
+Found target section: Direct LOS Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Reach Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Reach Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'Reach Configuration'
+Level: 4
+Content length: 1019 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 05f1691c-0003-4dc8-8b20-3a5977d9586b
+  Type: image/png
+  Size: 879x707
+  Base64 length: 665800
+Found target section: Reach Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > BLOS Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'BLOS Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'BLOS Configuration'
+Level: 4
+Content length: 1001 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: a2b9fbf8-605f-46b3-86af-756198221437
+  Type: image/png
+  Size: 880x710
+  Base64 length: 705684
+Found target section: BLOS Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+Found target section: MCI Operator Instructions
+Number of subsections: 4
+
+Creating document...
+
+Processing section: MCI Operator Instructions
+
+Processing section: MCI Displays and Controls
+
+Processing section: MCI Startup and Shutdown
+
+Processing section: MCI Startup
+Processing 1 tables...
+
+Processing section: MCI Shutdown
+Processing 1 tables...
+
+Processing section: MCI Operation
+
+Processing section: MCI Core Site Options
+Processing 1 tables...
+Processing 1 images...
+Original size: 960x720
+Scaled size: 624x468
+
+Processing section: MCI Reach Site Options
+Processing 1 images...
+Original size: 800x412
+Scaled size: 520x267.8
+
+Processing section: Mission Thread Operation
+
+Processing section: Start Mission Thread
+
+Processing section: Monitor Mission Thread
+
+Processing section: Stop Mission Thread
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_4.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+Found target section: MCI Operation
+Number of subsections: 2
+
+Creating document...
+
+Processing section: MCI Operation
+
+Processing section: MCI Core Site Options
+Processing 1 tables...
+Processing 1 images...
+Original size: 960x720
+Scaled size: 624x468
+
+Processing section: MCI Reach Site Options
+Processing 1 images...
+Original size: 800x412
+Scaled size: 520x267.8
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_5.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation > MCI Core Site Options
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'MCI Core Site Options'
+Available sections at this level:
+- 'MCI Core Site Options'
+- 'MCI Reach Site Options'
+Found section: 'MCI Core Site Options'
+Level: 4
+Content length: 670 characters
+Tables: 1
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 0a0d9979-ec11-42dd-a9b7-e7afbb6d0d6a
+  Type: image/jpeg
+  Size: 960x720
+  Base64 length: 106516
+Found target section: MCI Core Site Options
+Number of subsections: 0
+
+Creating document...
+
+Processing section: MCI Core Site Options
+Processing 1 tables...
+Processing 1 images...
+Original size: 960x720
+Scaled size: 624x468
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_6.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Operation > MCI Reach Site Options
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+- 'SCWS Operator Instructions'
+  Subsections:
+  - 'SCWS Displays and Controls'
+  - 'SCWS Startup and Shutdown'
+  - 'SCWS Operation'
+- 'CSP Operator Instructions'
+  Subsections:
+  - 'CSP Displays and Controls'
+  - 'CSP Startup and Shutdown'
+  - 'CSP Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Operation'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Operation'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'MCI Reach Site Options'
+Available sections at this level:
+- 'MCI Core Site Options'
+- 'MCI Reach Site Options'
+Found section: 'MCI Reach Site Options'
+Level: 4
+Content length: 58 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 8cdc43a9-1fd5-4cc6-b1dd-f4a7b1540f1f
+  Type: image/jpeg
+  Size: 800x412
+  Base64 length: 76000
+Found target section: MCI Reach Site Options
+Number of subsections: 0
+
+Creating document...
+
+Processing section: MCI Reach Site Options
+Processing 1 images...
+Original size: 800x412
+Scaled size: 520x267.8
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_7.docx
+
+2025-03-18 14:26:29.747 - Extraction completed
+2025-03-18 14:26:31.329 - Analyzing extracted document for images: C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR_extracted_GroundDataLinkConfig.docx
+2025-03-18 14:26:31.330 - Extracted document size: 1,483,279 bytes

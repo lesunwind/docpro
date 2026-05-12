@@ -1,0 +1,5 @@
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\tests\DocumentProcessor.Tests\obj\Debug\net9.0\DocumentProcessor.Tests.csproj.AssemblyReference.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\tests\DocumentProcessor.Tests\obj\Debug\net9.0\DocumentProcessor.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\tests\DocumentProcessor.Tests\obj\Debug\net9.0\DocumentProcessor.Tests.AssemblyInfoInputs.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\tests\DocumentProcessor.Tests\obj\Debug\net9.0\DocumentProcessor.Tests.AssemblyInfo.cs
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\tests\DocumentProcessor.Tests\obj\Debug\net9.0\DocumentProcessor.Tests.csproj.CoreCompileInputs.cache

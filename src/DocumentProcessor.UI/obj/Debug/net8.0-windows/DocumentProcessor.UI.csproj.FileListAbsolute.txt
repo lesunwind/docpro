@@ -1,0 +1,84 @@
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.exe
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.deps.json
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.runtimeconfig.json
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.pdb
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.AssemblyReference.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.AssemblyInfoInputs.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.AssemblyInfo.cs
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.CoreCompileInputs.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\Document.87AF7386.Up2Date
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\refint\DocumentProcessor.UI.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.pdb
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.genruntimeconfig.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\ref\DocumentProcessor.UI.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.MainForm.resources
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.GenerateResource.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.exe
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.deps.json
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.runtimeconfig.json
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.pdb
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.AssemblyReference.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.MainForm.resources
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.GenerateResource.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.AssemblyInfoInputs.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.AssemblyInfo.cs
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.CoreCompileInputs.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\Document.87AF7386.Up2Date
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\refint\DocumentProcessor.UI.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.pdb
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.genruntimeconfig.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\ref\DocumentProcessor.UI.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.exe
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.deps.json
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.runtimeconfig.json
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.pdb
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.AssemblyReference.cache
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.MainForm.resources
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.GenerateResource.cache
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.AssemblyInfoInputs.cache
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.AssemblyInfo.cs
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.CoreCompileInputs.cache
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\Document.87AF7386.Up2Date
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\refint\DocumentProcessor.UI.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.pdb
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.genruntimeconfig.cache
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\ref\DocumentProcessor.UI.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.exe
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.deps.json
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.runtimeconfig.json
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.UI.pdb
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.AssemblyReference.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.MainForm.resources
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.GenerateResource.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.AssemblyInfoInputs.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.AssemblyInfo.cs
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.csproj.CoreCompileInputs.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\Document.87AF7386.Up2Date
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\refint\DocumentProcessor.UI.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.pdb
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\DocumentProcessor.UI.genruntimeconfig.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.UI\obj\Debug\net8.0-windows\ref\DocumentProcessor.UI.dll

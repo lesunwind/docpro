@@ -1,0 +1,651 @@
+2025-03-01 06:15:57.326 - Logging initialized
+2025-03-01 06:15:57.332 - Application started
+2025-03-01 06:16:50.741 - Extract button clicked
+2025-03-01 06:16:50.743 - Selected 3 section paths
+2025-03-01 06:16:50.744 - Selected path 1: GENERAL INFORMATION > System Description > Mission Threads
+2025-03-01 06:16:50.744 - Selected path 2: GENERAL INFORMATION > System Description > Mission Threads > ASARS-2A Data from Reach Site to Core Site
+2025-03-01 06:16:50.744 - Selected path 3: GENERAL INFORMATION > System Description > Mission Threads > ASARS-2A Data from RGS to Core Site
+2025-03-01 06:17:21.102 - Output file selected: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\output\missionthreads.docx
+2025-03-01 06:17:21.164 - JSON file path: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+2025-03-01 06:17:21.263 - JSON contains 4 top-level sections
+2025-03-01 06:17:21.264 - Section 'Direct LOS Configuration' contains 1 images
+2025-03-01 06:17:21.265 -   Image: e52a5c8e-18a5-41fc-af91-cac0aaad7f58, Type: image/png, Size: 880x711, Base64 length: 600272
+2025-03-01 06:17:21.265 - Section 'Reach Configuration' contains 1 images
+2025-03-01 06:17:21.266 -   Image: b393a485-d807-4e83-9e4f-0be7c93cf938, Type: image/png, Size: 879x707, Base64 length: 665800
+2025-03-01 06:17:21.266 - Section 'BLOS Configuration' contains 1 images
+2025-03-01 06:17:21.266 -   Image: f436d538-d6dd-40e6-83fb-6bf1861d0676, Type: image/png, Size: 880x710, Base64 length: 705684
+2025-03-01 06:17:21.267 - Section 'Multiple Datalink Capabilities' contains 1 images
+2025-03-01 06:17:21.267 -   Image: 4e2e08ae-9f31-41e9-a5fc-8aeecd35005a, Type: image/png, Size: 657x531, Base64 length: 425740
+2025-03-01 06:17:21.267 - Section 'ASARS-2A Data from Reach Site to Core Site' contains 1 images
+2025-03-01 06:17:21.268 -   Image: 2520278b-b4f4-4ec3-967a-18cb347199ba, Type: image/jpeg, Size: 967x734, Base64 length: 233600
+2025-03-01 06:17:21.268 - Section 'ASARS-2A Data from RGS to Core Site' contains 1 images
+2025-03-01 06:17:21.268 -   Image: 7b0cf126-1fc8-42e8-b77d-1e39d1e62b43, Type: image/jpeg, Size: 955x739, Base64 length: 188896
+2025-03-01 06:17:21.268 - Section 'APS+ Interfaces' contains 1 images
+2025-03-01 06:17:21.269 -   Image: f687cdcb-e09c-4497-a929-0fd958cec353, Type: image/jpeg, Size: 997x734, Base64 length: 281400
+2025-03-01 06:17:21.269 - Section 'MCI Core Site Options' contains 1 images
+2025-03-01 06:17:21.270 -   Image: f766d2b6-fab2-4025-983f-20533cd306bb, Type: image/jpeg, Size: 960x720, Base64 length: 106516
+2025-03-01 06:17:21.271 - Section 'MCI Reach Site Options' contains 1 images
+2025-03-01 06:17:21.271 -   Image: b47f81bc-cb80-4e88-957b-365e7131fe5d, Type: image/jpeg, Size: 800x412, Base64 length: 76000
+2025-03-01 06:17:21.272 - Total images in document: 9
+2025-03-01 06:17:21.273 - Starting extraction process
+2025-03-01 06:17:21.274 - Processing multiple sections individually
+2025-03-01 06:17:21.304 - Extracting section 1 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+2025-03-01 06:17:21.458 - Extracting section 2 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+2025-03-01 06:17:21.577 - Extracting section 3 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+2025-03-01 06:17:21.667 - Copying first temp file to output location
+2025-03-01 06:17:21.670 - Extraction console output:
+2025-03-01 06:17:21.671 - 
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Mission Threads
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Mission Threads'
+Available sections at this level:
+- 'Operating Sites'
+- 'Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Mission Threads'
+Level: 3
+Content length: 265 characters
+Tables: 0
+Images: 0
+Subsections: 2
+Found target section: Mission Threads
+Number of subsections: 2
+
+Creating document...
+
+Processing section: Mission Threads
+
+Processing section: ASARS-2A Data from Reach Site to Core Site
+Processing 1 images...
+Original size: 967x734
+Scaled size: 628.5499212598426x477.0999475065617
+
+Processing section: ASARS-2A Data from RGS to Core Site
+Processing 1 images...
+Original size: 955x739
+Scaled size: 620.7499212598425x480.3499212598425
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Mission Threads > ASARS-2A Data from Reach Site to Core Site
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Mission Threads'
+Available sections at this level:
+- 'Operating Sites'
+- 'Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Mission Threads'
+Level: 3
+Content length: 265 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'ASARS-2A Data from Reach Site to Core Site'
+Available sections at this level:
+- 'ASARS-2A Data from Reach Site to Core Site'
+- 'ASARS-2A Data from RGS to Core Site'
+Found section: 'ASARS-2A Data from Reach Site to Core Site'
+Level: 4
+Content length: 478 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 2520278b-b4f4-4ec3-967a-18cb347199ba
+  Type: image/jpeg
+  Size: 967x734
+  Base64 length: 233600
+Found target section: ASARS-2A Data from Reach Site to Core Site
+Number of subsections: 0
+
+Creating document...
+
+Processing section: ASARS-2A Data from Reach Site to Core Site
+Processing 1 images...
+Original size: 967x734
+Scaled size: 628.5499212598426x477.0999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Mission Threads > ASARS-2A Data from RGS to Core Site
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Mission Threads'
+Available sections at this level:
+- 'Operating Sites'
+- 'Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Mission Threads'
+Level: 3
+Content length: 265 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'ASARS-2A Data from RGS to Core Site'
+Available sections at this level:
+- 'ASARS-2A Data from Reach Site to Core Site'
+- 'ASARS-2A Data from RGS to Core Site'
+Found section: 'ASARS-2A Data from RGS to Core Site'
+Level: 4
+Content length: 299 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 7b0cf126-1fc8-42e8-b77d-1e39d1e62b43
+  Type: image/jpeg
+  Size: 955x739
+  Base64 length: 188896
+Found target section: ASARS-2A Data from RGS to Core Site
+Number of subsections: 0
+
+Creating document...
+
+Processing section: ASARS-2A Data from RGS to Core Site
+Processing 1 images...
+Original size: 955x739
+Scaled size: 620.7499212598425x480.3499212598425
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+
+2025-03-01 06:17:21.671 - Extraction completed
+2025-03-01 06:17:23.380 - Analyzing extracted document for images: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\output\missionthreads.docx
+2025-03-01 06:17:23.383 - Extracted document size: 273,691 bytes
+2025-03-01 06:18:44.008 - Extract button clicked
+2025-03-01 06:18:44.011 - Selected 3 section paths
+2025-03-01 06:18:44.012 - Selected path 1: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Startup and Shutdown
+2025-03-01 06:18:44.012 - Selected path 2: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Startup and Shutdown > MCI Startup
+2025-03-01 06:18:44.012 - Selected path 3: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Startup and Shutdown > MCI Shutdown
+2025-03-01 06:18:58.570 - Output file selected: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\startupandshutdown.docx
+2025-03-01 06:18:58.579 - JSON file path: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+2025-03-01 06:18:58.615 - JSON contains 4 top-level sections
+2025-03-01 06:18:58.616 - Section 'Direct LOS Configuration' contains 1 images
+2025-03-01 06:18:58.616 -   Image: e52a5c8e-18a5-41fc-af91-cac0aaad7f58, Type: image/png, Size: 880x711, Base64 length: 600272
+2025-03-01 06:18:58.617 - Section 'Reach Configuration' contains 1 images
+2025-03-01 06:18:58.617 -   Image: b393a485-d807-4e83-9e4f-0be7c93cf938, Type: image/png, Size: 879x707, Base64 length: 665800
+2025-03-01 06:18:58.618 - Section 'BLOS Configuration' contains 1 images
+2025-03-01 06:18:58.618 -   Image: f436d538-d6dd-40e6-83fb-6bf1861d0676, Type: image/png, Size: 880x710, Base64 length: 705684
+2025-03-01 06:18:58.619 - Section 'Multiple Datalink Capabilities' contains 1 images
+2025-03-01 06:18:58.619 -   Image: 4e2e08ae-9f31-41e9-a5fc-8aeecd35005a, Type: image/png, Size: 657x531, Base64 length: 425740
+2025-03-01 06:18:58.619 - Section 'ASARS-2A Data from Reach Site to Core Site' contains 1 images
+2025-03-01 06:18:58.620 -   Image: 2520278b-b4f4-4ec3-967a-18cb347199ba, Type: image/jpeg, Size: 967x734, Base64 length: 233600
+2025-03-01 06:18:58.620 - Section 'ASARS-2A Data from RGS to Core Site' contains 1 images
+2025-03-01 06:18:58.621 -   Image: 7b0cf126-1fc8-42e8-b77d-1e39d1e62b43, Type: image/jpeg, Size: 955x739, Base64 length: 188896
+2025-03-01 06:18:58.621 - Section 'APS+ Interfaces' contains 1 images
+2025-03-01 06:18:58.621 -   Image: f687cdcb-e09c-4497-a929-0fd958cec353, Type: image/jpeg, Size: 997x734, Base64 length: 281400
+2025-03-01 06:18:58.622 - Section 'MCI Core Site Options' contains 1 images
+2025-03-01 06:18:58.622 -   Image: f766d2b6-fab2-4025-983f-20533cd306bb, Type: image/jpeg, Size: 960x720, Base64 length: 106516
+2025-03-01 06:18:58.623 - Section 'MCI Reach Site Options' contains 1 images
+2025-03-01 06:18:58.623 -   Image: b47f81bc-cb80-4e88-957b-365e7131fe5d, Type: image/jpeg, Size: 800x412, Base64 length: 76000
+2025-03-01 06:18:58.623 - Total images in document: 9
+2025-03-01 06:18:58.623 - Starting extraction process
+2025-03-01 06:18:58.624 - Processing multiple sections individually
+2025-03-01 06:18:58.633 - Extracting section 1 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+2025-03-01 06:18:58.675 - Extracting section 2 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+2025-03-01 06:18:58.702 - Extracting section 3 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+2025-03-01 06:18:58.745 - Copying first temp file to output location
+2025-03-01 06:18:58.747 - Extraction console output:
+2025-03-01 06:18:58.748 - 
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Startup and Shutdown
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 1
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Startup and Shutdown'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Startup and Shutdown'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+Found target section: MCI Startup and Shutdown
+Number of subsections: 2
+
+Creating document...
+
+Processing section: MCI Startup and Shutdown
+
+Processing section: MCI Startup
+Processing 1 tables...
+
+Processing section: MCI Shutdown
+Processing 1 tables...
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Startup and Shutdown > MCI Startup
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 1
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Startup and Shutdown'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Startup and Shutdown'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'MCI Startup'
+Available sections at this level:
+- 'MCI Startup'
+- 'MCI Shutdown'
+Found section: 'MCI Startup'
+Level: 4
+Content length: 86 characters
+Tables: 1
+Images: 0
+Subsections: 0
+Found target section: MCI Startup
+Number of subsections: 0
+
+Creating document...
+
+Processing section: MCI Startup
+Processing 1 tables...
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: OPERATOR INSTRUCTIONS > MCI Operator Instructions > MCI Startup and Shutdown > MCI Shutdown
+
+Searching for: 'OPERATOR INSTRUCTIONS'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'OPERATOR INSTRUCTIONS'
+Level: 1
+Content length: 254 characters
+Tables: 0
+Images: 0
+Subsections: 1
+
+Searching for: 'MCI Operator Instructions'
+Available sections at this level:
+- 'MCI Operator Instructions'
+  Subsections:
+  - 'MCI Displays and Controls'
+  - 'MCI Startup and Shutdown'
+  - 'MCI Operation'
+  - 'Mission Thread Operation'
+Found section: 'MCI Operator Instructions'
+Level: 2
+Content length: 168 characters
+Tables: 0
+Images: 0
+Subsections: 4
+
+Searching for: 'MCI Startup and Shutdown'
+Available sections at this level:
+- 'MCI Displays and Controls'
+- 'MCI Startup and Shutdown'
+  Subsections:
+  - 'MCI Startup'
+  - 'MCI Shutdown'
+- 'MCI Operation'
+  Subsections:
+  - 'MCI Core Site Options'
+  - 'MCI Reach Site Options'
+- 'Mission Thread Operation'
+  Subsections:
+  - 'Start Mission Thread'
+  - 'Monitor Mission Thread'
+  - 'Stop Mission Thread'
+Found section: 'MCI Startup and Shutdown'
+Level: 3
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'MCI Shutdown'
+Available sections at this level:
+- 'MCI Startup'
+- 'MCI Shutdown'
+Found section: 'MCI Shutdown'
+Level: 4
+Content length: 68 characters
+Tables: 1
+Images: 0
+Subsections: 0
+Found target section: MCI Shutdown
+Number of subsections: 0
+
+Creating document...
+
+Processing section: MCI Shutdown
+Processing 1 tables...
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+
+2025-03-01 06:18:58.749 - Extraction completed
+2025-03-01 06:19:00.344 - Analyzing extracted document for images: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\startupandshutdown.docx
+2025-03-01 06:19:00.345 - Extracted document size: 2,749 bytes
+2025-03-01 06:19:00.346 - WARNING: Document size is very small, might not contain images

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGEssG9Dvvs=",
+  "success": true,
+  "projectFilePath": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E21148888\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\E21148888\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\E21148888\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\E21148888\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

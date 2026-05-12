@@ -1,0 +1,697 @@
+[
+  {
+    "Title": "",
+    "Level": 1,
+    "Content": "",
+    "Subsections": [],
+    "Tables": [],
+    "Images": [],
+    "Metadata": {}
+  },
+  {
+    "Title": "GENERAL INFORMATION",
+    "Level": 1,
+    "Content": "",
+    "Subsections": [
+      {
+        "Title": "Overview",
+        "Level": 2,
+        "Content": "This Operation and Maintenance (O\u0026M) Manual provides information and instructions on how to operate and maintain the United States Air Force Distributed Ground Station (AF DCGS) Advanced Processing System Plus (APS\u002B) software.\n\nThe intended audience for this manual are U-2S Dragonlady aircraft / Advanced Synthetic Aperture Radar System-2A (ASARS-2A) high-resolution, multimode, long-range, air-to-ground radar sensor Mission Planners (MPs) and Direct Mission Support Maintenance Personnel (DMSMP) using APS\u002B installed in AF DCGS equipment located at operational Distributed Ground Sites (DGS) and Raytheon ASARS-2A engineers supporting in-plant maintenance and sustainment activities. This manual assumes the user already has working knowledge of the ASARS-2A sensor, server, workstation operating systems and graphical user interfaces (GUIs), and related computer networking. It is not meant to serve as a complete reference for all mission activities supported by MPs and DMSMP.\n\nThe APS\u002B software modernizes the legacy APS software used operationally for over 20 years. This modernization was accomplished to align with AF DCGS technology roadmaps and to make the APS\u002B software more technically compatible, functionally robust, and easier to maintain.\n\nAPS\u002B displays ASARS-2A sensor health, status, and image quality and is used for U-2S / ASARS-2A mission planning. \n\nAPS\u002B software is installed in the Distributed Common Ground Station (DCGS) System Integration Lab (DSIL), East Coast Hub (ECH), and West Coast Hub (WCH). APS\u002B is capable of supporting multiple instances, allowing APS\u002B to be remotely accessible by the deployed DGS sites. \n\nThe APS\u002B software is capable of being customized at each operating site to accommodate differences in configuration, interfaces, or mission needs. Workstations in each AF DCGS may provide slightly different shortcuts to launch certain APS\u002B applications. This manual does not cover site-specific APS\u002B customizations.",
+        "Subsections": [
+          {
+            "Title": "Scope",
+            "Level": 3,
+            "Content": "Type of manual: Operation and Maintenance Manual\nEnd item nomenclature: United States Air Force (AF) Distributed Common Ground Station (DCGS) Advanced Processing System Plus (APS\u002B) Software\nEnd item purpose: Display ASARS-2A sensor health, status, and image quality and provide U-2S aircraft / ASARS-2A sensor mission planning for Intelligence, Reconnaissance, and Surveillance (ISR) mission operations.\nManual Use: To provide AF DCGS APS\u002B software operation and maintenance information and instructions. The information and instructions include APS\u002B general information, operator instructions, maintenance instructions, and supporting information.\nFigures and Tables: Figures and tables are numbered and titled. The figures and tables are sequentially numbered within the subsection.",
+            "Subsections": [],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "Abbreviations and Acronyms",
+            "Level": 3,
+            "Content": "The list of abbreviations and acronyms is provided in Table 1. Electronically displayed, placarded, and referenced document title abbreviations are presented throughout this manual as they appear and may not be included in Table 1. Abbreviations and acronyms with classified definitions are not defined in this publication. To be updated\u2026\nTable  SEQ Table \\* ARABIC 1 Abbreviations and Acronyms\n",
+            "Subsections": [],
+            "Tables": [
+              {
+                "Id": "56da836f-1341-40df-8136-ec0fb4b072cb",
+                "Title": "Table",
+                "Data": [
+                  [
+                    "Acronym",
+                    "Definition"
+                  ],
+                  [
+                    "AF DCGS",
+                    "Air Force Distributed Common Ground Station (AF DCGS)"
+                  ],
+                  [
+                    "APS\u002B",
+                    "Advanced Processing System Plus"
+                  ],
+                  [
+                    "ASARS-2A",
+                    "Advanced Synthetic Aperture Radar System-2A"
+                  ],
+                  [
+                    "CSP",
+                    "Common Sensor Planner"
+                  ],
+                  [
+                    "DCGS",
+                    "Distributed Common Ground System"
+                  ],
+                  [
+                    "DGS",
+                    "Distributed Ground Station"
+                  ],
+                  [
+                    "DMSMP",
+                    "Direct Mission Support Maintenance Personnel"
+                  ],
+                  [
+                    "DSIL",
+                    "Distributed Common Ground Station (DCGS) System Integration Lab"
+                  ],
+                  [
+                    "ECH",
+                    "East Coast Hub"
+                  ],
+                  [
+                    "GUI",
+                    "Graphical User Interface"
+                  ],
+                  [
+                    "ISR",
+                    "Intelligence, Reconnaissance, and Surveillance"
+                  ],
+                  [
+                    "MCI",
+                    "Mission Configuration Interface"
+                  ],
+                  [
+                    "MP",
+                    "Mission Planner"
+                  ],
+                  [
+                    "O\u0026M",
+                    "Operation and Maintenance"
+                  ],
+                  [
+                    "SCWS",
+                    "Sensor Control Work Station"
+                  ],
+                  [
+                    "WCH",
+                    "West Coast Hub"
+                  ],
+                  [
+                    "\u2026",
+                    "\u2026"
+                  ]
+                ]
+              }
+            ],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "Referenced Documents",
+            "Level": 3,
+            "Content": "Documents referenced in this manual are listed in Table 2. Reference Documents. Use the latest version of documents applicable to the APS\u002B Program. Sample information. To be updated\u2026\nTable  SEQ Table \\* ARABIC 2 Referenced Documents\n",
+            "Subsections": [],
+            "Tables": [
+              {
+                "Id": "f60fd64a-e929-445e-b050-6311ecc3744a",
+                "Title": "Table",
+                "Data": [
+                  [
+                    "Document Number",
+                    "Title"
+                  ],
+                  [
+                    "1234567",
+                    "Commercial Manual"
+                  ],
+                  [
+                    "MIL-SPEC-56789",
+                    "Military Specification"
+                  ],
+                  [
+                    "9876543-210",
+                    "Engineering Drawing"
+                  ],
+                  [
+                    "\u2026",
+                    "\u2026"
+                  ]
+                ]
+              }
+            ],
+            "Images": [],
+            "Metadata": {}
+          }
+        ],
+        "Tables": [],
+        "Images": [],
+        "Metadata": {}
+      },
+      {
+        "Title": "System Description",
+        "Level": 2,
+        "Content": "At established AF DCGS sites and Distributed Ground Station (DGS) deployed locations, operators plan navigational routes for the U-2S aircraft to follow during the mission. Using the planned navigational routes, operators can then perform mission planning by identifying potential targets for imagery collection planning and scene planning to capture a target\u2019s imagery using one of the ASARS-2A modes.\nA completed mission plan is uplinked to the U-2S aircraft / ASARS-2A sensor airborne system for collection and processing. As the aircraft approaches a preplanned scene, raw data is collected as Video Phase History (VPH) data by the Receiver Exciter Controller (REC), and then transmitted to the On-Board Processor (OBP) for recording and/or processing.\nOnce the data is received by the OBP, data is captured and processed into imagery. Users have the option of recording imagery or raw VPH data onto the Sensor Storage Array (SSA). Any imagery which is created is dispatched to an AF DCGS, where analysts may evaluate it.\nAt any point during the mission, operators may edit the mission plan by planning additional scenes or altering parameters of previously planned scenes. Updated scenes may then be uplinked to re-task the ASARS-2A sensor. Scenes requiring immediate collection may also be uplinked to the ASARS-2A sensor for ad hoc tactical requirements.",
+        "Subsections": [
+          {
+            "Title": "Operating Sites",
+            "Level": 3,
+            "Content": "Each operating site is designated as a core site, reach site, or test site. Core sites and reach sites are mission sites, while test sites function like core sites but do not support operational missions. Reach sites have a line-of-site (LOS) link to the sensor and transmit imagery and telemetry to core sites via satellite. Core sites have the capability to process multiple concurrent missions independently. \n\nFunctions performed by the APS at core sites include mission planning, mission monitoring, sensor control, screening, dissemination, and exploitation. The following shows a list of sites and their site designation.\n\nTable  SEQ Table \\* ARABIC 3 Operating Sites\n\n",
+            "Subsections": [],
+            "Tables": [
+              {
+                "Id": "5577b618-6f46-467d-a9a6-cba0633c8b86",
+                "Title": "Table",
+                "Data": [
+                  [
+                    "Site Name",
+                    "Core Site",
+                    "Reach Site",
+                    "Test Site"
+                  ],
+                  [
+                    "DGS-1",
+                    "X",
+                    "",
+                    ""
+                  ],
+                  [
+                    "DGS-2",
+                    "X",
+                    "",
+                    ""
+                  ],
+                  [
+                    "DGS-3",
+                    "X",
+                    "",
+                    ""
+                  ],
+                  [
+                    "DGS-4",
+                    "X",
+                    "",
+                    ""
+                  ],
+                  [
+                    "DGS-5",
+                    "X",
+                    "",
+                    ""
+                  ],
+                  [
+                    "DGS-X",
+                    "",
+                    "",
+                    "X"
+                  ],
+                  [
+                    "DGS-IN",
+                    "X",
+                    "",
+                    ""
+                  ],
+                  [
+                    "DGS-KS",
+                    "X",
+                    "",
+                    ""
+                  ],
+                  [
+                    "DGS-MA",
+                    "X",
+                    "",
+                    ""
+                  ],
+                  [
+                    "DSIL",
+                    "",
+                    "",
+                    "X"
+                  ],
+                  [
+                    "FOL",
+                    "",
+                    "X",
+                    ""
+                  ],
+                  [
+                    "FTF",
+                    "",
+                    "",
+                    "X"
+                  ]
+                ]
+              }
+            ],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "Configurations",
+            "Level": 3,
+            "Content": "There are three basic ground datalink configurations for receiving ASARS-2A mission data and transmitting commands and mission plan updates.\nDirect Line of Sight (LOS) configuration\nReach configuration\nBeyond Line of Sight (BLOS) configuration",
+            "Subsections": [
+              {
+                "Title": "Direct LOS Configuration",
+                "Level": 4,
+                "Content": "In the Direct LOS configuration (Figure 1), the airborne system downlinks data directly to an AF DCGS site equipped with a compatible Common Data Link (CDL) receiving antenna. The AF DCGS can also uplink commands via CDL to the airborne system.\nIn a Direct LOS configuration, the AF DCGS site typically performs all of the sensor maintenance, sensor re-tasking, imagery screening, and ASARS-2A sensor imagery exploitation. The Flight Test Facility (FTF) and DGS-3 sites typically use a Direct LOS configuration.\n\nFigure  SEQ Figure \\* ARABIC 1 Direct LOS Configuration\n",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "Reach Configuration",
+                "Level": 4,
+                "Content": "In the Reach configuration (Figure 2), the airborne system downlinks data via CDL to a ground relay site located within the footprint of the airborne CDL antenna. The ground relay site then uses a satellite communications (SATCOM) link to relay the data to an AF DCGS site. ASARS-2A sensor commands can also be uplinked via the reverse path: from the AF DCGS site to the ground relay site via SATCOM link, then to the airborne sensor via CDL. The connection between a ground relay site and a particular AF DCGS site is point-to-point. A ground relay site can only connect to one AF DCGS site at a time.\nIn a Reach configuration, primary sensor control and monitoring is usually performed at the AF DCGS site. However, the ground relay site retains a capability to assert ASARS-2A sensor control if necessary. The Forward Operating Location (FOL) site uses a Reach configuration. Most AF DCGS sites are capable of using FOL as a reach site if dictated by mission needs.\n\nFigure  SEQ Figure \\* ARABIC 2 Reach Configuration\n",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "BLOS Configuration",
+                "Level": 4,
+                "Content": "In the BLOS configuration (Figure 3), the airborne system downlinks data and receives commands via another communications system on the U-2S aircraft which uses a different SATCOM architecture than a reach site. The receiving ground site for a BLOS SATCOM link is called a Relay Ground Station (RGS); there are currently two RGS sites (RGS-1 and RGS-2). Once received by an RGS site, the data is made available to one or more DGS sites via ground communication links. AF DCGS coordinates which DGS site is the lead for the mission (\u201Cprime\u201D) and which other DGS sites will participate as federated mission partners. Although data may be disseminated from an RGS to multiple DGS sites, only one DGS site at a time is allowed to uplink commands to the sensor via the RGS. \nIn a BLOS configuration, primary sensor control is performed at a single DGS site; all sites receive sensor data and telemetry. Any DGS site is capable of supporting BLOS operations.\n\n\nFigure  SEQ Figure \\* ARABIC 3 BLOS Configuration\n",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              }
+            ],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "Multiple Datalink Capabilities",
+            "Level": 3,
+            "Content": "The U-2S aircraft has multiple datalink capabilities (Figure 4). The U-2S aircraft can use two datalinks at the same time; either one CDL datalink and one BLOS SATCOM datalink or two different, independent, concurrent CDL datalinks.\nIf more than one datalink is active, the ASARS-2A sensor can only accept commands from one datalink. By default, the sensor will accept commands from the pilot selected primary datalink. A Control Data Unit (CDU) Reset command can be sent to instruct ASARS-2A sensor to accept commands from a specific datalink, regardless of the pilot selected primary datalink.\n\nFigure  SEQ Figure \\* ARABIC 4 Multiple Datalink Capabilities\n",
+            "Subsections": [],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "Mission Threads",
+            "Level": 3,
+            "Content": "Dual Mission refers to two U-2S aircraft simultaneously flying separate missions. An AF DCGS site is capable of supporting Dual Mission simultaneous mission threads. Each mission thread receives data only from the designated source of mission thread. To be updated\u2026",
+            "Subsections": [
+              {
+                "Title": "ASARS-2A Data from Reach Site to Core Site",
+                "Level": 4,
+                "Content": "This scenario occurs only if an AF DCGS core site has a Direct LOS link to the ASARS-2A sensor (Figure 5). The AF DCGS site VIP-C receives ASARS-2A sensor files and sends to the image server. Processes on the image server connect to the VIP-C to receive telemetry and VIP-C status. Uplink commands are passed from the image server through the VIP-C to the ASARS-2A sensor. To be updated\u2026\n\nFigure  SEQ Figure \\* ARABIC 5 ASARS-2A Data from Reach Site to Core Site (To be updated\u2026)\n",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "ASARS-2A Data from RGS to Core Site",
+                "Level": 4,
+                "Content": "This scenario occurs if an AF DCGS core site receives and displays imagery, MTI data and telemetry transmitted from the reach site (Figure 6). The AF DCGS core site sends uplink commands to the reach site. To be updated\u2026\n\nFigure  SEQ Figure \\* ARABIC 6 ASARS-2A from RGS to Core Site (To be updated\u2026)\n",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              }
+            ],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "APS\u002B Description",
+            "Level": 3,
+            "Content": "The APS\u002B software provides ASARS-2A sensor health and status monitoring, sensor collection planning, sensor command and control, and sensor imagery screening capabilities. APS\u002B software is installed on Open Architecture Distributed Common Ground Station (OA DCGS) system, integrated with enterprise services and mission capabilities at central hub sites and is remotely accessed by operational users at individual DGS sites.",
+            "Subsections": [
+              {
+                "Title": "APS\u002B Software Environment",
+                "Level": 4,
+                "Content": "APS\u002B is a software component which will be deployed as part of the OA DCGS subsystem within the AF DCGS enterprise. APS\u002B belongs to the imagery intelligence (IMINT) segment. APS\u002B operates within a virtual machine (VM) hosted on the OA DCGS hardware stack at operational hub sites. APS\u002B user-facing applications are made available to users at Distributed Ground Station (DGS) sites which are logically and often physically separated from the hub locations.\nSimilar to other OA DCGS components, APS\u002B interfaces with standard enterprise services which provide functions such as identity management, access control, auditing, intrusion detection, time of day, hardware and software health and status monitoring, asset management, and other capabilities. Interfaces to standard enterprise services are primarily related to the management of the AF DCGS enterprise, not specifically related to functional interfaces required for mission execution.\n",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "APS\u002B Interfaces",
+                "Level": 4,
+                "Content": "The APS\u002B internal and external interfaces both have input and output functions (Figure 7). APS\u002B internal interfaces are defined as APS\u002B software in one context interfacing to APS\u002B software in another context. APS\u002B external interfaces are defined as APS\u002B software interfacing to anything which is not APS\u002B software. Additional details to be provided\u2026\n\nFigure  SEQ Figure \\* ARABIC 7 APS\u002B External Interfaces (To be updated\u2026)\n",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "Mission Control Interface (MCI)",
+                "Level": 4,
+                "Content": "The APS\u002B software Mission Configuration Interface (MCI) application is used to define a mission at a Core or Reach Site. Prior to takeoff, the mission must be defined using the MCI application. Once the mission is defined and started, background processes are launched to provide interfaces for the VIP-C, telemetry, uplink, and other functions, as appropriate.",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "Sensor Control Workstation (SCWS)",
+                "Level": 4,
+                "Content": "The APS\u002B software Sensor Control Workstation (SCWS) application connects a DGS to the airborne system via datalink. The SCWS application displays information sent from the airborne system to the DGS and provides an interface to uplink commands from the DGS to the airborne system. Prior to takeoff, the mission must be defined and started using the MCI application, then the DGS to airborne system datalink must be established using the SCWS application.",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "Common Sensor Planner (CSP)",
+                "Level": 4,
+                "Content": "The APS\u002B software Common Sensor Planner (CSP) application is the interface to load the mission plan into the ASARS-2A sensor. During a mission, the CSP application can function as a Controlling CSP or as a non- controlling Monitoring CSP.\nThe Controlling CSP function is used exclusively by the MP during pre-mission planning and during the execution of the mission. During the mission, it is used to modify the mission plan, uplink the mission plan to the sensor, update the database for completion of scenes, and output scene status and mission plan information to the External Tasking Service (ETS). Only one instance of the Controlling CSP function is run for a mission thread during a mission.\nThe Monitoring CSP function is used by DGS personnel other than the MP during a mission to maintain situational awareness of the mission. The Monitoring CSP function does not output data to databases and external recipients. Multiple instances of the Monitoring CSP function can operate simultaneously.",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              }
+            ],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "APS\u002B Concept of Operations",
+            "Level": 3,
+            "Content": "APS\u002B CONOPS summary to be provided\u2026",
+            "Subsections": [
+              {
+                "Title": "Pre-Mission Operation",
+                "Level": 4,
+                "Content": "To be provided\u2026",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "Live Mission Operation",
+                "Level": 4,
+                "Content": "To be provided\u2026",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "Off-Tether Operation",
+                "Level": 4,
+                "Content": "To be provided\u2026\n\nEND OF SECTION\n",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              }
+            ],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          }
+        ],
+        "Tables": [],
+        "Images": [],
+        "Metadata": {}
+      }
+    ],
+    "Tables": [],
+    "Images": [],
+    "Metadata": {}
+  },
+  {
+    "Title": "",
+    "Level": 1,
+    "Content": "",
+    "Subsections": [],
+    "Tables": [],
+    "Images": [],
+    "Metadata": {}
+  },
+  {
+    "Title": "OPERATOR INSTRUCTIONS",
+    "Level": 1,
+    "Content": "At DGS sites, operators plan navigational routes which the U-2 aircraft will follow. From these routes, operators may plan and identify potential targets for imagery, and plan a scene to capture the imagery of that target using one of the ASARS-2A modes. ",
+    "Subsections": [
+      {
+        "Title": "MCI Operator Instructions",
+        "Level": 2,
+        "Content": "This subsection provides MCI displays and controls information, MCI startup and shutdown procedures, MCI functional procedures, and mission thread operation procedures.",
+        "Subsections": [
+          {
+            "Title": "MCI Displays and Controls",
+            "Level": 3,
+            "Content": "MCI, SCWS, and CSP Displays and Controls subsections to be developed using the following as a guide\u2026\nMain GUI window description\nPanel #1 (major section of the main GUI window) description\nMCI example: exploitation segment\nCSP examples: map area, toolbar, DP area, etc.\nSCWS examples: overview imagery area, CBIT area, annotation area, etc.\nFunctionality and visual elements description\nWhat it does\nWhen it is used\nWhy it is used\nHow it relates to mission\nPanel #2\nPanel #N\nControls\nMenu bar\nCategory #1, option #1\nDescribe result of option:\nDisplay a new window\nLoad or save a file\nToggle a setting, etc.\nIf a new window is displayed:\nDepict the window\nDescribe its function\nDescribe all controls and displays within the window\nDescribe how to dismiss the window:\nClose window and apply changes\nCancel without making changes\nIs the window modal (must be dismissed before doing anything else) or can it be left open (\u201Cfloated\u201D) when returning to the main UI?\nIf the menu bar option leads to a sub-menu (another menu pops out of the menu bar option drop-down when the option is hovered over), describe the sub-options\nCategory #1, option #2\nCategory #1, option #N\nControl widgets (buttons, drop-downs, etc. if any embedded within panel)\nMouse and keyboard controls\nLeft-click\nSingle click\nDouble click\nClick and hold\nClick and drag\nModifier key \u002B click\nMiddle-click\nRight-click\nKeyboard shortcuts\nStandard Control Descriptions\nType of control: radio button, check box, drop-down, combo box, slider, etc.\nUnits (if not obvious from the label)\nDefault and/or recommended value\nRange of values: min/max, enumerations, etc.\nIf applicable, keyboard shortcuts or modifier keys which apply\nIf applicable, whether the control can be customized in some way.",
+            "Subsections": [],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "MCI Startup and Shutdown",
+            "Level": 3,
+            "Content": "",
+            "Subsections": [
+              {
+                "Title": "MCI Startup",
+                "Level": 4,
+                "Content": "During pre-flight, on the DGS MP workstation, perform the following MCI startup steps.\n\n",
+                "Subsections": [],
+                "Tables": [
+                  {
+                    "Id": "91db2651-7c22-4232-ba19-a6bc71ec9ca8",
+                    "Title": "Table",
+                    "Data": [
+                      [
+                        "Action ",
+                        "Result"
+                      ],
+                      [
+                        "Log into the workstationClick Launch at bottom left corner of workstation",
+                        "Figure  SEQ Figure \\* ARABIC 8 Launch Button"
+                      ],
+                      [
+                        "Select Application",
+                        "Figure  SEQ Figure \\* ARABIC 9 Applications Menu"
+                      ],
+                      [
+                        "",
+                        ""
+                      ],
+                      [
+                        "For Reach SiteASARS Mission Tools \u2192 Mission Configuration Interface (MCI)",
+                        "Figure  SEQ Figure \\* ARABIC 10 Mission Configuration Interface"
+                      ],
+                      [
+                        "",
+                        ""
+                      ],
+                      [
+                        "Mission Configuration Interface window appears.Click Start New.",
+                        "Figure  SEQ Figure \\* ARABIC 11 Mission Configuration - Start New"
+                      ],
+                      [
+                        "The Start Mission window appears. For ASARS-2ASelect pulldown Sensor Type : ASARS-2AEnter Mission IDSelect pulldown option for Local ServerSelect pulldown option for Mission ThreadPulldown option MCE (Mission Control Element) is disabled \u2013 only selectable if selected Sensor Type is \u2018Global Hawk\u2019",
+                        "Figure  SEQ Figure \\* ARABIC 12 ASARS-2A - Start Mission"
+                      ],
+                      [
+                        "Select Exploitation Segment(s) using check boxes Click Start to start the mission as defined",
+                        "Figure  SEQ Figure \\* ARABIC 13 ASARS-2A - Start Mission (To be updated\u2026)"
+                      ],
+                      [
+                        "The started mission will display in the Mission Configuration Interface window. Background processes will be started on the Local Server to receive data and provide external interfaces.",
+                        ""
+                      ],
+                      [
+                        "For Core Site Mission Status display",
+                        "Figure  SEQ Figure \\* ARABIC 14 Core Site - Mission Status"
+                      ],
+                      [
+                        "For Reach Site Mission Status display",
+                        "Figure  SEQ Figure \\* ARABIC 15 Reach Site - Mission Status"
+                      ]
+                    ]
+                  }
+                ],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "MCI Shutdown",
+                "Level": 4,
+                "Content": "On the DGS MP workstation, perform the following MCI shutdown steps.",
+                "Subsections": [],
+                "Tables": [
+                  {
+                    "Id": "895951c9-ff77-405e-a310-65f78ec9d221",
+                    "Title": "Table",
+                    "Data": [
+                      [
+                        "Action ",
+                        "Result"
+                      ],
+                      [
+                        "To be provided\u2026",
+                        ""
+                      ]
+                    ]
+                  }
+                ],
+                "Images": [],
+                "Metadata": {}
+              }
+            ],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "MCI Operation",
+            "Level": 3,
+            "Content": "",
+            "Subsections": [
+              {
+                "Title": "MCI Core Site Options",
+                "Level": 4,
+                "Content": "\nFigure  SEQ Figure \\* ARABIC 16 MCI Operation - Core Site\n\nExploitation Segment Options. The Exploitation Segment check boxes specify where to send data. In most cases, \u0022data\u0022 refers to imagery files. However, in a few cases, \u201Cdata\u201D also mean mission planning data, telemetry data, and/or status files.\n\nThe following are the Exploitation Segment check box options on the \u0022Start Mission\u0022 window. The description of each option details the type of data that is sent.\n\nNote\nThis list in the GUI is configurable per site. Each site may have a different list of check box options displayed in this GUI.\n\nTable  SEQ Table \\* ARABIC 4 Exploitation Segment Options (To be updated\u2026)\n",
+                "Subsections": [],
+                "Tables": [
+                  {
+                    "Id": "61e9749c-7866-48bd-ad40-c4d750e9cd55",
+                    "Title": "Table",
+                    "Data": [
+                      [
+                        "TIID",
+                        "Tactical Image ID software",
+                        "sends imagery mosaics to the ingest directory for TIID application, which then fills in the tactical image ID in the NITF header and forwards the NITF file to the TMAN"
+                      ],
+                      [
+                        "MTI/TS",
+                        "MTI Track Services application",
+                        "sends MTI NITF files to MTI/TS via a TCP/IP socket connection"
+                      ],
+                      [
+                        "TMAN",
+                        "Trusted Manager",
+                        "deposits imagery directly into a directory on the TMAN for passing to the high-side security enclave"
+                      ],
+                      [
+                        "GDTS/ACA-R",
+                        "GEOINT Data Transformation Service/Airborne Communication Architecture",
+                        "sends imagery mosaics to GDTS/ACA-R using SFTP"
+                      ],
+                      [
+                        "IAS",
+                        "Imagery Access Solutions",
+                        "sends imagery mosaics to the IAS system using RDTP"
+                      ],
+                      [
+                        "Site 6 (LOS)",
+                        "",
+                        "sends NITF tiles to Site 6 to support Change Detection, only intended for ASARS-2A Reach (LOS) mission"
+                      ],
+                      [
+                        "Site 10 (LOS)",
+                        "",
+                        "sends NITF tiles to Site 10 to support Change Detection, only intended for ASARS-2A Reach (LOS) missions"
+                      ],
+                      [
+                        "DGETS",
+                        "DCGS Google Earth Thread Server",
+                        "sends imagery, telemetry, and mission plan information to DGETS for visualization on Google Earth"
+                      ],
+                      [
+                        "FEDERATED (plans)",
+                        "",
+                        "SFTP mission plan information to other DGSes to support federation"
+                      ],
+                      [
+                        "DGS86a",
+                        "",
+                        "send imagery to DGS-86, Environment A for supporting imagery federation using RDTP"
+                      ],
+                      [
+                        "DGS86b",
+                        "",
+                        "send imagery to DGS-86, Environment B for supporting imagery federation using RDTP"
+                      ]
+                    ]
+                  }
+                ],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "MCI Reach Site Options ",
+                "Level": 4,
+                "Content": "\nFigure  SEQ Figure \\* ARABIC 17 MCI Operation - Reach Site",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              }
+            ],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          },
+          {
+            "Title": "Mission Thread Operation",
+            "Level": 3,
+            "Content": "",
+            "Subsections": [
+              {
+                "Title": "Start Mission Thread",
+                "Level": 4,
+                "Content": "On the DGS MP workstation, perform the following Start Mission Thread steps. (To be provided\u2026)",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "Monitor Mission Thread",
+                "Level": 4,
+                "Content": "On the DGS MP workstation, perform the following Monitor Mission Thread steps. (To be provided\u2026)",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              },
+              {
+                "Title": "Stop Mission Thread ",
+                "Level": 4,
+                "Content": "On the DGS MP workstation, perform the following MCI shutdown steps. (To be provided\u2026)",
+                "Subsections": [],
+                "Tables": [],
+                "Images": [],
+                "Metadata": {}
+              }
+            ],
+            "Tables": [],
+            "Images": [],
+            "Metadata": {}
+          }
+        ],
+        "Tables": [],
+        "Images": [],
+        "Metadata": {}
+      }
+    ],
+    "Tables": [],
+    "Images": [],
+    "Metadata": {}
+  }
+]

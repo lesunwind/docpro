@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842A8CBB-F5BC-48BD-9660-B7E672F3C8B4}|tests\\DocumentProcessor.Tests\\DocumentProcessor.Tests.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\tests\\documentprocessor.tests\\documentprocessor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{842A8CBB-F5BC-48BD-9660-B7E672F3C8B4}|tests\\DocumentProcessor.Tests\\DocumentProcessor.Tests.csproj|solutionrelative:tests\\documentprocessor.tests\\documentprocessor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6089C91B-1384-4D03-A896-943F04F4E45D}|src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\src\\documentprocessor.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6089C91B-1384-4D03-A896-943F04F4E45D}|src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj|solutionrelative:src\\documentprocessor.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6089C91B-1384-4D03-A896-943F04F4E45D}|src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\src\\documentprocessor.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6089C91B-1384-4D03-A896-943F04F4E45D}|src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj|solutionrelative:src\\documentprocessor.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6089C91B-1384-4D03-A896-943F04F4E45D}|src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\src\\documentprocessor.ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6089C91B-1384-4D03-A896-943F04F4E45D}|src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj|solutionrelative:src\\documentprocessor.ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6089C91B-1384-4D03-A896-943F04F4E45D}|src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\src\\documentprocessor.ui\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6089C91B-1384-4D03-A896-943F04F4E45D}|src\\DocumentProcessor.UI\\DocumentProcessor.UI.csproj|solutionrelative:src\\documentprocessor.ui\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22BC794-56D2-4058-912C-9F5AE258DDA0}|src\\DocumentProcessor.Console\\DocumentProcessor.Console.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\src\\documentprocessor.console\\output\\document_structure.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C22BC794-56D2-4058-912C-9F5AE258DDA0}|src\\DocumentProcessor.Console\\DocumentProcessor.Console.csproj|solutionrelative:src\\documentprocessor.console\\output\\document_structure.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22BC794-56D2-4058-912C-9F5AE258DDA0}|src\\DocumentProcessor.Console\\DocumentProcessor.Console.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\src\\documentprocessor.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22BC794-56D2-4058-912C-9F5AE258DDA0}|src\\DocumentProcessor.Console\\DocumentProcessor.Console.csproj|solutionrelative:src\\documentprocessor.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054C360E-8E95-47C0-B1EC-699F024365A3}|src\\DocumentProcessor.Core\\DocumentProcessor.Core.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\src\\documentprocessor.core\\services\\worddocumentparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054C360E-8E95-47C0-B1EC-699F024365A3}|src\\DocumentProcessor.Core\\DocumentProcessor.Core.csproj|solutionrelative:src\\documentprocessor.core\\services\\worddocumentparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054C360E-8E95-47C0-B1EC-699F024365A3}|src\\DocumentProcessor.Core\\DocumentProcessor.Core.csproj|c:\\programs\\aiml\\archive 03092026\\innovation\\dev\\documentprocessor\\src\\documentprocessor.core\\services\\sectionextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054C360E-8E95-47C0-B1EC-699F024365A3}|src\\DocumentProcessor.Core\\DocumentProcessor.Core.csproj|solutionrelative:src\\documentprocessor.core\\services\\sectionextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentProcessor.Tests",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\tests\\DocumentProcessor.Tests\\DocumentProcessor.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\DocumentProcessor.Tests\\DocumentProcessor.Tests.csproj",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\tests\\DocumentProcessor.Tests\\DocumentProcessor.Tests.csproj",
+              "RelativeToolTip": "tests\\DocumentProcessor.Tests\\DocumentProcessor.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T16:48:10.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "src\\DocumentProcessor.UI\\MainForm.cs",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "src\\DocumentProcessor.UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:11:43.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\Logger.cs",
+              "RelativeDocumentMoniker": "src\\DocumentProcessor.UI\\Logger.cs",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\Logger.cs",
+              "RelativeToolTip": "src\\DocumentProcessor.UI\\Logger.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvyIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:35:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordDocumentParser.cs",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.Core\\Services\\WordDocumentParser.cs",
+              "RelativeDocumentMoniker": "src\\DocumentProcessor.Core\\Services\\WordDocumentParser.cs",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.Core\\Services\\WordDocumentParser.cs",
+              "RelativeToolTip": "src\\DocumentProcessor.Core\\Services\\WordDocumentParser.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAuwN4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:35:39.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "src\\DocumentProcessor.UI\\MainForm.Designer.cs",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "src\\DocumentProcessor.UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAIAwwKkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:22:22.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "src\\DocumentProcessor.UI\\MainForm.cs",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.UI\\MainForm.cs",
+              "RelativeToolTip": "src\\DocumentProcessor.UI\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:38:58.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SectionExtractor.cs",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.Core\\Services\\SectionExtractor.cs",
+              "RelativeDocumentMoniker": "src\\DocumentProcessor.Core\\Services\\SectionExtractor.cs",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.Core\\Services\\SectionExtractor.cs",
+              "RelativeToolTip": "src\\DocumentProcessor.Core\\Services\\SectionExtractor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:57:24.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "document_structure.json",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.Console\\output\\document_structure.json",
+              "RelativeDocumentMoniker": "src\\DocumentProcessor.Console\\output\\document_structure.json",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.Console\\output\\document_structure.json",
+              "RelativeToolTip": "src\\DocumentProcessor.Console\\output\\document_structure.json",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAhwCYBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T14:40:34.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.Console\\Program.cs",
+              "RelativeDocumentMoniker": "src\\DocumentProcessor.Console\\Program.cs",
+              "ToolTip": "C:\\programs\\AIML\\archive 03092026\\innovation\\dev\\DocumentProcessor\\src\\DocumentProcessor.Console\\Program.cs",
+              "RelativeToolTip": "src\\DocumentProcessor.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:35:14.721Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 50,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

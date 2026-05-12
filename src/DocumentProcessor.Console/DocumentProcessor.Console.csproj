@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DocumentProcessor.Core\DocumentProcessor.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="input\" />
+    <Folder Include="output\" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties output_4document_3structure_1json__JsonSchema="https://alec016.github.io/Custom-Machinery/Json%20Schema/src/main/resources/schemas/custom_machinery_recipe.json" /></VisualStudio></ProjectExtensions>
+</Project>

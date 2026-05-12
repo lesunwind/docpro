@@ -1,0 +1,48 @@
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.csproj.AssemblyReference.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.AssemblyInfoInputs.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.AssemblyInfo.cs
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.csproj.CoreCompileInputs.cache
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.deps.json
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\refint\DocumentProcessor.Core.dll
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\ref\DocumentProcessor.Core.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.deps.json
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.csproj.AssemblyReference.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.AssemblyInfoInputs.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.AssemblyInfo.cs
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.csproj.CoreCompileInputs.cache
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\refint\DocumentProcessor.Core.dll
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\my innovation\dev\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\ref\DocumentProcessor.Core.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.deps.json
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.csproj.AssemblyReference.cache
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.AssemblyInfoInputs.cache
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.AssemblyInfo.cs
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.csproj.CoreCompileInputs.cache
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\refint\DocumentProcessor.Core.dll
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\ref\DocumentProcessor.Core.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.deps.json
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\bin\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.csproj.AssemblyReference.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.AssemblyInfoInputs.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.AssemblyInfo.cs
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.csproj.CoreCompileInputs.cache
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\refint\DocumentProcessor.Core.dll
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\DocumentProcessor.Core.pdb
+C:\programs\AIML\archive 03092026\innovation\dev\DocumentProcessor\src\DocumentProcessor.Core\obj\Debug\net6.0-windows\ref\DocumentProcessor.Core.dll

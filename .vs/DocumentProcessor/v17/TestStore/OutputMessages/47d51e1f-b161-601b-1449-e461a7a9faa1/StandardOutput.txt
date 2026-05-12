@@ -1,0 +1,826 @@
+
+=== Document Structure Analysis ===
+Total Image Parts found in document: 18
+Found Image Part: image/png
+Found Image Part: image/jpeg
+Found Image Part: image/png
+Found Image Part: image/png
+Found Image Part: image/jpeg
+Found Image Part: image/jpeg
+Found Image Part: image/png
+Found Image Part: image/jpeg
+Found Image Part: image/jpeg
+Found Image Part: image/png
+Found Image Part: image/jpeg
+Found Image Part: image/jpeg
+Found Image Part: image/jpeg
+Found Image Part: image/jpeg
+Found Image Part: image/jpeg
+Found Image Part: image/png
+Found Image Part: image/jpeg
+Found Image Part: image/png
+
+Total Drawing elements found: 18
+Total Picture elements found: 18
+Total Shape elements found: 0
+Total InlineShape elements found: 18
+
+=== Starting Section Processing ===
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+Found figure reference: Figures and Tables: Figures and tables are numbered and titled. The figures and tables are sequentially numbered within the subsection.
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+Found figure reference: In the Direct LOS configuration (Figure 1), the airborne system downlinks data directly to an AF DCGS site equipped with a compatible Common Data Link (CDL) receiving antenna. The AF DCGS can also uplink commands via CDL to the airborne system.
+Found 1 drawing(s) in paragraph
+Processing image part: image/png
+Successfully extracted image: 880x711
+Found figure reference: Figure  SEQ Figure \* ARABIC 1 Direct LOS Configuration
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+Found figure reference: In the Reach configuration (Figure 2), the airborne system downlinks data via CDL to a ground relay site located within the footprint of the airborne CDL antenna. The ground relay site then uses a satellite communications (SATCOM) link to relay the data to an AF DCGS site. ASARS-2A sensor commands can also be uplinked via the reverse path: from the AF DCGS site to the ground relay site via SATCOM link, then to the airborne sensor via CDL. The connection between a ground relay site and a particular AF DCGS site is point-to-point. A ground relay site can only connect to one AF DCGS site at a time.
+Found 1 drawing(s) in paragraph
+Processing image part: image/png
+Successfully extracted image: 879x707
+Found figure reference: Figure  SEQ Figure \* ARABIC 2 Reach Configuration
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+Found figure reference: In the BLOS configuration (Figure 3), the airborne system downlinks data and receives commands via another communications system on the U-2S aircraft which uses a different SATCOM architecture than a reach site. The receiving ground site for a BLOS SATCOM link is called a Relay Ground Station (RGS); there are currently two RGS sites (RGS-1 and RGS-2). Once received by an RGS site, the data is made available to one or more DGS sites via ground communication links. AF DCGS coordinates which DGS site is the lead for the mission (“prime”) and which other DGS sites will participate as federated mission partners. Although data may be disseminated from an RGS to multiple DGS sites, only one DGS site at a time is allowed to uplink commands to the sensor via the RGS.
+Found 1 drawing(s) in paragraph
+Processing image part: image/png
+Successfully extracted image: 880x710
+Found figure reference: Figure  SEQ Figure \* ARABIC 3 BLOS Configuration
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+Found figure reference: The U-2S aircraft has multiple datalink capabilities (Figure 4). The U-2S aircraft can use two datalinks at the same time; either one CDL datalink and one BLOS SATCOM datalink or two different, independent, concurrent CDL datalinks.
+Found 1 drawing(s) in paragraph
+Processing image part: image/png
+Successfully extracted image: 657x531
+Found figure reference: Figure  SEQ Figure \* ARABIC 4 Multiple Datalink Capabilities
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+Found figure reference: This scenario occurs only if an AF DCGS core site has a Direct LOS link to the ASARS-2A sensor (Figure 5). The AF DCGS site VIP-C receives ASARS-2A sensor files and sends to the image server. Processes on the image server connect to the VIP-C to receive telemetry and VIP-C status. Uplink commands are passed from the image server through the VIP-C to the ASARS-2A sensor. To be updated…
+Found 1 drawing(s) in paragraph
+Processing image part: image/jpeg
+Successfully extracted image: 967x734
+Found figure reference: Figure  SEQ Figure \* ARABIC 5 ASARS-2A Data from Reach Site to Core Site (To be updated…)
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+Found figure reference: This scenario occurs if an AF DCGS core site receives and displays imagery, MTI data and telemetry transmitted from the reach site (Figure 6). The AF DCGS core site sends uplink commands to the reach site. To be updated…
+Found 1 drawing(s) in paragraph
+Processing image part: image/jpeg
+Successfully extracted image: 955x739
+Found figure reference: Figure  SEQ Figure \* ARABIC 6 ASARS-2A from RGS to Core Site (To be updated…)
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+Found figure reference: The APS+ internal and external interfaces both have input and output functions (Figure 7). APS+ internal interfaces are defined as APS+ software in one context interfacing to APS+ software in another context. APS+ external interfaces are defined as APS+ software interfacing to anything which is not APS+ software. Additional details to be provided…
+Found 1 drawing(s) in paragraph
+Processing image part: image/jpeg
+Successfully extracted image: 997x734
+Found figure reference: Figure  SEQ Figure \* ARABIC 7 APS+ External Interfaces (To be updated…)
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+Found 1 drawing(s) in paragraph
+Processing image part: image/jpeg
+Successfully extracted image: 960x720
+Found figure reference: Figure  SEQ Figure \* ARABIC 16 MCI Operation - Core Site
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+Found 1 drawing(s) in paragraph
+Processing image part: image/jpeg
+Successfully extracted image: 800x412
+Found figure reference: Figure  SEQ Figure \* ARABIC 17 MCI Operation - Reach Site
+
+Total images found in section: 1
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+=== Image Extraction Debug ===
+
+Total images found in section: 0
+
+Total sections processed: 4
+Section: 
+Level: 1
+Content Length: 0
+Tables: 0
+Images: 0
+Section: GENERAL INFORMATION
+Level: 1
+Content Length: 0
+Tables: 0
+Images: 0
+  Section: Overview
+  Level: 2
+  Content Length: 1955
+  Tables: 0
+  Images: 0
+    Section: Scope
+    Level: 3
+    Content Length: 784
+    Tables: 0
+    Images: 0
+    Section: Abbreviations and Acronyms
+    Level: 3
+    Content Length: 394
+    Tables: 1
+    Images: 0
+    Section: Referenced Documents
+    Level: 3
+    Content Length: 232
+    Tables: 1
+    Images: 0
+  Section: System Description
+  Level: 2
+  Content Length: 1361
+  Tables: 0
+  Images: 0
+    Section: Operating Sites
+    Level: 3
+    Content Length: 671
+    Tables: 1
+    Images: 0
+    Section: Configurations
+    Level: 3
+    Content Length: 243
+    Tables: 0
+    Images: 0
+      Section: Direct LOS Configuration
+      Level: 4
+      Content Length: 567
+      Tables: 0
+      Images: 1
+        Image: 5c22488e-046c-4343-b90a-656c112f12a2
+          Type: image/png
+          Size: 880x711
+          Base64 Length: 600272
+      Section: Reach Configuration
+      Level: 4
+      Content Length: 1019
+      Tables: 0
+      Images: 1
+        Image: e51d09d0-ec26-4164-9dd2-1ebd7084940d
+          Type: image/png
+          Size: 879x707
+          Base64 Length: 665800
+      Section: BLOS Configuration
+      Level: 4
+      Content Length: 1001
+      Tables: 0
+      Images: 1
+        Image: a8ca01f7-3289-48c6-8daf-58c0eaa1a06a
+          Type: image/png
+          Size: 880x710
+          Base64 Length: 705684
+    Section: Multiple Datalink Capabilities
+    Level: 3
+    Content Length: 657
+    Tables: 0
+    Images: 1
+      Image: 1c4fdc00-baad-40d7-b9be-9dc26254568e
+        Type: image/png
+        Size: 657x531
+        Base64 Length: 425740
+    Section: Mission Threads
+    Level: 3
+    Content Length: 265
+    Tables: 0
+    Images: 0
+      Section: ASARS-2A Data from Reach Site to Core Site
+      Level: 4
+      Content Length: 478
+      Tables: 0
+      Images: 1
+        Image: 2df058ac-89e2-4529-91b3-95d3bf885eef
+          Type: image/jpeg
+          Size: 967x734
+          Base64 Length: 233600
+      Section: ASARS-2A Data from RGS to Core Site
+      Level: 4
+      Content Length: 299
+      Tables: 0
+      Images: 1
+        Image: a96c6bf8-44cd-4dab-9ab1-92d0c5c74e49
+          Type: image/jpeg
+          Size: 955x739
+          Base64 Length: 188896
+    Section: APS+ Description
+    Level: 3
+    Content Length: 424
+    Tables: 0
+    Images: 0
+      Section: APS+ Software Environment
+      Level: 4
+      Content Length: 941
+      Tables: 0
+      Images: 0
+      Section: APS+ Interfaces
+      Level: 4
+      Content Length: 422
+      Tables: 0
+      Images: 1
+        Image: 3a0075fe-1ceb-44a8-a7e5-1893441767dd
+          Type: image/jpeg
+          Size: 997x734
+          Base64 Length: 281400
+      Section: Mission Control Interface (MCI)
+      Level: 4
+      Content Length: 361
+      Tables: 0
+      Images: 0
+      Section: Sensor Control Workstation (SCWS)
+      Level: 4
+      Content Length: 454
+      Tables: 0
+      Images: 0
+      Section: Common Sensor Planner (CSP)
+      Level: 4
+      Content Length: 1001
+      Tables: 0
+      Images: 0
+    Section: APS+ Concept of Operations
+    Level: 3
+    Content Length: 35
+    Tables: 0
+    Images: 0
+      Section: Pre-Mission Operation
+      Level: 4
+      Content Length: 15
+      Tables: 0
+      Images: 0
+      Section: Live Mission Operation
+      Level: 4
+      Content Length: 15
+      Tables: 0
+      Images: 0
+      Section: Off-Tether Operation
+      Level: 4
+      Content Length: 30
+      Tables: 0
+      Images: 0
+Section: 
+Level: 1
+Content Length: 0
+Tables: 0
+Images: 0
+Section: OPERATOR INSTRUCTIONS
+Level: 1
+Content Length: 254
+Tables: 0
+Images: 0
+  Section: MCI Operator Instructions
+  Level: 2
+  Content Length: 168
+  Tables: 0
+  Images: 0
+    Section: MCI Displays and Controls
+    Level: 3
+    Content Length: 1748
+    Tables: 0
+    Images: 0
+    Section: MCI Startup and Shutdown
+    Level: 3
+    Content Length: 0
+    Tables: 0
+    Images: 0
+      Section: MCI Startup
+      Level: 4
+      Content Length: 86
+      Tables: 1
+      Images: 0
+      Section: MCI Shutdown
+      Level: 4
+      Content Length: 68
+      Tables: 1
+      Images: 0
+    Section: MCI Operation
+    Level: 3
+    Content Length: 0
+    Tables: 0
+    Images: 0
+      Section: MCI Core Site Options
+      Level: 4
+      Content Length: 670
+      Tables: 1
+      Images: 1
+        Image: 83f010b6-dab3-4dfa-8beb-771028c382e1
+          Type: image/jpeg
+          Size: 960x720
+          Base64 Length: 106516
+      Section: MCI Reach Site Options
+      Level: 4
+      Content Length: 58
+      Tables: 0
+      Images: 1
+        Image: 3a30026f-6788-4ed4-8dea-3f41fdf2be3a
+          Type: image/jpeg
+          Size: 800x412
+          Base64 Length: 76000
+    Section: Mission Thread Operation
+    Level: 3
+    Content Length: 0
+    Tables: 0
+    Images: 0
+      Section: Start Mission Thread
+      Level: 4
+      Content Length: 94
+      Tables: 0
+      Images: 0
+      Section: Monitor Mission Thread
+      Level: 4
+      Content Length: 96
+      Tables: 0
+      Images: 0
+      Section: Stop Mission Thread
+      Level: 4
+      Content Length: 86
+      Tables: 0
+      Images: 0
+
+Preparing to save to JSON...
+JSON serialization completed. Length: 3,643,943 characters
+JSON file saved to: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\tests\DocumentProcessor.Tests\bin\Debug\net6.0-windows\TestOutput\document_structure.json
+
+Verifying saved data:
+Section: 
+Level: 1
+Content Length: 0
+Tables: 0
+Images: 0
+Section: GENERAL INFORMATION
+Level: 1
+Content Length: 0
+Tables: 0
+Images: 0
+  Section: Overview
+  Level: 2
+  Content Length: 1955
+  Tables: 0
+  Images: 0
+    Section: Scope
+    Level: 3
+    Content Length: 784
+    Tables: 0
+    Images: 0
+    Section: Abbreviations and Acronyms
+    Level: 3
+    Content Length: 394
+    Tables: 1
+    Images: 0
+    Section: Referenced Documents
+    Level: 3
+    Content Length: 232
+    Tables: 1
+    Images: 0
+  Section: System Description
+  Level: 2
+  Content Length: 1361
+  Tables: 0
+  Images: 0
+    Section: Operating Sites
+    Level: 3
+    Content Length: 671
+    Tables: 1
+    Images: 0
+    Section: Configurations
+    Level: 3
+    Content Length: 243
+    Tables: 0
+    Images: 0
+      Section: Direct LOS Configuration
+      Level: 4
+      Content Length: 567
+      Tables: 0
+      Images: 1
+        Image: 5c22488e-046c-4343-b90a-656c112f12a2
+          Type: image/png
+          Size: 880x711
+          Base64 Length: 600272
+      Section: Reach Configuration
+      Level: 4
+      Content Length: 1019
+      Tables: 0
+      Images: 1
+        Image: e51d09d0-ec26-4164-9dd2-1ebd7084940d
+          Type: image/png
+          Size: 879x707
+          Base64 Length: 665800
+      Section: BLOS Configuration
+      Level: 4
+      Content Length: 1001
+      Tables: 0
+      Images: 1
+        Image: a8ca01f7-3289-48c6-8daf-58c0eaa1a06a
+          Type: image/png
+          Size: 880x710
+          Base64 Length: 705684
+    Section: Multiple Datalink Capabilities
+    Level: 3
+    Content Length: 657
+    Tables: 0
+    Images: 1
+      Image: 1c4fdc00-baad-40d7-b9be-9dc26254568e
+        Type: image/png
+        Size: 657x531
+        Base64 Length: 425740
+    Section: Mission Threads
+    Level: 3
+    Content Length: 265
+    Tables: 0
+    Images: 0
+      Section: ASARS-2A Data from Reach Site to Core Site
+      Level: 4
+      Content Length: 478
+      Tables: 0
+      Images: 1
+        Image: 2df058ac-89e2-4529-91b3-95d3bf885eef
+          Type: image/jpeg
+          Size: 967x734
+          Base64 Length: 233600
+      Section: ASARS-2A Data from RGS to Core Site
+      Level: 4
+      Content Length: 299
+      Tables: 0
+      Images: 1
+        Image: a96c6bf8-44cd-4dab-9ab1-92d0c5c74e49
+          Type: image/jpeg
+          Size: 955x739
+          Base64 Length: 188896
+    Section: APS+ Description
+    Level: 3
+    Content Length: 424
+    Tables: 0
+    Images: 0
+      Section: APS+ Software Environment
+      Level: 4
+      Content Length: 941
+      Tables: 0
+      Images: 0
+      Section: APS+ Interfaces
+      Level: 4
+      Content Length: 422
+      Tables: 0
+      Images: 1
+        Image: 3a0075fe-1ceb-44a8-a7e5-1893441767dd
+          Type: image/jpeg
+          Size: 997x734
+          Base64 Length: 281400
+      Section: Mission Control Interface (MCI)
+      Level: 4
+      Content Length: 361
+      Tables: 0
+      Images: 0
+      Section: Sensor Control Workstation (SCWS)
+      Level: 4
+      Content Length: 454
+      Tables: 0
+      Images: 0
+      Section: Common Sensor Planner (CSP)
+      Level: 4
+      Content Length: 1001
+      Tables: 0
+      Images: 0
+    Section: APS+ Concept of Operations
+    Level: 3
+    Content Length: 35
+    Tables: 0
+    Images: 0
+      Section: Pre-Mission Operation
+      Level: 4
+      Content Length: 15
+      Tables: 0
+      Images: 0
+      Section: Live Mission Operation
+      Level: 4
+      Content Length: 15
+      Tables: 0
+      Images: 0
+      Section: Off-Tether Operation
+      Level: 4
+      Content Length: 30
+      Tables: 0
+      Images: 0
+Section: 
+Level: 1
+Content Length: 0
+Tables: 0
+Images: 0
+Section: OPERATOR INSTRUCTIONS
+Level: 1
+Content Length: 254
+Tables: 0
+Images: 0
+  Section: MCI Operator Instructions
+  Level: 2
+  Content Length: 168
+  Tables: 0
+  Images: 0
+    Section: MCI Displays and Controls
+    Level: 3
+    Content Length: 1748
+    Tables: 0
+    Images: 0
+    Section: MCI Startup and Shutdown
+    Level: 3
+    Content Length: 0
+    Tables: 0
+    Images: 0
+      Section: MCI Startup
+      Level: 4
+      Content Length: 86
+      Tables: 1
+      Images: 0
+      Section: MCI Shutdown
+      Level: 4
+      Content Length: 68
+      Tables: 1
+      Images: 0
+    Section: MCI Operation
+    Level: 3
+    Content Length: 0
+    Tables: 0
+    Images: 0
+      Section: MCI Core Site Options
+      Level: 4
+      Content Length: 670
+      Tables: 1
+      Images: 1
+        Image: 83f010b6-dab3-4dfa-8beb-771028c382e1
+          Type: image/jpeg
+          Size: 960x720
+          Base64 Length: 106516
+      Section: MCI Reach Site Options
+      Level: 4
+      Content Length: 58
+      Tables: 0
+      Images: 1
+        Image: 3a30026f-6788-4ed4-8dea-3f41fdf2be3a
+          Type: image/jpeg
+          Size: 800x412
+          Base64 Length: 76000
+    Section: Mission Thread Operation
+    Level: 3
+    Content Length: 0
+    Tables: 0
+    Images: 0
+      Section: Start Mission Thread
+      Level: 4
+      Content Length: 94
+      Tables: 0
+      Images: 0
+      Section: Monitor Mission Thread
+      Level: 4
+      Content Length: 96
+      Tables: 0
+      Images: 0
+      Section: Stop Mission Thread
+      Level: 4
+      Content Length: 86
+      Tables: 0
+      Images: 0
+
+Starting section search:
+Path to find: GENERAL INFORMATION > Overview > Abbreviations and Acronyms
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'Overview'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'Overview'
+Level: 2
+Content length: 1955 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Abbreviations and Acronyms'
+Available sections at this level:
+- 'Scope'
+- 'Abbreviations and Acronyms'
+- 'Referenced Documents'
+Found section: 'Abbreviations and Acronyms'
+Level: 3
+Content length: 394 characters
+Tables: 1
+Images: 0
+Subsections: 0
+Processing section: Abbreviations and Acronyms
+Adding 1 tables from Abbreviations and Acronyms
+
+Starting section search:
+Path to find: GENERAL INFORMATION > Overview > Referenced Documents
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'Overview'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'Overview'
+Level: 2
+Content length: 1955 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Referenced Documents'
+Available sections at this level:
+- 'Scope'
+- 'Abbreviations and Acronyms'
+- 'Referenced Documents'
+Found section: 'Referenced Documents'
+Level: 3
+Content length: 232 characters
+Tables: 1
+Images: 0
+Subsections: 0
+Processing section: Referenced Documents
+Adding 1 tables from Referenced Documents

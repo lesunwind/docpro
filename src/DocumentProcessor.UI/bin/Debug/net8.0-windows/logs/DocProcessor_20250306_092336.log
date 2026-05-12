@@ -1,0 +1,973 @@
+2025-03-06 09:23:36.916 - Logging initialized
+2025-03-06 09:23:36.920 - Application started
+2025-03-06 09:24:51.686 - Extract button clicked
+2025-03-06 09:24:51.689 - Selected 1 section paths
+2025-03-06 09:24:51.690 - Selected path 1: System Description. > SYSTEM INTEGRATION AND Test Station
+2025-03-06 09:25:07.327 - Output file selected: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\APG-82  SIT Repair Overhaul Manual_extracted.docx
+2025-03-06 09:25:07.337 - JSON file path: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\APG-82  SIT Repair Overhaul Manual.json
+2025-03-06 09:25:07.484 - JSON contains 19 top-level sections
+2025-03-06 09:25:07.485 - Section 'SYSTEM INTEGRATION AND Test Station' contains 7 images
+2025-03-06 09:25:07.485 -   Image: 5b011952-927e-4a07-8c7f-811e8a9783a8, Type: image/png, Size: 853x583, Base64 length: 1279572
+2025-03-06 09:25:07.486 -   Image: f28bad24-dd6d-4453-a02d-57089b051269, Type: image/png, Size: 694x429, Base64 length: 37232
+2025-03-06 09:25:07.486 -   Image: f2fa8d53-9469-46ca-877d-479fdd430703, Type: image/png, Size: 1100x453, Base64 length: 104256
+2025-03-06 09:25:07.486 -   Image: a9099fd4-3d65-4ee1-ba34-e717db96c71c, Type: image/png, Size: 975x565, Base64 length: 117500
+2025-03-06 09:25:07.487 -   Image: 5f8b2fa5-425b-4493-9a91-2499744e82d6, Type: image/png, Size: 1171x548, Base64 length: 607076
+2025-03-06 09:25:07.487 -   Image: af9b3c04-7f7b-4606-8569-e3b6241634ad, Type: image/png, Size: 1126x554, Base64 length: 500100
+2025-03-06 09:25:07.487 -   Image: 54593fbe-6981-41ce-a33b-a28718456c53, Type: image/png, Size: 1138x586, Base64 length: 607860
+2025-03-06 09:25:07.488 - Section 'SR – Power Supply STE ( REF _Ref52185446 \h  \* MERGEFORMAT Figure 13).' contains 1 images
+2025-03-06 09:25:07.488 -   Image: 6743d756-1590-4f46-9919-53de2086c437, Type: image/png, Size: 252x407, Base64 length: 305912
+2025-03-06 09:25:07.488 - Section 'SE – REX STE.  REF _Ref52185476 \h  \* MERGEFORMAT Figure 14.' contains 1 images
+2025-03-06 09:25:07.489 -   Image: d46140a8-2117-4f5d-9cc7-9cb733fae10b, Type: image/png, Size: 288x441, Base64 length: 430500
+2025-03-06 09:25:07.489 - Section 'SC – CISP UNIT AND DIGITAL MODULE STE' contains 1 images
+2025-03-06 09:25:07.490 -   Image: d83fb4f3-f5d8-4d26-95e6-f397eb5637e8, Type: image/png, Size: 472x416, Base64 length: 409740
+2025-03-06 09:25:07.490 - Section 'SA – ANTENNA STE ( REF _Ref52185682 \h  \* MERGEFORMAT Figure 16)..' contains 1 images
+2025-03-06 09:25:07.491 -   Image: 73c1db32-562c-490c-8f1d-7adfe421da38, Type: image/png, Size: 400x431, Base64 length: 439792
+2025-03-06 09:25:07.491 - Section 'DEPOT Test Station Assembly' contains 1 images
+2025-03-06 09:25:07.491 -   Image: d1997e5e-eccf-4a0e-941d-13df5072bfa8, Type: image/png, Size: 708x478, Base64 length: 175368
+2025-03-06 09:25:07.491 - Section 'UUT Flow Diagrams.' contains 4 images
+2025-03-06 09:25:07.492 -   Image: 8eee20da-5389-42b1-a92e-920ba28fd255, Type: image/png, Size: 722x473, Base64 length: 82192
+2025-03-06 09:25:07.493 -   Image: 17436ae9-bfb0-4f05-8d41-61c4c11b018e, Type: image/png, Size: 755x480, Base64 length: 73404
+2025-03-06 09:25:07.493 -   Image: c6cee160-4fe8-46ff-a927-bf8285575dd7, Type: image/png, Size: 751x464, Base64 length: 41224
+2025-03-06 09:25:07.494 -   Image: 022b1d6c-f48c-4ef2-9894-8966839a990e, Type: image/png, Size: 729x457, Base64 length: 74148
+2025-03-06 09:25:07.494 - Section 'DEPOT Test Station Assembly' contains 1 images
+2025-03-06 09:25:07.494 -   Image: d4073e5c-553f-4e0c-b7a1-b8a67b6a888a, Type: image/png, Size: 708x478, Base64 length: 175368
+2025-03-06 09:25:07.495 - Section 'UUT Flow Diagrams.' contains 4 images
+2025-03-06 09:25:07.495 -   Image: 6d6cbe52-2731-4236-b912-d6b3ba89ba85, Type: image/png, Size: 722x473, Base64 length: 82192
+2025-03-06 09:25:07.496 -   Image: 70576431-1aec-4f7a-ba4c-ea2e6a5572ba, Type: image/png, Size: 755x480, Base64 length: 73404
+2025-03-06 09:25:07.496 -   Image: d697deeb-004d-4986-aa8d-65efe4f8221c, Type: image/png, Size: 751x464, Base64 length: 41224
+2025-03-06 09:25:07.496 -   Image: 8499e385-a785-4559-9847-b676236dc4a5, Type: image/png, Size: 729x457, Base64 length: 74148
+2025-03-06 09:25:07.496 - Section '3.2 System Interconnections' contains 3 images
+2025-03-06 09:25:07.497 -   Image: 3ca5477c-5599-4e62-a90c-f0a10ec2b2ea, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.497 -   Image: b4e3218c-12cb-455d-aabf-aaeddce5bb1a, Type: image/jpeg, Size: 4x2, Base64 length: 880
+2025-03-06 09:25:07.498 -   Image: a2e7e7da-0765-4484-b3c0-ec23796b76f7, Type: image/jpeg, Size: 1746x977, Base64 length: 235088
+2025-03-06 09:25:07.498 - Section '3.3 Physical Layout' contains 1 images
+2025-03-06 09:25:07.498 -   Image: c23a732b-4faf-4acb-9fe0-52a1d058ee13, Type: image/jpeg, Size: 1240x1000, Base64 length: 134896
+2025-03-06 09:25:07.499 - Section '3.5.3.1   BSC2/Antenna Table Configuration' contains 1 images
+2025-03-06 09:25:07.499 -   Image: 1eafce9f-e3a9-4cde-86ce-75c93a7f1d24, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.499 - Section '3.6.2.4  Singular Occurrence of a BIT Matrix Item' contains 1 images
+2025-03-06 09:25:07.500 -   Image: 2effee72-fb86-416f-848f-c4131923c753, Type: image/jpeg, Size: 3x4, Base64 length: 876
+2025-03-06 09:25:07.500 - Section '3.6.2.9   Fault Isolation' contains 2 images
+2025-03-06 09:25:07.500 -   Image: 3334d0f0-5a4f-492e-8180-1064ada78a79, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.500 -   Image: f50b5f66-4e48-43e2-b87d-fff0b8f05265, Type: image/jpeg, Size: 5x21, Base64 length: 896
+2025-03-06 09:25:07.501 - Section '3.7.2 Prime Power Conditions' contains 2 images
+2025-03-06 09:25:07.501 -   Image: 9c17b29c-97a7-41fd-97c5-575be505344d, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.501 -   Image: a0d79e3d-8d46-4f85-9a5e-7a50047b5ee6, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.501 - Section '3.8.1 RF Radiation' contains 1 images
+2025-03-06 09:25:07.502 -   Image: 98a52240-431b-494d-a7b7-18dccf22116c, Type: image/jpeg, Size: 9x12, Base64 length: 908
+2025-03-06 09:25:07.502 - Section '3.10 Test Data Record' contains 1 images
+2025-03-06 09:25:07.502 -   Image: 83ea31fb-f34d-4593-8967-24e12054527f, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.502 - Section '4.3.2 Outgoing System Test' contains 4 images
+2025-03-06 09:25:07.503 -   Image: 5fe341a9-95cf-44c8-b1b8-7d8e121e904b, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.503 -   Image: 8e9e11f3-2db1-4333-be36-7c9a12ad2cec, Type: image/x-emf, Size: 736x617, Base64 length: 103864
+2025-03-06 09:25:07.503 -   Image: 82bb1575-5d71-4841-8868-4318693dd6ea, Type: image/x-emf, Size: 736x733, Base64 length: 111440
+2025-03-06 09:25:07.504 -   Image: 92813257-fd73-439e-a980-4b176de823e3, Type: image/x-emf, Size: 736x423, Base64 length: 78160
+2025-03-06 09:25:07.504 - Section '4.4.3.1400 Hz Set-up' contains 1 images
+2025-03-06 09:25:07.504 -   Image: ed0da04c-7368-482a-8637-a44fd11fae62, Type: image/jpeg, Size: 1x2, Base64 length: 844
+2025-03-06 09:25:07.505 - Section '4.4.3.2Auto Transformer Rectifier Unit (ATRU) Cooling Air Setup' contains 1 images
+2025-03-06 09:25:07.505 -   Image: 3be4589f-c0a1-4e61-b3a1-f81cb6b97e48, Type: image/jpeg, Size: 1212x451, Base64 length: 127484
+2025-03-06 09:25:07.505 - Section '4.4.3.4Power up RMP POWER STE' contains 8 images
+2025-03-06 09:25:07.506 -   Image: d25bfc71-a0bf-4f12-a36e-8d2cca378852, Type: image/jpeg, Size: 1531x980, Base64 length: 184028
+2025-03-06 09:25:07.506 -   Image: 8be8ba0a-0517-4f32-8026-30f41b94d8e9, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.506 -   Image: 04e735d1-4df3-4ea4-a6c4-f08f568c2e00, Type: image/jpeg, Size: 1267x119, Base64 length: 62124
+2025-03-06 09:25:07.507 -   Image: fe7e6fdb-260f-4bb9-8a4f-c34c8c52970c, Type: image/jpeg, Size: 1743x243, Base64 length: 88244
+2025-03-06 09:25:07.507 -   Image: 4de5973e-d2c3-4223-aa0f-a83ca5b39feb, Type: image/jpeg, Size: 1227x452, Base64 length: 193440
+2025-03-06 09:25:07.507 -   Image: 4d31b3bc-f8e6-4b06-96b5-bbcf701f1d73, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.508 -   Image: 4a4aa3cb-bc67-46f3-87d2-38fcc3b92aa8, Type: image/jpeg, Size: 1182x546, Base64 length: 168344
+2025-03-06 09:25:07.508 -   Image: d42169a0-dde1-4df7-9e85-9b434f21d541, Type: image/jpeg, Size: 1266x580, Base64 length: 188340
+2025-03-06 09:25:07.509 - Section '4.4.3.5Turn on Chamber Air' contains 3 images
+2025-03-06 09:25:07.509 -   Image: 4eab1be0-f355-4ee3-b2e6-ebab04466f19, Type: image/jpeg, Size: 642x613, Base64 length: 125776
+2025-03-06 09:25:07.509 -   Image: 1e0b5366-d424-4ada-851f-92d99427ce92, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.509 -   Image: 646e3700-0248-4679-93b6-598850be470f, Type: image/jpeg, Size: 4x2, Base64 length: 880
+2025-03-06 09:25:07.510 - Section '4.4.3.6Setup Test Data Folders and Files' contains 2 images
+2025-03-06 09:25:07.510 -   Image: 4a4c80b8-df3c-411a-b273-4cc9af7ea3e8, Type: image/jpeg, Size: 2x2, Base64 length: 872
+2025-03-06 09:25:07.510 -   Image: 2e40faf0-12d0-4a3e-bdc7-9166951006ae, Type: image/png, Size: 48x50, Base64 length: 8736
+2025-03-06 09:25:07.511 - Section '4.4.3.8Launch Temp and Flow Recorder' contains 1 images
+2025-03-06 09:25:07.511 -   Image: 59573a7b-eab5-41b1-b0cc-3e0c99f6f652, Type: image/jpeg, Size: 1433x1079, Base64 length: 155604
+2025-03-06 09:25:07.511 - Section '4.4.3.11Launch SDTE2' contains 2 images
+2025-03-06 09:25:07.511 -   Image: 98e7d0b9-9515-48bc-97ef-dfa2575abb59, Type: image/jpeg, Size: 1345x649, Base64 length: 291840
+2025-03-06 09:25:07.512 -   Image: f982ad93-43cb-490e-a771-e7abb63925f4, Type: image/jpeg, Size: 842x677, Base64 length: 183424
+2025-03-06 09:25:07.512 - Section '4.4.5 Set Flash Flags and IP Addresses' contains 7 images
+2025-03-06 09:25:07.512 -   Image: 90da0351-8787-4666-80ed-74f6a957d520, Type: image/jpeg, Size: 6x11, Base64 length: 876
+2025-03-06 09:25:07.513 -   Image: 63be6aae-4c08-4b90-b3d6-9d612a809266, Type: image/jpeg, Size: 5x4, Base64 length: 888
+2025-03-06 09:25:07.513 -   Image: c9d88666-1caa-43ec-961c-0d5bbcbebd71, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.513 -   Image: 1901c184-a7f2-4507-aca0-5bc4c276efba, Type: image/jpeg, Size: 337x69, Base64 length: 7304
+2025-03-06 09:25:07.514 -   Image: 11dcc919-f9af-4fdf-9f0b-535e539d0c84, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.514 -   Image: d584b964-6738-4dca-b00d-6129a7ac9c9d, Type: image/jpeg, Size: 85x87, Base64 length: 3592
+2025-03-06 09:25:07.514 -   Image: 15e70d23-41c3-4868-a823-28477a40cafa, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.514 - Section '4.4.6.2Third File' contains 3 images
+2025-03-06 09:25:07.514 -   Image: 9c733854-a064-4e5f-a7a6-344273cccdaf, Type: image/jpeg, Size: 1x2, Base64 length: 852
+2025-03-06 09:25:07.515 -   Image: 14e23034-72d9-4f9a-b538-5844b4601646, Type: image/jpeg, Size: 2x2, Base64 length: 856
+2025-03-06 09:25:07.515 -   Image: 3d460483-9002-4c32-a108-565656266b5e, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.515 - Section '4.4.7 Version/Boot checks and CAPRE LOAD: Depot Factory Tape' contains 2 images
+2025-03-06 09:25:07.516 -   Image: 13bc3399-2446-48af-bf05-f67e0077bb4b, Type: image/jpeg, Size: 4x4, Base64 length: 892
+2025-03-06 09:25:07.516 -   Image: 08652627-59c5-4499-a1c8-279e204a5a23, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.516 - Section '4.4.8.1 Returned LRU/LRM Data Log Contents Verification' contains 5 images
+2025-03-06 09:25:07.517 -   Image: 519b4ce1-ae73-4b08-a5f7-35c28fe6b9a3, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.517 -   Image: a3a20e6a-34d5-4056-8176-47e7f13942c6, Type: image/jpeg, Size: 4x3, Base64 length: 876
+2025-03-06 09:25:07.517 -   Image: 70df80a0-059c-41fb-a1ad-5590d234eb1c, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.517 -   Image: 56627a3b-37f4-436b-95b1-d3a99c465188, Type: image/jpeg, Size: 13x14, Base64 length: 932
+2025-03-06 09:25:07.518 -   Image: dda8341f-6e4f-46da-ab3a-3e84d78ceee2, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.518 - Section '4.4.10 Operate Ground SBIT and AIR SBIT' contains 1 images
+2025-03-06 09:25:07.518 -   Image: d3c53995-aedf-4279-9078-0395527ffc5a, Type: image/jpeg, Size: 116x26, Base64 length: 1036
+2025-03-06 09:25:07.519 - Section '4.4.11 Antenna Health-Check' contains 1 images
+2025-03-06 09:25:07.519 -   Image: 2c394949-201f-4d22-8518-90595e19c54f, Type: image/jpeg, Size: 1011x57, Base64 length: 37028
+2025-03-06 09:25:07.519 - Section '4.4.12 AIR IBIT and Ground IBIT' contains 3 images
+2025-03-06 09:25:07.519 -   Image: 2c9c77e0-5871-4b52-9e1f-87458fb8385e, Type: image/jpeg, Size: 2x2, Base64 length: 848
+2025-03-06 09:25:07.520 -   Image: dd925059-0f5f-43e1-9e3a-486fc81fbba1, Type: image/jpeg, Size: 1x2, Base64 length: 844
+2025-03-06 09:25:07.520 -   Image: 464600a0-072c-413c-a9ad-7a791a322485, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.520 - Section '4.4.13 ABIT' contains 1 images
+2025-03-06 09:25:07.520 -   Image: 7e2b3bf2-9f9b-4a01-af02-71503f1ce508, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.520 - Section '4.4.15 Radar Voltage, Current, and Power Verification' contains 1 images
+2025-03-06 09:25:07.520 -   Image: f4572a73-3fc7-409d-a626-a93d651093d5, Type: image/jpeg, Size: 2079x951, Base64 length: 202988
+2025-03-06 09:25:07.521 - Section '4.4.16 MIL-STD-1553 Mux Bus A and B Verification' contains 2 images
+2025-03-06 09:25:07.521 -   Image: ae54fb6c-d4cd-427a-8711-f293b4607608, Type: image/jpeg, Size: 1182x573, Base64 length: 212860
+2025-03-06 09:25:07.522 -   Image: f5f1502f-a461-46ca-87e1-78e2a9f7488e, Type: image/png, Size: 981x144, Base64 length: 10060
+2025-03-06 09:25:07.522 - Section '4.4.17 Radar Operate Condition, and AIM-120 Launch Initiate Verification' contains 5 images
+2025-03-06 09:25:07.523 -   Image: b7cbe9db-35cf-4f1a-bab6-b0c7e44ebc3a, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.523 -   Image: d50f036c-7e8c-43a7-b06d-7085beeb3d46, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.523 -   Image: 2fafbaa2-1677-4dcd-90da-907cc4d673c2, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.524 -   Image: c388eae4-bd6e-468a-ab78-a840d56f5037, Type: image/jpeg, Size: 1x3, Base64 length: 848
+2025-03-06 09:25:07.524 -   Image: 14b161cc-63b6-41b8-81d7-3cc4ce4f9998, Type: image/jpeg, Size: 4x14, Base64 length: 872
+2025-03-06 09:25:07.524 - Section '4.4.18Weight-on-Wheels Command Verification' contains 2 images
+2025-03-06 09:25:07.524 -   Image: eabc3a66-7085-4b75-84db-f396af6d0494, Type: image/jpeg, Size: 1032x439, Base64 length: 124956
+2025-03-06 09:25:07.525 -   Image: b239f007-93d9-4619-a1f1-152a38b95500, Type: image/jpeg, Size: 552x543, Base64 length: 80112
+2025-03-06 09:25:07.525 - Section '4.4.22 Air-to-Ground (A/G) Mode Dwell Setup' contains 4 images
+2025-03-06 09:25:07.525 -   Image: fc23c5f4-6f28-4a4b-b57d-7df6a975b3e2, Type: image/jpeg, Size: 1x1, Base64 length: 840
+2025-03-06 09:25:07.525 -   Image: 2849bb03-1155-432a-9793-6587da6d1104, Type: image/jpeg, Size: 2x2, Base64 length: 856
+2025-03-06 09:25:07.525 -   Image: fea65e45-94c3-45a8-9ea6-a4c065c2b5e3, Type: image/jpeg, Size: 943x715, Base64 length: 154368
+2025-03-06 09:25:07.526 -   Image: 7feb6749-69d9-4555-a4d8-5e62aa653c81, Type: image/jpeg, Size: 567x566, Base64 length: 86792
+2025-03-06 09:25:07.526 - Section '4.4.23 A/G Real Beam Map (RBM) Mode Dwell' contains 5 images
+2025-03-06 09:25:07.526 -   Image: b0fcd6cf-3443-447e-919f-ef3236db606d, Type: image/jpeg, Size: 2x2, Base64 length: 852
+2025-03-06 09:25:07.526 -   Image: 335c4b6e-4e51-49a3-8e74-8395b18dfb0f, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.527 -   Image: d73ffee8-d9af-4b89-96df-308024a1e9a6, Type: image/jpeg, Size: 1x5, Base64 length: 856
+2025-03-06 09:25:07.527 -   Image: 1602506a-b035-47de-aeed-ff1188da7d66, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.527 -   Image: 9f896ef4-fd9d-4628-b2a9-47c4b7f5c35c, Type: image/jpeg, Size: 1x2, Base64 length: 848
+2025-03-06 09:25:07.527 - Section '4.4.24 High-Resolution Map (HRM)' contains 7 images
+2025-03-06 09:25:07.528 -   Image: cfb4c6d2-8bc0-4e7e-b6c8-21fac96a0697, Type: image/jpeg, Size: 1x3, Base64 length: 856
+2025-03-06 09:25:07.528 -   Image: 8934d4c3-a739-427b-b1c7-d4d1657a02e8, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.528 -   Image: dbfa11dc-c5fe-4c9c-b36f-17302b30bd40, Type: image/jpeg, Size: 2x4, Base64 length: 852
+2025-03-06 09:25:07.529 -   Image: 4371c171-eff3-4e26-b477-f4e746ecfe04, Type: image/jpeg, Size: 2x4, Base64 length: 856
+2025-03-06 09:25:07.529 -   Image: 36a70360-d154-4543-953c-2c6a265d5d02, Type: image/jpeg, Size: 7x8, Base64 length: 884
+2025-03-06 09:25:07.530 -   Image: 5e7ba525-133d-44da-845b-2624cbc353a4, Type: image/jpeg, Size: 1x2, Base64 length: 848
+2025-03-06 09:25:07.530 -   Image: 92ab9c15-3f12-4ccc-8e70-be07bb44db67, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.531 - Section '4.4.25 Sea Surface Search (SSS)' contains 3 images
+2025-03-06 09:25:07.531 -   Image: b0ef2392-2d10-4e56-a3f1-e8267c219bcd, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.532 -   Image: e2d35496-9888-4aea-a3b7-6c03bcb5652c, Type: image/jpeg, Size: 567x566, Base64 length: 86792
+2025-03-06 09:25:07.532 -   Image: aa17f8cb-7bb0-45d5-b5d9-62e58c84e1fe, Type: image/jpeg, Size: 5x16, Base64 length: 868
+2025-03-06 09:25:07.533 - Section '4.4.26 A/A Interleave (INTLV) Mode Dwell Setup' contains 1 images
+2025-03-06 09:25:07.533 -   Image: fd6f3cb9-c8b3-4002-951c-23a70cf6ed33, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.533 - Section '4.4.28 RF Spectral Output Tests' contains 15 images
+2025-03-06 09:25:07.534 -   Image: 1632a244-de79-42a9-b822-176cf44e7a33, Type: image/jpeg, Size: 3x4, Base64 length: 888
+2025-03-06 09:25:07.534 -   Image: e4791f3c-e515-453c-8158-06d9e267d735, Type: image/jpeg, Size: 2x2, Base64 length: 852
+2025-03-06 09:25:07.535 -   Image: 0bf90144-6989-4073-b803-d500bdc40a59, Type: image/jpeg, Size: 4x3, Base64 length: 864
+2025-03-06 09:25:07.535 -   Image: 83e885ad-7cc7-47df-a94b-5204d010b819, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.536 -   Image: 5b33fba0-f2b7-41af-891e-8b5f25709ea6, Type: image/jpeg, Size: 4x3, Base64 length: 864
+2025-03-06 09:25:07.536 -   Image: a78e3270-818a-4f94-976c-531a93e68214, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.536 -   Image: c43ae3d2-e082-4726-8c48-7ca91332a169, Type: image/jpeg, Size: 1659x997, Base64 length: 340220
+2025-03-06 09:25:07.537 -   Image: 98abd9c7-d129-481a-901d-1290226626a9, Type: image/jpeg, Size: 2x6, Base64 length: 852
+2025-03-06 09:25:07.537 -   Image: 1d287ece-5222-434f-8797-0d9cfc73d2a0, Type: image/jpeg, Size: 939x674, Base64 length: 184292
+2025-03-06 09:25:07.538 -   Image: ed83d813-8abf-4120-babb-b61e0cfe184e, Type: image/png, Size: 37x38, Base64 length: 3092
+2025-03-06 09:25:07.538 -   Image: 95be5eea-0af7-41b3-a34c-f663a3cf29ad, Type: image/jpeg, Size: 1198x644, Base64 length: 119960
+2025-03-06 09:25:07.539 -   Image: 22593de2-dad2-46cd-b2f7-3e0151c44422, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.539 -   Image: 2d9089fd-39fc-475a-a73f-ba66952f112b, Type: image/jpeg, Size: 3x3, Base64 length: 872
+2025-03-06 09:25:07.540 -   Image: bbffc71c-7e0a-462d-8e3f-a54e4d023820, Type: image/jpeg, Size: 2x2, Base64 length: 852
+2025-03-06 09:25:07.540 -   Image: 43e1033e-ce9c-40c9-8b59-0d02f947695a, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.541 - Section '4.4.29 Low Frequency Out of Band Spur Test' contains 4 images
+2025-03-06 09:25:07.541 -   Image: 78788316-a3c0-4a41-aae7-daca3731cd80, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.542 -   Image: 5cf3ae4c-1833-48ab-bf0c-5f91f83fcc8a, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.542 -   Image: b2b1e609-b47b-4f88-96bd-8f770c4ff5fc, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.542 -   Image: 7d0c09ed-8924-4574-8d21-77240e227835, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.543 - Section '4.4.31 Antenna Transmit Oscillator Signal Analyzer Setup' contains 2 images
+2025-03-06 09:25:07.543 -   Image: f50b0b40-f26d-4134-8e4f-b9d330c112bd, Type: image/png, Size: 2095x1155, Base64 length: 91720
+2025-03-06 09:25:07.543 -   Image: 7be1bc3e-4dcd-406c-a821-6b243ea5dfdf, Type: image/jpeg, Size: 4x4, Base64 length: 884
+2025-03-06 09:25:07.544 - Section '4.4.32 A/A Transmit Oscillator Signal Analyzer Setup' contains 5 images
+2025-03-06 09:25:07.544 -   Image: 3ec4ffda-ee03-45ac-b998-dc3561befd12, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.545 -   Image: 05b32446-d515-4f55-9fa5-ad4031bf7d65, Type: image/jpeg, Size: 2x1, Base64 length: 844
+2025-03-06 09:25:07.545 -   Image: 625ef0f5-e3cb-4080-b2be-a93d4eb84fdb, Type: image/jpeg, Size: 2x3, Base64 length: 860
+2025-03-06 09:25:07.545 -   Image: 03d2fa61-4502-4150-8286-11aa3733a9a1, Type: image/jpeg, Size: 4x7, Base64 length: 872
+2025-03-06 09:25:07.546 -   Image: 06a1ea99-2209-4db4-ad08-40010a5eb8e0, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.546 - Section '4.4.33 A/A Transmit Oscillator Check INLV' contains 9 images
+2025-03-06 09:25:07.547 -   Image: 3bc03d33-eaaa-4305-adeb-d2d2620a37f3, Type: image/jpeg, Size: 552x543, Base64 length: 80112
+2025-03-06 09:25:07.547 -   Image: bbbc13d7-a2d2-4659-88df-27dbed52564a, Type: image/jpeg, Size: 1611x840, Base64 length: 142376
+2025-03-06 09:25:07.548 -   Image: 9ed0dc0a-fcfd-4058-aa52-6b45e65c760c, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.548 -   Image: e9250ffe-265f-424f-a00f-931d081da0dd, Type: image/jpeg, Size: 1438x524, Base64 length: 216468
+2025-03-06 09:25:07.549 -   Image: 55de94d8-351a-45a3-a913-4fe69bb150fb, Type: image/png, Size: 40x38, Base64 length: 3108
+2025-03-06 09:25:07.549 -   Image: c29a20bf-58fd-47bd-bfe5-cc0046e72a8f, Type: image/jpeg, Size: 2x4, Base64 length: 848
+2025-03-06 09:25:07.550 -   Image: 5ee6a667-f9fd-4962-ac32-b675aa91f881, Type: image/jpeg, Size: 6x6, Base64 length: 872
+2025-03-06 09:25:07.550 -   Image: d3ea5fc4-b4a3-4dec-9fb2-c905d32cbf4e, Type: image/jpeg, Size: 3x1, Base64 length: 852
+2025-03-06 09:25:07.550 -   Image: 2b78be24-b959-4881-9509-3b3ac3806d31, Type: image/jpeg, Size: 11x11, Base64 length: 916
+2025-03-06 09:25:07.551 - Section '4.4.34 A/G Transmit Oscillator Check' contains 2 images
+2025-03-06 09:25:07.551 -   Image: 96bfedd0-8499-4ae3-a58b-f819041a981b, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.551 -   Image: 70d07a91-9ee8-477e-90e3-4ad878ec7ca4, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.551 - Section '4.4.35 A/G Transmit Oscillator HRM Test' contains 4 images
+2025-03-06 09:25:07.552 -   Image: ad1bde29-6960-42a8-8b8c-a90d1bdf8a0e, Type: image/png, Size: 350x353, Base64 length: 79004
+2025-03-06 09:25:07.552 -   Image: 8daf40f3-51e1-4fb2-b9fc-d518cd03a160, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.553 -   Image: 7d6d1624-294e-412f-95d6-1364c7d03c82, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.553 -   Image: c5bee9ea-4a1b-4d5f-90cd-00e4fbcf8d93, Type: image/jpeg, Size: 576x578, Base64 length: 90776
+2025-03-06 09:25:07.554 - Section '4.4.36 A/G Transmit Oscillator Sea Surface Search Test' contains 8 images
+2025-03-06 09:25:07.554 -   Image: 71c049f5-8064-48f4-9dd6-0ebad004f821, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.554 -   Image: 99ceb9e0-9f9b-4144-b431-4d5b1d3ba74b, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.555 -   Image: a45a94fe-cea0-44d3-820e-85f1b961afb6, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.555 -   Image: 11a6ec00-65ca-4fd6-ac6b-4436e337e248, Type: image/jpeg, Size: 2x2, Base64 length: 848
+2025-03-06 09:25:07.556 -   Image: c33450d1-df39-4148-9c0b-c064227033bf, Type: image/jpeg, Size: 10x19, Base64 length: 944
+2025-03-06 09:25:07.556 -   Image: 418a4fa5-44ab-41cc-8bbf-7752311bc00a, Type: image/jpeg, Size: 2x2, Base64 length: 852
+2025-03-06 09:25:07.556 -   Image: 3607c8a2-7c07-4247-8dc3-149beb4581a1, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.556 -   Image: 20081d68-92ae-464e-955e-9588c1abf8f8, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.557 - Section '4.4.37 Antenna Receive Oscillator Check' contains 4 images
+2025-03-06 09:25:07.557 -   Image: c8d00b92-a274-4ae5-84dd-8463cf7e7f53, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.557 -   Image: a0937c51-97d7-4b88-92c1-174ea5f84960, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.557 -   Image: 27849808-35c3-4ce8-adc3-7a1e69d9ea67, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.558 -   Image: d91fc238-860f-4c29-8e75-0b79496096cb, Type: image/png, Size: 662x349, Base64 length: 24656
+2025-03-06 09:25:07.558 - Section '4.4.38 A/A Receive Oscillator Check' contains 4 images
+2025-03-06 09:25:07.558 -   Image: 5736fa45-3980-4bf8-8868-dd25ec32e985, Type: image/jpeg, Size: 552x543, Base64 length: 80112
+2025-03-06 09:25:07.558 -   Image: 06221e65-883c-4c7c-98a5-3bdac4ad1b5f, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.559 -   Image: 83556937-f8bb-4e01-a38b-a63ec004fca9, Type: image/jpeg, Size: 1394x592, Base64 length: 101704
+2025-03-06 09:25:07.559 -   Image: 5443a297-3a53-423c-ac5d-3fa9b16e7f60, Type: image/jpeg, Size: 1407x512, Base64 length: 203148
+2025-03-06 09:25:07.559 - Section '4.4.39 A/G Receive Oscillator Check' contains 3 images
+2025-03-06 09:25:07.559 -   Image: 9ca1c160-1410-4daa-8de9-8410dff0f460, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.559 -   Image: 7f876724-229b-4b04-8363-9da3683c65c6, Type: image/jpeg, Size: 9x16, Base64 length: 940
+2025-03-06 09:25:07.560 -   Image: bb952fb7-59fb-4b4b-a446-ab15088b61c7, Type: image/jpeg, Size: 2x3, Base64 length: 864
+2025-03-06 09:25:07.560 - Section '4.4.40 A/G Receive Oscillator HRM Test' contains 3 images
+2025-03-06 09:25:07.560 -   Image: af913be0-0531-41c9-912f-ea17a281c082, Type: image/png, Size: 350x353, Base64 length: 79004
+2025-03-06 09:25:07.561 -   Image: 26c49d7b-7277-4682-a979-53218c749c1c, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.561 -   Image: 37d01d10-d4f3-4e62-97f8-7edf0494ad26, Type: image/jpeg, Size: 690x690, Base64 length: 122660
+2025-03-06 09:25:07.561 - Section '4.4.41 A/G Receive Oscillator Sea Surface Search Test' contains 2 images
+2025-03-06 09:25:07.562 -   Image: 92d0365d-0a24-4bec-8fd4-9ba657082be6, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.562 -   Image: 467ec35a-b01c-4bad-937d-ab45db0c4160, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.562 - Section '4.4.42 CAPRE Load Tactical Suite 8 OFP' contains 2 images
+2025-03-06 09:25:07.562 -   Image: f8ac3b40-7542-465b-9aa0-e3a4f4b81206, Type: image/jpeg, Size: 7x5, Base64 length: 876
+2025-03-06 09:25:07.563 -   Image: 0322417e-e734-45fa-8c87-f89f0e01a771, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.563 - Section '4.4.43 Tactical Suite 8 OFP Test' contains 5 images
+2025-03-06 09:25:07.563 -   Image: 1791e1b7-0581-4fe2-ac32-71ea65b82295, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.564 -   Image: f19f47ea-f253-4e0b-9eb1-fb46c94763cd, Type: image/jpeg, Size: 3x2, Base64 length: 856
+2025-03-06 09:25:07.564 -   Image: 3338c413-a284-44c1-89f9-0c46c469eeb7, Type: image/jpeg, Size: 4x4, Base64 length: 880
+2025-03-06 09:25:07.564 -   Image: 7f991e41-2e85-49a1-9fd9-12cd09a2443f, Type: image/jpeg, Size: 4x4, Base64 length: 880
+2025-03-06 09:25:07.565 -   Image: 3320d4c3-0865-4d60-acef-b0957c072519, Type: image/jpeg, Size: 10x8, Base64 length: 932
+2025-03-06 09:25:07.565 - Section '4.5.1 Power OFF the STE' contains 2 images
+2025-03-06 09:25:07.565 -   Image: bbd9f9b1-f69c-4a08-a190-9740a665344d, Type: image/jpeg, Size: 2x2, Base64 length: 852
+2025-03-06 09:25:07.565 -   Image: 8e2308a3-c3e7-45e6-bc98-30239248e86a, Type: image/jpeg, Size: 99x36, Base64 length: 2636
+2025-03-06 09:25:07.565 - Section '4.5.2To Service the Radar or Replace an LRU' contains 1 images
+2025-03-06 09:25:07.566 -   Image: 1afb3548-2eeb-4d31-a362-6e7978313039, Type: image/jpeg, Size: 1x1, Base64 length: 844
+2025-03-06 09:25:07.566 - Total images in document: 183
+2025-03-06 09:25:07.567 - Starting extraction process
+2025-03-06 09:25:07.567 - Using ExtractSectionToNewDocument method
+2025-03-06 09:25:07.901 - Extraction console output:
+2025-03-06 09:25:07.902 - 
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\APG-82  SIT Repair Overhaul Manual.json
+JSON content length: 12,597,275 characters
+Successfully deserialized 19 top-level sections
+
+Starting section search:
+Path to find: System Description. > SYSTEM INTEGRATION AND Test Station
+
+Searching for: 'System Description.'
+Available sections at this level:
+- 'Introduction.'
+- 'System Description.'
+  Subsections:
+  - 'SYSTEM INTEGRATION AND Test Station'
+- 'Component Descriptions.'
+  Subsections:
+  - 'SIT repair and overhaul'
+- 'THEORY OF OPERATION'
+  Subsections:
+  - 'DEPOT Test Station Assembly'
+- 'TEST OPERATION'
+  Subsections:
+  - 'DEPOT Test Station Assembly'
+- 'MAINTENANCE'
+  Subsections:
+  - 'XXXXXX'
+- 'TEST PREPARATION'
+  Subsections:
+  - '3.1 Test Configurations'
+  - ''
+  - '3.2 System Interconnections'
+  - '3.3 Physical Layout'
+  - '3.4 Auxiliary Equipment'
+  - '3.5 Software and firmware Configuration'
+  - '3.6 Common Test Requirements'
+  - '3.7 Facility Requirements'
+  - '3.8 Danger, Warning, and Caution Messages'
+  - '3.9 Security'
+  - '3.10 Test Data Record'
+  - '3.11 Test Prerequisites – GPC Flash Download'
+- ''
+- '4.0 TEST INSTRUCTIONS'
+  Subsections:
+  - '4.1 General Test Information'
+  - '4.2 Pre-Test Briefing'
+  - '4.3 Test Cases'
+  - '4.4 Test Procedure'
+  - '4.5Test Close Out'
+- 'MAINTENANCE – INSPECTION & CLEANING'
+- 'Perform the following activities on a weekly basis for workstation equipment:'
+- 'Ensure vents, cooling fans, air ducts, plenums, and filters are free of dust accumulation and debris.'
+- 'Inspect workstation for corrosion, cracks, deformation, and loose or missing fasteners.'
+- 'Inspect or test workstation for inoperative lamps and bulbs.'
+- 'Inspect wires, cables, and connectors for chafing or rubbing.'
+- 'Clean displays with a commercial monitor cleaner.'
+  Subsections:
+  - 'Lubrication General Procedures'
+  - 'Lubrication methods'
+  - 'Lubrication procedure'
+- 'Definitions'
+- '5.2 Acronyms and Abbreviations'
+- 'ACRONYMS'
+Found section: 'System Description.'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 1
+
+Searching for: 'SYSTEM INTEGRATION AND Test Station'
+Available sections at this level:
+- 'SYSTEM INTEGRATION AND Test Station'
+Found section: 'SYSTEM INTEGRATION AND Test Station'
+Level: 2
+Content length: 2169 characters
+Tables: 2
+Images: 7
+Subsections: 0
+
+Image details:
+- Image ID: 5b011952-927e-4a07-8c7f-811e8a9783a8
+  Type: image/png
+  Size: 853x583
+  Base64 length: 1279572
+- Image ID: f28bad24-dd6d-4453-a02d-57089b051269
+  Type: image/png
+  Size: 694x429
+  Base64 length: 37232
+- Image ID: f2fa8d53-9469-46ca-877d-479fdd430703
+  Type: image/png
+  Size: 1100x453
+  Base64 length: 104256
+- Image ID: a9099fd4-3d65-4ee1-ba34-e717db96c71c
+  Type: image/png
+  Size: 975x565
+  Base64 length: 117500
+- Image ID: 5f8b2fa5-425b-4493-9a91-2499744e82d6
+  Type: image/png
+  Size: 1171x548
+  Base64 length: 607076
+- Image ID: af9b3c04-7f7b-4606-8569-e3b6241634ad
+  Type: image/png
+  Size: 1126x554
+  Base64 length: 500100
+- Image ID: 54593fbe-6981-41ce-a33b-a28718456c53
+  Type: image/png
+  Size: 1138x586
+  Base64 length: 607860
+Found target section: SYSTEM INTEGRATION AND Test Station
+Number of subsections: 0
+
+Creating document...
+
+Processing section: SYSTEM INTEGRATION AND Test Station
+Processing 2 tables...
+Processing 7 images...
+Original size: 853x583
+Scaled size: 554.4499737532808x378.94992125984254
+Original size: 694x429
+Scaled size: 451.0999475065617x278.84997375328084
+Original size: 1100x453
+Scaled size: 715x294.44997375328086
+Original size: 975x565
+Scaled size: 633.7499212598425x367.2499737532808
+Original size: 1171x548
+Scaled size: 761.1499212598425x356.2
+Original size: 1126x554
+Scaled size: 731.8999475065617x360.0999475065617
+Original size: 1138x586
+Scaled size: 739.6999475065617x380.89994750656166
+
+Saving document...
+Document created successfully at: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\APG-82  SIT Repair Overhaul Manual_extracted.docx
+
+2025-03-06 09:25:07.903 - Extraction completed
+2025-03-06 09:25:09.586 - Analyzing extracted document for images: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\APG-82  SIT Repair Overhaul Manual_extracted.docx
+2025-03-06 09:25:09.598 - Extracted document size: 2,414,238 bytes
+2025-03-06 09:27:11.781 - Extract button clicked
+2025-03-06 09:27:11.784 - Selected 4 section paths
+2025-03-06 09:27:11.785 - Selected path 1: GENERAL INFORMATION > System Description > Ground Datalink Configurations
+2025-03-06 09:27:11.785 - Selected path 2: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Direct LOS Configuration
+2025-03-06 09:27:11.786 - Selected path 3: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Reach Configuration
+2025-03-06 09:27:11.786 - Selected path 4: GENERAL INFORMATION > System Description > Ground Datalink Configurations > BLOS Configuration
+2025-03-06 09:27:16.563 - Output file selected: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR_extracted.docx
+2025-03-06 09:27:16.587 - JSON file path: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+2025-03-06 09:27:16.755 - JSON contains 6 top-level sections
+2025-03-06 09:27:16.756 - Section 'Direct LOS Configuration' contains 1 images
+2025-03-06 09:27:16.756 -   Image: 2de98f62-e101-40e4-8352-3dfedfd3c6bb, Type: image/png, Size: 880x711, Base64 length: 600272
+2025-03-06 09:27:16.757 - Section 'Reach Configuration' contains 1 images
+2025-03-06 09:27:16.758 -   Image: 05f1691c-0003-4dc8-8b20-3a5977d9586b, Type: image/png, Size: 879x707, Base64 length: 665800
+2025-03-06 09:27:16.758 - Section 'BLOS Configuration' contains 1 images
+2025-03-06 09:27:16.759 -   Image: a2b9fbf8-605f-46b3-86af-756198221437, Type: image/png, Size: 880x710, Base64 length: 705684
+2025-03-06 09:27:16.760 - Section 'Multiple Datalink Capabilities' contains 1 images
+2025-03-06 09:27:16.760 -   Image: cc3f9697-edc4-4a31-ae84-7fa8163d8aad, Type: image/png, Size: 657x531, Base64 length: 425740
+2025-03-06 09:27:16.761 - Section 'ASARS-2A Data from Reach Site to Core Site' contains 1 images
+2025-03-06 09:27:16.761 -   Image: 40aab337-6345-4d51-a760-ea9834e4725d, Type: image/jpeg, Size: 967x734, Base64 length: 233600
+2025-03-06 09:27:16.762 - Section 'ASARS-2A Data from RGS to Core Site' contains 1 images
+2025-03-06 09:27:16.762 -   Image: 511c47be-5eb9-42b0-a761-fac85bbeb8be, Type: image/jpeg, Size: 955x739, Base64 length: 188896
+2025-03-06 09:27:16.763 - Section 'APS+ Interfaces' contains 1 images
+2025-03-06 09:27:16.763 -   Image: 6de897fd-c4a2-46b2-8fe8-fb5869e05d60, Type: image/jpeg, Size: 997x734, Base64 length: 281400
+2025-03-06 09:27:16.764 - Section 'MCI Core Site Options' contains 1 images
+2025-03-06 09:27:16.764 -   Image: 0a0d9979-ec11-42dd-a9b7-e7afbb6d0d6a, Type: image/jpeg, Size: 960x720, Base64 length: 106516
+2025-03-06 09:27:16.765 - Section 'MCI Reach Site Options' contains 1 images
+2025-03-06 09:27:16.765 -   Image: 8cdc43a9-1fd5-4cc6-b1dd-f4a7b1540f1f, Type: image/jpeg, Size: 800x412, Base64 length: 76000
+2025-03-06 09:27:16.766 - Section 'SCWS Displays and Controls' contains 8 images
+2025-03-06 09:27:16.766 -   Image: 56e6a173-e4ec-4065-bf52-833f409e3984, Type: image/jpeg, Size: 758x655, Base64 length: 76548
+2025-03-06 09:27:16.766 -   Image: 7370cd57-44cf-45bf-8c7c-b748310421d4, Type: image/jpeg, Size: 758x655, Base64 length: 190328
+2025-03-06 09:27:16.767 -   Image: 70048349-f583-4c55-9650-371fc2fa794a, Type: image/jpeg, Size: 758x655, Base64 length: 101760
+2025-03-06 09:27:16.767 -   Image: 85fc026b-91bf-4a1d-a31c-924f734cccd8, Type: image/jpeg, Size: 758x655, Base64 length: 88336
+2025-03-06 09:27:16.768 -   Image: 68a02f16-721d-4595-8397-e9ea0ead5f89, Type: image/jpeg, Size: 758x655, Base64 length: 84448
+2025-03-06 09:27:16.768 -   Image: 3bdc370b-c4cf-4012-a9aa-a9590df95300, Type: image/jpeg, Size: 758x655, Base64 length: 126152
+2025-03-06 09:27:16.769 -   Image: 2eaa85c8-5ca0-406b-b9dc-c7d896412c7a, Type: image/jpeg, Size: 758x655, Base64 length: 166184
+2025-03-06 09:27:16.769 -   Image: 07eb2e71-e728-4c53-801e-6c6e94b19db0, Type: image/jpeg, Size: 758x655, Base64 length: 182552
+2025-03-06 09:27:16.770 - Section 'SCWS Startup' contains 1 images
+2025-03-06 09:27:16.771 -   Image: 435b00b2-cfc0-4402-ac29-6a7f67986a33, Type: image/jpeg, Size: 960x720, Base64 length: 49588
+2025-03-06 09:27:16.771 - Section 'Scale Image' contains 6 images
+2025-03-06 09:27:16.772 -   Image: 7a283b6b-09ad-4c00-82f4-68d2ddb854c9, Type: image/png, Size: 238x391, Base64 length: 30008
+2025-03-06 09:27:16.772 -   Image: ab61f08a-1739-4bda-bc97-fda9b3891c21, Type: image/png, Size: 448x139, Base64 length: 31896
+2025-03-06 09:27:16.773 -   Image: ad7f5c1b-a7a2-4e22-b416-dbb9c515faf8, Type: image/png, Size: 340x202, Base64 length: 30264
+2025-03-06 09:27:16.773 -   Image: e5d0cfd5-cf52-4c4f-858b-8ca7a5f3d42b, Type: image/png, Size: 486x151, Base64 length: 33496
+2025-03-06 09:27:16.774 -   Image: 483086b4-4bbf-4b12-a0a2-d54462222fff, Type: image/png, Size: 197x146, Base64 length: 20740
+2025-03-06 09:27:16.774 -   Image: 6862e6ea-13c1-416a-bb6d-297a68d34646, Type: image/png, Size: 365x195, Base64 length: 28932
+2025-03-06 09:27:16.775 - Section 'CSP Startup' contains 3 images
+2025-03-06 09:27:16.776 -   Image: cca772ce-8441-40d5-b437-1b074551a8ae, Type: image/jpeg, Size: 1210x720, Base64 length: 393648
+2025-03-06 09:27:16.776 -   Image: 03f325e5-659f-4839-b70d-9d783f13bec5, Type: image/png, Size: 735x166, Base64 length: 138596
+2025-03-06 09:27:16.777 -   Image: 417a71ef-6903-480e-af11-ddc56988770f, Type: image/jpeg, Size: 715x828, Base64 length: 491156
+2025-03-06 09:27:16.777 - Section 'Destination Points' contains 4 images
+2025-03-06 09:27:16.777 -   Image: 2f840a4f-28ab-4776-a050-187f0517b1b7, Type: image/jpeg, Size: 1171x696, Base64 length: 366284
+2025-03-06 09:27:16.778 -   Image: 54828642-8618-4118-be87-ada2bdad2b7e, Type: image/png, Size: 1123x647, Base64 length: 863164
+2025-03-06 09:27:16.779 -   Image: 1702ca12-f916-4c22-846d-8b0b1dd0baf1, Type: image/png, Size: 572x387, Base64 length: 180956
+2025-03-06 09:27:16.779 -   Image: 9e29301a-c6d1-4991-83f6-117788d26f5b, Type: image/x-emf, Size: 636x446, Base64 length: 1510784
+2025-03-06 09:27:16.779 - Section 'Targets' contains 5 images
+2025-03-06 09:27:16.780 -   Image: d86af763-1485-4096-a3ff-1dcafe287a46, Type: image/jpeg, Size: 1235x735, Base64 length: 447980
+2025-03-06 09:27:16.780 -   Image: b72016f8-3e34-4716-85bf-7a6c395d10cf, Type: image/jpeg, Size: 1134x673, Base64 length: 388892
+2025-03-06 09:27:16.781 -   Image: 64f45630-b644-40c3-b37f-e7d146d3db37, Type: image/jpeg, Size: 1166x383, Base64 length: 90136
+2025-03-06 09:27:16.782 -   Image: 9e840291-8796-4210-9cb0-bc139e877176, Type: image/jpeg, Size: 601x199, Base64 length: 53552
+2025-03-06 09:27:16.782 -   Image: 6b5b7ce8-2877-4178-a929-ea2eebc67832, Type: image/jpeg, Size: 1166x383, Base64 length: 94832
+2025-03-06 09:27:16.783 - Section 'Scenes' contains 7 images
+2025-03-06 09:27:16.784 -   Image: 367d4d72-aa12-4f2a-818c-6552f18d8460, Type: image/png, Size: 841x776, Base64 length: 1026240
+2025-03-06 09:27:16.784 -   Image: 33f3258a-91b0-40d0-a263-5f170174ba2d, Type: image/png, Size: 823x819, Base64 length: 1144000
+2025-03-06 09:27:16.785 -   Image: 74dd67a6-dc7e-4e94-b158-99a89fac55f4, Type: image/png, Size: 950x569, Base64 length: 914592
+2025-03-06 09:27:16.786 -   Image: 954f6e07-acc9-48ec-b260-7497446d3fd9, Type: image/jpeg, Size: 1152x309, Base64 length: 155028
+2025-03-06 09:27:16.786 -   Image: f853ee25-ed90-40e8-acfe-dd5f9d0de985, Type: image/png, Size: 653x772, Base64 length: 422584
+2025-03-06 09:27:16.787 -   Image: f706c1c9-963e-4b67-8123-120b1d5734c6, Type: image/png, Size: 655x772, Base64 length: 506728
+2025-03-06 09:27:16.788 -   Image: 8d57bbb5-bdac-41c9-b6f3-687d07d0fab3, Type: image/png, Size: 778x587, Base64 length: 867408
+2025-03-06 09:27:16.789 - Section 'Uplink Sensor and Processing Plan (S&PP)' contains 6 images
+2025-03-06 09:27:16.790 -   Image: e319b7db-8a6b-49d2-b105-a93a23f9d236, Type: image/jpeg, Size: 1210x721, Base64 length: 390212
+2025-03-06 09:27:16.791 -   Image: 6fcef82b-fb23-41e7-943a-a3edc8b1ad2e, Type: image/jpeg, Size: 1217x135, Base64 length: 58380
+2025-03-06 09:27:16.791 -   Image: 3c743f7c-0b8e-4204-b623-e54125a45c21, Type: image/png, Size: 899x687, Base64 length: 479112
+2025-03-06 09:27:16.792 -   Image: 0d72c4e1-7eea-4057-a6c0-877153ddb8ae, Type: image/png, Size: 897x685, Base64 length: 592300
+2025-03-06 09:27:16.792 -   Image: 4b46046e-eb84-47a4-b42c-eb1f4a22c4f4, Type: image/png, Size: 894x681, Base64 length: 475684
+2025-03-06 09:27:16.792 -   Image: 9a50baaf-5c67-4533-89d9-0abf8e287513, Type: image/png, Size: 897x686, Base64 length: 487136
+2025-03-06 09:27:16.793 - Section 'Change Detection' contains 9 images
+2025-03-06 09:27:16.794 -   Image: bc344411-fc6c-4e85-9c08-748aafb31cdb, Type: image/png, Size: 669x684, Base64 length: 546164
+2025-03-06 09:27:16.794 -   Image: 85c463e0-d348-4a59-982f-05f8efe73f67, Type: image/png, Size: 638x686, Base64 length: 515568
+2025-03-06 09:27:16.795 -   Image: bf7d5d5c-ef8a-4956-8c03-41d9a32d81ac, Type: image/png, Size: 1100x288, Base64 length: 248396
+2025-03-06 09:27:16.795 -   Image: 972cf041-1d8b-45e5-bea5-a3f375551a08, Type: image/png, Size: 1099x327, Base64 length: 278252
+2025-03-06 09:27:16.796 -   Image: a5bbf175-1c23-43d3-ae94-6cc476018724, Type: image/png, Size: 818x489, Base64 length: 666724
+2025-03-06 09:27:16.797 -   Image: 79754fb5-013c-47d4-bf9c-6c4ad2530143, Type: image/png, Size: 930x552, Base64 length: 856140
+2025-03-06 09:27:16.797 -   Image: ae87f6c3-87dd-4222-92a1-b3bee8e62d08, Type: image/png, Size: 1104x290, Base64 length: 271576
+2025-03-06 09:27:16.798 -   Image: d0f24d58-9ff4-424e-b885-e63396465aa3, Type: image/png, Size: 1153x685, Base64 length: 1301356
+2025-03-06 09:27:16.798 -   Image: 6a0f023d-39db-489a-89c4-1368c601c38b, Type: image/png, Size: 637x684, Base64 length: 516620
+2025-03-06 09:27:16.799 - Section 'Multiple Missions' contains 3 images
+2025-03-06 09:27:16.799 -   Image: 9db31c25-44e0-41c3-9b45-b7382594fe49, Type: image/png, Size: 829x497, Base64 length: 615108
+2025-03-06 09:27:16.800 -   Image: 6db33bcc-6579-49a0-86c3-7251b02904c7, Type: image/jpeg, Size: 315x309, Base64 length: 33876
+2025-03-06 09:27:16.800 -   Image: 4173f1fb-38f7-4b95-a5c8-1eca77ae2ff4, Type: image/jpeg, Size: 729x425, Base64 length: 88380
+2025-03-06 09:27:16.801 - Total images in document: 61
+2025-03-06 09:27:16.801 - Starting extraction process
+2025-03-06 09:27:16.801 - Processing multiple sections individually
+2025-03-06 09:27:16.818 - Extracting section 1 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+2025-03-06 09:27:17.077 - Extracting section 2 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+2025-03-06 09:27:17.256 - Extracting section 3 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+2025-03-06 09:27:17.441 - Extracting section 4 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+2025-03-06 09:27:17.614 - Copying first temp file to output location
+2025-03-06 09:27:17.618 - Extraction console output:
+2025-03-06 09:27:17.618 - 
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+Found target section: Ground Datalink Configurations
+Number of subsections: 3
+
+Creating document...
+
+Processing section: Ground Datalink Configurations
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Direct LOS Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Direct LOS Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'Direct LOS Configuration'
+Level: 4
+Content length: 567 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 2de98f62-e101-40e4-8352-3dfedfd3c6bb
+  Type: image/png
+  Size: 880x711
+  Base64 length: 600272
+Found target section: Direct LOS Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > Reach Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Reach Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'Reach Configuration'
+Level: 4
+Content length: 1019 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: 05f1691c-0003-4dc8-8b20-3a5977d9586b
+  Type: image/png
+  Size: 879x707
+  Base64 length: 665800
+Found target section: Reach Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR.json
+JSON content length: 25,625,588 characters
+Successfully deserialized 6 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Ground Datalink Configurations > BLOS Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+  - 'SCWS Operator Instructions'
+  - 'CSP Operator Instructions'
+- 'MAINTENANCE INSTRUCTIONS'
+  Subsections:
+  - 'Software Maintenance'
+  - 'Operational Checkout'
+  - 'Troubleshooting'
+- 'SUPPORTING INFORMATION'
+  Subsections:
+  - 'Reference Data'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Ground Datalink Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Ground Datalink Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Ground Datalink Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Ground Datalink Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'BLOS Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'BLOS Configuration'
+Level: 4
+Content length: 1001 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: a2b9fbf8-605f-46b3-86af-756198221437
+  Type: image/png
+  Size: 880x710
+  Base64 length: 705684
+Found target section: BLOS Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+
+2025-03-06 09:27:17.619 - Extraction completed
+2025-03-06 09:27:18.990 - Analyzing extracted document for images: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\40218-499 APS Plus OMM 35-IPR_extracted.docx
+2025-03-06 09:27:18.991 - Extracted document size: 1,483,282 bytes

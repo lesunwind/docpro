@@ -1,0 +1,480 @@
+2025-02-28 17:24:59.706 - Logging initialized
+2025-02-28 17:24:59.710 - Application started
+2025-02-28 17:25:32.877 - Extract button clicked
+2025-02-28 17:25:32.880 - Selected 4 section paths
+2025-02-28 17:25:32.881 - Selected path 1: GENERAL INFORMATION > System Description > Configurations
+2025-02-28 17:25:32.882 - Selected path 2: GENERAL INFORMATION > System Description > Configurations > Direct LOS Configuration
+2025-02-28 17:25:32.882 - Selected path 3: GENERAL INFORMATION > System Description > Configurations > Reach Configuration
+2025-02-28 17:25:32.883 - Selected path 4: GENERAL INFORMATION > System Description > Configurations > BLOS Configuration
+2025-02-28 17:25:41.861 - Output file selected: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\config2.docx
+2025-02-28 17:25:41.867 - JSON file path: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+2025-02-28 17:25:41.931 - JSON contains 4 top-level sections
+2025-02-28 17:25:41.932 - Section 'Direct LOS Configuration' contains 1 images
+2025-02-28 17:25:41.933 -   Image: e52a5c8e-18a5-41fc-af91-cac0aaad7f58, Type: image/png, Size: 880x711, Base64 length: 600272
+2025-02-28 17:25:41.933 - Section 'Reach Configuration' contains 1 images
+2025-02-28 17:25:41.933 -   Image: b393a485-d807-4e83-9e4f-0be7c93cf938, Type: image/png, Size: 879x707, Base64 length: 665800
+2025-02-28 17:25:41.934 - Section 'BLOS Configuration' contains 1 images
+2025-02-28 17:25:41.934 -   Image: f436d538-d6dd-40e6-83fb-6bf1861d0676, Type: image/png, Size: 880x710, Base64 length: 705684
+2025-02-28 17:25:41.934 - Section 'Multiple Datalink Capabilities' contains 1 images
+2025-02-28 17:25:41.935 -   Image: 4e2e08ae-9f31-41e9-a5fc-8aeecd35005a, Type: image/png, Size: 657x531, Base64 length: 425740
+2025-02-28 17:25:41.935 - Section 'ASARS-2A Data from Reach Site to Core Site' contains 1 images
+2025-02-28 17:25:41.935 -   Image: 2520278b-b4f4-4ec3-967a-18cb347199ba, Type: image/jpeg, Size: 967x734, Base64 length: 233600
+2025-02-28 17:25:41.935 - Section 'ASARS-2A Data from RGS to Core Site' contains 1 images
+2025-02-28 17:25:41.935 -   Image: 7b0cf126-1fc8-42e8-b77d-1e39d1e62b43, Type: image/jpeg, Size: 955x739, Base64 length: 188896
+2025-02-28 17:25:41.936 - Section 'APS+ Interfaces' contains 1 images
+2025-02-28 17:25:41.936 -   Image: f687cdcb-e09c-4497-a929-0fd958cec353, Type: image/jpeg, Size: 997x734, Base64 length: 281400
+2025-02-28 17:25:41.936 - Section 'MCI Core Site Options' contains 1 images
+2025-02-28 17:25:41.937 -   Image: f766d2b6-fab2-4025-983f-20533cd306bb, Type: image/jpeg, Size: 960x720, Base64 length: 106516
+2025-02-28 17:25:41.937 - Section 'MCI Reach Site Options' contains 1 images
+2025-02-28 17:25:41.937 -   Image: b47f81bc-cb80-4e88-957b-365e7131fe5d, Type: image/jpeg, Size: 800x412, Base64 length: 76000
+2025-02-28 17:25:41.937 - Total images in document: 9
+2025-02-28 17:25:41.938 - Starting extraction process
+2025-02-28 17:25:41.938 - Processing multiple sections individually
+2025-02-28 17:25:41.963 - Extracting section 1 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+2025-02-28 17:25:42.178 - Extracting section 2 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+2025-02-28 17:25:42.247 - Extracting section 3 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+2025-02-28 17:25:42.307 - Extracting section 4 to temp file: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+2025-02-28 17:25:42.397 - Copying first temp file to output location
+2025-02-28 17:25:42.400 - Extraction console output:
+2025-02-28 17:25:42.401 - 
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Configurations
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+Found target section: Configurations
+Number of subsections: 3
+
+Creating document...
+
+Processing section: Configurations
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_0.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Configurations > Direct LOS Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Direct LOS Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'Direct LOS Configuration'
+Level: 4
+Content length: 567 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: e52a5c8e-18a5-41fc-af91-cac0aaad7f58
+  Type: image/png
+  Size: 880x711
+  Base64 length: 600272
+Found target section: Direct LOS Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Direct LOS Configuration
+Processing 1 images...
+Original size: 880x711
+Scaled size: 572x462.14992125984253
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_1.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Configurations > Reach Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'Reach Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'Reach Configuration'
+Level: 4
+Content length: 1019 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: b393a485-d807-4e83-9e4f-0be7c93cf938
+  Type: image/png
+  Size: 879x707
+  Base64 length: 665800
+Found target section: Reach Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: Reach Configuration
+Processing 1 images...
+Original size: 879x707
+Scaled size: 571.3499212598425x459.5499212598425
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_2.docx
+
+Starting section extraction with detailed logging...
+
+Reading JSON from: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\document_structure.json
+JSON content length: 3,641,081 characters
+Successfully deserialized 4 top-level sections
+
+Starting section search:
+Path to find: GENERAL INFORMATION > System Description > Configurations > BLOS Configuration
+
+Searching for: 'GENERAL INFORMATION'
+Available sections at this level:
+- ''
+- 'GENERAL INFORMATION'
+  Subsections:
+  - 'Overview'
+  - 'System Description'
+- ''
+- 'OPERATOR INSTRUCTIONS'
+  Subsections:
+  - 'MCI Operator Instructions'
+Found section: 'GENERAL INFORMATION'
+Level: 1
+Content length: 0 characters
+Tables: 0
+Images: 0
+Subsections: 2
+
+Searching for: 'System Description'
+Available sections at this level:
+- 'Overview'
+  Subsections:
+  - 'Scope'
+  - 'Abbreviations and Acronyms'
+  - 'Referenced Documents'
+- 'System Description'
+  Subsections:
+  - 'Operating Sites'
+  - 'Configurations'
+  - 'Multiple Datalink Capabilities'
+  - 'Mission Threads'
+  - 'APS+ Description'
+  - 'APS+ Concept of Operations'
+Found section: 'System Description'
+Level: 2
+Content length: 1361 characters
+Tables: 0
+Images: 0
+Subsections: 6
+
+Searching for: 'Configurations'
+Available sections at this level:
+- 'Operating Sites'
+- 'Configurations'
+  Subsections:
+  - 'Direct LOS Configuration'
+  - 'Reach Configuration'
+  - 'BLOS Configuration'
+- 'Multiple Datalink Capabilities'
+- 'Mission Threads'
+  Subsections:
+  - 'ASARS-2A Data from Reach Site to Core Site'
+  - 'ASARS-2A Data from RGS to Core Site'
+- 'APS+ Description'
+  Subsections:
+  - 'APS+ Software Environment'
+  - 'APS+ Interfaces'
+  - 'Mission Control Interface (MCI)'
+  - 'Sensor Control Workstation (SCWS)'
+  - 'Common Sensor Planner (CSP)'
+- 'APS+ Concept of Operations'
+  Subsections:
+  - 'Pre-Mission Operation'
+  - 'Live Mission Operation'
+  - 'Off-Tether Operation'
+Found section: 'Configurations'
+Level: 3
+Content length: 243 characters
+Tables: 0
+Images: 0
+Subsections: 3
+
+Searching for: 'BLOS Configuration'
+Available sections at this level:
+- 'Direct LOS Configuration'
+- 'Reach Configuration'
+- 'BLOS Configuration'
+Found section: 'BLOS Configuration'
+Level: 4
+Content length: 1001 characters
+Tables: 0
+Images: 1
+Subsections: 0
+
+Image details:
+- Image ID: f436d538-d6dd-40e6-83fb-6bf1861d0676
+  Type: image/png
+  Size: 880x710
+  Base64 length: 705684
+Found target section: BLOS Configuration
+Number of subsections: 0
+
+Creating document...
+
+Processing section: BLOS Configuration
+Processing 1 images...
+Original size: 880x710
+Scaled size: 572x461.4999475065617
+
+Saving document...
+Document created successfully at: C:\Users\E21148888\AppData\Local\Temp\temp_section_3.docx
+
+2025-02-28 17:25:42.402 - Extraction completed
+2025-02-28 17:25:44.068 - Analyzing extracted document for images: C:\programs\AIML\TechManualAutomation\dev\DocumentProcessor\src\DocumentProcessor.UI\bin\Debug\net8.0-windows\output\config2.docx
+2025-02-28 17:25:44.070 - Extracted document size: 1,483,279 bytes
