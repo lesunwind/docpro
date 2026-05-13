@@ -11,24 +11,6 @@ builder.Services.AddSingleton<IDocumentProcessingService, DocumentProcessingServ
 
 var app = builder.Build();
 
-app.MapGet("/", () => Results.Ok(new
-{
-    service = "DocumentProcessor.Api",
-    status = "running",
-    endpoints = new[]
-    {
-        "GET /",
-        "GET /health",
-        "POST /api/v1/parse (multipart/form-data, field name: file)"
-    }
-}));
-
-app.MapGet("/health", () => Results.Ok(new
-{
-    status = "healthy",
-    utc = DateTime.UtcNow
-}));
-
 app.MapPost("/api/v1/parse", async (IFormFile file, IDocumentProcessingService service, CancellationToken ct) =>
 {
     if (file == null || file.Length == 0)
