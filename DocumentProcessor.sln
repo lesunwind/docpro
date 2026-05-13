@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentProcessor.Tests", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentProcessor.UI", "src\DocumentProcessor.UI\DocumentProcessor.UI.csproj", "{6089C91B-1384-4D03-A896-943F04F4E45D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentProcessor.Api", "src\DocumentProcessor.Api\DocumentProcessor.Api.csproj", "{A1B2C3D4-E5F6-47A8-9123-ABCDEF123456}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{6089C91B-1384-4D03-A896-943F04F4E45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6089C91B-1384-4D03-A896-943F04F4E45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6089C91B-1384-4D03-A896-943F04F4E45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B2C3D4-E5F6-47A8-9123-ABCDEF123456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-E5F6-47A8-9123-ABCDEF123456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-E5F6-47A8-9123-ABCDEF123456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-E5F6-47A8-9123-ABCDEF123456}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,5 +52,6 @@ Global
 		{C22BC794-56D2-4058-912C-9F5AE258DDA0} = {DF6ABB5B-1748-4B3B-92EB-2A563CC76C31}
 		{842A8CBB-F5BC-48BD-9660-B7E672F3C8B4} = {3A181ED2-EE3A-43D1-9D0F-9607F417D5E8}
 		{6089C91B-1384-4D03-A896-943F04F4E45D} = {DF6ABB5B-1748-4B3B-92EB-2A563CC76C31}
+		{A1B2C3D4-E5F6-47A8-9123-ABCDEF123456} = {DF6ABB5B-1748-4B3B-92EB-2A563CC76C31}
 	EndGlobalSection
 EndGlobal
